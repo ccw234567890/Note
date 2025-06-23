@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RowA、ColA、NulA 和 rankA.md",
+                "file": "Q3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RowA、ColA、NulA 和 rankA"
+              "title": "Q3"
             }
           }
         ]
@@ -176,12 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12e724638a064013",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "线代作业总结.md",
-    "RowA、ColA、NulA 和 rankA.md",
-    "Q3.md",
     "Linear Algebra.md",
+    "Q3.md",
+    "RowA、ColA、NulA 和 rankA.md",
+    "线代作业总结.md",
     "Untitled.canvas",
     "Untitled.md",
     "CCW/新建文件夹",
