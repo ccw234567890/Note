@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24年好题.md",
+                "file": "23年好题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24年好题"
+              "title": "23年好题"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "23年好题.md",
     "24年好题.md",
+    "23年好题.md",
     "行列式计算.md",
     "子空间.md",
     "线代Quiz.md",
