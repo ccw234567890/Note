@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q3.md",
+                "file": "线代Quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q3"
+              "title": "线代Quiz"
             }
           }
         ]
@@ -176,12 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "c32e133713e6e670",
   "lastOpenFiles": [
+    "RowA、ColA、NulA 和 rankA.md",
+    "线代Quiz.md",
+    "线代作业总结.md",
     "Linear Algebra.md",
     "Q3.md",
-    "RowA、ColA、NulA 和 rankA.md",
-    "线代作业总结.md",
     "Untitled.canvas",
     "Untitled.md",
     "CCW/新建文件夹",
