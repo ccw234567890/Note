@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "正交对角化，正交矩阵，对角矩阵，二次型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "正交对角化，正交矩阵，对角矩阵，二次型"
             }
           }
         ]
@@ -179,7 +179,7 @@
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
     "正交补.md",
-    "未命名.md",
+    "正交对角化，正交矩阵，对角矩阵，二次型.md",
     "子空间.md",
     "线代Quiz.md",
     "RowA、ColA、NulA 和 rankA.md",
