@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "子空间.md",
+                "file": "正交补.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "子空间"
+              "title": "正交补"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "线代Quiz.md",
     "子空间.md",
+    "正交补.md",
+    "线代Quiz.md",
     "RowA、ColA、NulA 和 rankA.md",
     "线代作业总结.md",
     "Linear Algebra.md",
