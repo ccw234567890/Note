@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正定矩阵.md",
-                "mode": "preview",
+                "file": "单位化的情况.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正定矩阵"
+              "title": "单位化的情况"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "正交对角化，正交矩阵，对角矩阵，二次型，对称矩阵，正交矩阵.md",
     "正定矩阵.md",
+    "单位化的情况.md",
+    "正交对角化，正交矩阵，对角矩阵，二次型，对称矩阵，正交矩阵.md",
     "正交补.md",
     "子空间.md",
     "线代Quiz.md",
