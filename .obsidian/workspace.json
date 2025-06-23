@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra.md",
+                "file": "线代作业总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra"
+              "title": "线代作业总结"
             }
           }
         ]
@@ -178,9 +178,10 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
+    "Linear Algebra.md",
+    "线代作业总结.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Linear Algebra.md",
     "CCW/新建文件夹",
     "2025-06-23.md"
   ]
