@@ -11,17 +11,14 @@
             "id": "c32e133713e6e670",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -260,
-                  "y": -253,
-                  "zoom": -0.19639721280350367
-                }
+                "file": "Linear Algebra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Linear Algebra"
             }
           }
         ]
@@ -179,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "c32e133713e6e670",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Untitled.md",
     "Linear Algebra.md",
-    "Untitled.canvas",
     "CCW/新建文件夹",
     "2025-06-23.md"
   ]
