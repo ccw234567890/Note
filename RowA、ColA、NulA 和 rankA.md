@@ -35,3 +35,12 @@
     1.  将矩阵 $A$ 进行行化简，得到其阶梯形矩阵 。
     2.  阶梯形矩阵中主元（pivot）位置的个数就是矩阵 $A$ 的秩 。
     3.  秩与零度定理 (Rank Theorem)：对于一个 $m \times n$ 维矩阵 $A$，有 $rank A + \text{dim Nul } A = n$ (列数) 。这个定理可以用于相互推导秩和零空间的维数。
+
+
+矩阵的秩（rank A）与 RowA（行空间）和 ColA（列空间）的维数是相等的。
+
+具体来说：
+* 矩阵 $A$ 的秩 ($rank A$) 等于其列空间的维数 ($dim \text{Col}A$)。
+* 矩阵 $A$ 的秩 ($rank A$) 也等于其行空间的维数 ($dim \text{Row}A$)。
+
+这意味着 $rank A = dim \text{Col}A = dim \text{Row}A$。
