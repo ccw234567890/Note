@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CCW/Untitled.canvas",
+                "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -260,
+                  "y": -253,
+                  "zoom": -0.19639721280350367
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -181,9 +181,9 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "Untitled.md",
     "Linear Algebra.md",
     "Untitled.canvas",
-    "Untitled.md",
     "CCW/新建文件夹",
     "2025-06-23.md"
   ]
