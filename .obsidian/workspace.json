@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作业中的证明和找规律.md",
+                "file": "证明一组列向量构成Rn的基.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "作业中的证明和找规律"
+              "title": "证明一组列向量构成Rn的基"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "子空间维度与空间维度相等则子空间等于空间.md",
     "作业中的证明和找规律.md",
+    "证明一组列向量构成Rn的基.md",
+    "子空间维度与空间维度相等则子空间等于空间.md",
     "分块矩阵的分解.md",
     "24年好题.md",
     "找规律类题目归类总结.md",
