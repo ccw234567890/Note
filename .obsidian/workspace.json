@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证明题归类总结.md",
-                "mode": "source",
+                "file": "找规律类题目归类总结.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "证明题归类总结"
+              "title": "找规律类题目归类总结"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "21年好题.md",
     "证明题归类总结.md",
+    "找规律类题目归类总结.md",
+    "21年好题.md",
     "22年好题.md",
     "23年好题.md",
     "LA",
