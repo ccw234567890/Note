@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23年好题.md",
+                "file": "22年好题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23年好题"
+              "title": "22年好题"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "24年好题.md",
     "23年好题.md",
+    "LA",
+    "24年好题.md",
     "行列式计算.md",
     "子空间.md",
     "线代Quiz.md",
@@ -197,6 +198,6 @@
     "Untitled.canvas",
     "Untitled.md",
     "CCW/新建文件夹",
-    "2025-06-23.md"
+    "22年好题.md"
   ]
 }
