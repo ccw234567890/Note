@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21年好题.md",
+                "file": "证明题归类总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21年好题"
+              "title": "证明题归类总结"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "22年好题.md",
     "21年好题.md",
+    "证明题归类总结.md",
+    "22年好题.md",
     "23年好题.md",
     "LA",
     "24年好题.md",
