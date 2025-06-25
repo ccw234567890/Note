@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "绪  论  担当复兴大任 成就时代新人.md",
+                "file": "绪 论  担当复兴大任 成就时代新人.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绪  论  担当复兴大任 成就时代新人"
+              "title": "绪 论  担当复兴大任 成就时代新人"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
+    "2025-06-25.md",
+    "绪 论  担当复兴大任 成就时代新人.md",
     "未命名.md",
-    "绪  论  担当复兴大任 成就时代新人.md",
     "思政大纲.md",
     "21年好题.md",
     "LA/作业中的证明和找规律.md",
@@ -203,7 +204,6 @@
     "LA/Linear Algebra.md",
     "LA/24年好题.md",
     "LA/23年好题.md",
-    "LA/22年好题.md",
     "LA",
     "Pasted image 20250623205543.png",
     "Untitled.canvas",
