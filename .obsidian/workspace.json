@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大物实验 I.md",
+                "file": "误差.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大物实验 I"
+              "title": "误差"
             }
           }
         ]
@@ -178,9 +178,10 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
+    "大物实验 I.md",
+    "误差.md",
     "不确定度.md",
     "未命名.md",
-    "大物实验 I.md",
     "第六章 学习法治思想 提升法治素养.md",
     "第五章 遵守道德规范  锤炼道德品格.md",
     "第四章 明确价值要求 践行价值准则.md",
@@ -203,7 +204,6 @@
     "LA/因式分解.md",
     "LA/行列式计算.md",
     "LA/线代作业总结.md",
-    "LA/线代Quiz.md",
     "LA",
     "Pasted image 20250623205543.png",
     "Untitled.canvas",
