@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "误差.md",
-                "mode": "preview",
+                "file": "不确定度.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "误差"
+              "title": "不确定度"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
-    "大物实验 I.md",
     "误差.md",
+    "大物实验 I.md",
     "不确定度.md",
     "未命名.md",
     "第六章 学习法治思想 提升法治素养.md",
