@@ -4,12 +4,15 @@
 
 1.Measurement and Error
 
-测量的分类：① 直接测量；② 间接测量
+测量的分类：① 直接测量；② 间接测量。
 
-
-
-
+误差的分类：① 系统误差；② 偶然误差。
 
 2.Measurement uncertainty
+
+不确定度的分类：① A类不确定度；② B类不确定度。
+
+
+
 3.Significant figures
 4.Data processing
