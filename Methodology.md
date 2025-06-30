@@ -18,14 +18,14 @@
 
 #### ✅ **高级词汇备忘录 (Cheat Sheet)**
 
-| 简单词 | **可替换的高级词** |
-| :--- | :--- |
-| Parts | **Components, Units, Apparatus, System** |
-| Make | **Assemble, Construct, Create, Form** |
-| Use | **Utilize, Employ, Require** |
-| For | **For the purpose of, To ensure, To investigate** |
-| Main | **Core, Primary, Essential, Key** |
-| With | **Fitted with, Equipped with, Affixed to** |
+| 简单词   | **可替换的高级词**                                       |
+| :---- | :------------------------------------------------ |
+| Parts | **Components, Units, Apparatus, System**          |
+| Make  | **Assemble, Construct, Create, Form**             |
+| Use   | **Utilize, Employ, Require**                      |
+| For   | **For the purpose of, To ensure, To investigate** |
+| Main  | **Core, Primary, Essential, Key**                 |
+| With  | **Fitted with, Equipped with, Affixed to**        |
 
 #### ✅ **“印象分”句式模板 (Sentence Templates)**
 
