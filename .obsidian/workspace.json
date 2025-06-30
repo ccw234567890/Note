@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "Methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "Methodology"
             }
           }
         ]
@@ -179,7 +179,7 @@
   "active": "c32e133713e6e670",
   "lastOpenFiles": [
     "未命名 1.md",
-    "未命名 2.md",
+    "Methodology.md",
     "有效数字.md",
     "误差.md",
     "不确定度.md",
