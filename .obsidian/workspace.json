@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "337d3a7cba5470b4",
+        "id": "d109d843cd91415a",
         "type": "tabs",
         "children": [
           {
-            "id": "97e89715ec6d5359",
+            "id": "452237c40d37c75b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/enumerate函数速查表.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "enumerate函数速查表"
+              "title": "新标签页"
             }
           }
         ]
@@ -176,36 +172,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97e89715ec6d5359",
+  "active": "12e724638a064013",
   "lastOpenFiles": [
-    "大物实验 I/误差.md",
+    "未命名.md",
+    "LA/作业中的证明和找规律.md",
+    "LA/正交对角化，正交矩阵，对角矩阵，二次型，对称矩阵，正交矩阵.md",
+    "LA/因式分解.md",
+    "IELTS/雅思口语资源整合.md",
+    "IELTS/雅思听力 I.md",
+    "Python/🐍 Python 数据类型创建 - 终极速查表.md",
+    "LA/行列式计算.md",
+    "LA/线代Quiz.md",
+    "LA/线代作业总结.md",
+    "LA/22年好题.md",
+    "LA/23年好题.md",
     "大物实验 I/例题.md",
-    "大物实验 I/不确定度.md",
+    "屎味巧克力/第四章 明确价值要求 践行价值准则.md",
     "屎味巧克力/第三章 继承优良传统 弘扬中国精神.md",
+    "屎味巧克力/第二章 追求远大理想 坚定崇高信念.md",
+    "IELTS/口语资料库.md",
+    "Python/enumerate函数速查表.md",
+    "大物实验 I/误差.md",
+    "大物实验 I/不确定度.md",
     "屎味巧克力/第五章 遵守道德规范  锤炼道德品格.md",
     "屎味巧克力/第一章  领悟人生真谛 把握人生方向.md",
-    "屎味巧克力/第四章 明确价值要求 践行价值准则.md",
-    "屎味巧克力/第二章 追求远大理想 坚定崇高信念.md",
     "屎味巧克力/第六章 学习法治思想 提升法治素养.md",
     "IELTS/雅思口语 I.md",
-    "IELTS/雅思听力 I.md",
-    "Python/enumerate函数速查表.md",
-    "Python/🐍 Python 数据类型创建 - 终极速查表.md",
     "Python/序列、列表、元组、字典和集合的区别.md",
     "Python",
     "雅思口语 I.md",
     "IELTS",
-    "雅思听力 I.md",
-    "Methodology.md",
-    "例题.md",
-    "大物实验 I/未命名 1.md",
-    "未命名 1.md",
-    "1.2.md",
-    "大物实验 I/1.2.md",
-    "大物实验 I/有效数字.md",
-    "大物实验 I/仪器误差的确定.md",
-    "不确定度.md",
-    "大物实验 I/大物实验 I.md",
     "大物实验 I",
     "新建文件夹",
     "LA",
