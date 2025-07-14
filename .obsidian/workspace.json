@@ -11,10 +11,14 @@
             "id": "452237c40d37c75b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python/正则表达式.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "正则表达式"
             }
           }
         ]
@@ -172,15 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12e724638a064013",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "未命名.md",
+    "Python/数据类型创建.md",
+    "Python/enumerate函数速查表.md",
+    "Python/正则表达式.md",
     "LA/作业中的证明和找规律.md",
     "LA/正交对角化，正交矩阵，对角矩阵，二次型，对称矩阵，正交矩阵.md",
     "LA/因式分解.md",
     "IELTS/雅思口语资源整合.md",
     "IELTS/雅思听力 I.md",
-    "Python/🐍 Python 数据类型创建 - 终极速查表.md",
     "LA/行列式计算.md",
     "LA/线代Quiz.md",
     "LA/线代作业总结.md",
@@ -191,7 +196,6 @@
     "屎味巧克力/第三章 继承优良传统 弘扬中国精神.md",
     "屎味巧克力/第二章 追求远大理想 坚定崇高信念.md",
     "IELTS/口语资料库.md",
-    "Python/enumerate函数速查表.md",
     "大物实验 I/误差.md",
     "大物实验 I/不确定度.md",
     "屎味巧克力/第五章 遵守道德规范  锤炼道德品格.md",
