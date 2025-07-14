@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/自定义类与对象.md",
+                "file": "IELTS/雅思听力 Ⅰ.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自定义类与对象"
+              "title": "雅思听力 Ⅰ"
             }
           }
         ]
@@ -176,17 +176,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "Python/正则表达式.md",
+    "IELTS/雅思口语 Ⅰ.md",
+    "IELTS/口语资料库.md",
+    "屎味巧克力/第一章  领悟人生真谛 把握人生方向.md",
+    "屎味巧克力/思政大纲.md",
+    "屎味巧克力/绪论  担当复兴大任 成就时代新人.md",
     "Python/自定义类与对象.md",
+    "Python/正则表达式.md",
     "Python/数据类型创建.md",
     "Python/enumerate函数速查表.md",
     "LA/作业中的证明和找规律.md",
     "LA/正交对角化，正交矩阵，对角矩阵，二次型，对称矩阵，正交矩阵.md",
     "LA/因式分解.md",
     "IELTS/雅思口语资源整合.md",
-    "IELTS/雅思听力 I.md",
+    "IELTS/雅思听力 Ⅰ.md",
     "LA/行列式计算.md",
     "LA/线代Quiz.md",
     "LA/线代作业总结.md",
@@ -196,14 +201,9 @@
     "屎味巧克力/第四章 明确价值要求 践行价值准则.md",
     "屎味巧克力/第三章 继承优良传统 弘扬中国精神.md",
     "屎味巧克力/第二章 追求远大理想 坚定崇高信念.md",
-    "IELTS/口语资料库.md",
     "大物实验 I/误差.md",
     "大物实验 I/不确定度.md",
     "屎味巧克力/第五章 遵守道德规范  锤炼道德品格.md",
-    "屎味巧克力/第一章  领悟人生真谛 把握人生方向.md",
-    "屎味巧克力/第六章 学习法治思想 提升法治素养.md",
-    "IELTS/雅思口语 I.md",
-    "Python/序列、列表、元组、字典和集合的区别.md",
     "Python",
     "IELTS",
     "大物实验 I",
