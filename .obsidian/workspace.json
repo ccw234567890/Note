@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/动态图.md",
-                "mode": "preview",
+                "file": "Pytorch/CPU&GPU.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动态图"
+              "title": "CPU&GPU"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "IELTS/雅思口语 Ⅱ.md",
+    "Pytorch/什么是pytorch.md",
+    "Pytorch/CPU&GPU.md",
     "Pytorch/动态图.md",
+    "IELTS/雅思口语 Ⅱ.md",
     "Pytorch",
     "IELTS/雅思听力 Ⅱ.md",
     "2025-07-20.md",
@@ -205,8 +207,6 @@
     "Python/datetime模块.md",
     "Python/异常Exception.md",
     "Python/封装、继承、多态（面向对象）.md",
-    "Python/第三方模块安装、卸载、升级.md",
-    "Python/HTTP与API.md",
     "Images/Pasted image 20250714224301.png",
     "Images/Pasted image 20250714224004.png",
     "Images/Pasted image 20250714223913.png",
