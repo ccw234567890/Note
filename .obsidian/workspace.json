@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/张量.md",
+                "file": "Pytorch/创建Tensor.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "张量"
+              "title": "创建Tensor"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "Pytorch/神经网络输入格式.md",
+    "Pytorch/创建Tensor.md",
     "Pytorch/张量.md",
+    "Pytorch/神经网络输入格式.md",
     "Pytorch/识别手写数字.md",
     "Pytorch/神经网络核心概念.md",
     "Pytorch/线性变换 y = Wx + b.md",
@@ -215,7 +216,6 @@
     "Python/GUI 与 wxPython.md",
     "Python/Python 并发编程.md",
     "Python/Python 综合实战.md",
-    "Python/wxPython GUI 编程.md",
     "Images",
     "Python",
     "IELTS",
