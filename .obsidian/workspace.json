@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/CPU&GPU.md",
+                "file": "镜像源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU&GPU"
+              "title": "镜像源"
             }
           }
         ]
@@ -176,10 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "Pytorch/什么是pytorch.md",
+    "Pytorch/PyTorch GPU 环境安装.md",
+    "镜像源.md",
+    "Images/屏幕截图 2025-07-22 222034.png",
+    "Images/屏幕截图 2025-07-22 233553.png",
     "Pytorch/CPU&GPU.md",
+    "Pytorch/什么是pytorch.md",
     "Pytorch/动态图.md",
     "IELTS/雅思口语 Ⅱ.md",
     "Pytorch",
@@ -205,8 +209,6 @@
     "Python/文件操作.md",
     "Images/Pasted image 20250715002836.png",
     "Python/datetime模块.md",
-    "Python/异常Exception.md",
-    "Python/封装、继承、多态（面向对象）.md",
     "Images/Pasted image 20250714224301.png",
     "Images/Pasted image 20250714224004.png",
     "Images/Pasted image 20250714223913.png",
@@ -214,9 +216,7 @@
     "Images/Pasted image 20250714223634.png",
     "Images/Pasted image 20250714220802.png",
     "Images/Pasted image 20250714220218.png",
-    "Images/Pasted image 20250714215404.png",
     "Images",
-    "Images/Pasted image 20250714214201.png",
     "Python",
     "IELTS",
     "大物实验 I",
