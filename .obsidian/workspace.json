@@ -178,8 +178,9 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "Pytorch/识别手写数字.md",
+    "Pytorch/神经网络输入格式.md",
     "Pytorch/张量.md",
+    "Pytorch/识别手写数字.md",
     "Pytorch/神经网络核心概念.md",
     "Pytorch/线性变换 y = Wx + b.md",
     "Images/Pasted image 20250723222057.png",
@@ -215,7 +216,6 @@
     "Python/Python 并发编程.md",
     "Python/Python 综合实战.md",
     "Python/wxPython GUI 编程.md",
-    "Python/Python Socket 编程.md",
     "Images",
     "Python",
     "IELTS",
