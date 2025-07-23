@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/镜像源.md",
+                "file": "Pytorch/模型参数与损失最小化.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "镜像源"
+              "title": "模型参数与损失最小化"
             }
           }
         ]
@@ -176,10 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452237c40d37c75b",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "Pytorch/PyTorch GPU 环境安装.md",
+    "Pytorch/Gradient Descent.md",
+    "Pytorch/模型参数与损失最小化.md",
+    "Images/屏幕截图 2025-07-23 194913.png",
     "Pytorch/镜像源.md",
+    "Pytorch/PyTorch GPU 环境安装.md",
     "Images/屏幕截图 2025-07-22 222034.png",
     "Images/屏幕截图 2025-07-22 233553.png",
     "Pytorch/CPU&GPU.md",
@@ -206,16 +209,13 @@
     "Python/第三方库.md",
     "Python/数据处理.md",
     "处理数据.md",
-    "Python/文件操作.md",
     "Images/Pasted image 20250715002836.png",
-    "Python/datetime模块.md",
     "Images/Pasted image 20250714224301.png",
     "Images/Pasted image 20250714224004.png",
     "Images/Pasted image 20250714223913.png",
     "Images/Pasted image 20250714223732.png",
     "Images/Pasted image 20250714223634.png",
     "Images/Pasted image 20250714220802.png",
-    "Images/Pasted image 20250714220218.png",
     "Images",
     "Python",
     "IELTS",
