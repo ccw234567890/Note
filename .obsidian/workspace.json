@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/索引与切片.md",
+                "file": "Pytorch/广播机制 Broadcasting.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "索引与切片"
+              "title": "广播机制 Broadcasting"
             }
           }
         ]
@@ -178,10 +178,13 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "Pytorch/创建Tensor.md",
-    "Pytorch/索引与切片.md",
+    "Images/Pasted image 20250724020033.png",
+    "Pytorch/维度变换.md",
+    "Pytorch/广播机制 Broadcasting.md",
     "Pytorch/张量.md",
     "Pytorch/神经网络输入格式.md",
+    "Pytorch/索引与切片.md",
+    "Pytorch/创建Tensor.md",
     "Pytorch/识别手写数字.md",
     "Pytorch/神经网络核心概念.md",
     "Pytorch/线性变换 y = Wx + b.md",
@@ -213,9 +216,6 @@
     "IELTS/口语资料库.md",
     "IELTS/雅思口语资源整合.md",
     "Python/网络编程.md",
-    "Python/数据类型创建.md",
-    "Python/GUI 与 wxPython.md",
-    "Python/Python 并发编程.md",
     "Images",
     "Python",
     "IELTS",
