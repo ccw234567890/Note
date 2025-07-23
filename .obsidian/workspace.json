@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pytorch/镜像源.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
     "Pytorch/PyTorch GPU 环境安装.md",
     "Pytorch/镜像源.md",
