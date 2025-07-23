@@ -109,7 +109,7 @@
 <h3 style="color:#006064;">🎨 可视化广播过程</h3>
 <p>下图生动地展示了广播的实际运算流程：</p>
 
-![[Pasted image 20250724020033.png]]
+![[Pasted image 20250724021343.png]]
 
 <ul>
     <li><strong>中间行:</strong> <code>[4, 3]</code> 的张量 + <code>[1, 3]</code> 的向量。向量 <code>[0, 1, 2]</code> 被"复制"了4次，应用到大张量的每一行。</li>
@@ -121,4 +121,113 @@
         </ul>
     </li>
 </ul>
+</div>
+
+---
+
+
+<div style="background-color:#F3E5F5; border-left: 5px solid #8E24AA; padding: 20px; margin: 10px 0; border-radius: 8px;">
+<h2 style="color:#4A148C;">深入理解两种核心广播情景 🧠</h2>
+<p>广播机制最核心的两个场景是处理“维度更少”和“维度为1”的张量。理解它们的区别是掌握广播的关键。</p>
+
+<hr style="border-top: 2px solid #CE93D8;">
+
+<div style="background-color:#EFEBE9; border: 1px solid #BCAAA4; padding: 15px; margin-top: 15px; border-radius: 5px;">
+<h3 style="color:#3E2723;">情况一：当一个张量维度更少时 (法则 1)</h3>
+<blockquote style="border-left: 3px solid #795548; margin-left: 0; padding-left: 10px; font-style: italic; color: #5D4037;">
+核心概念：<strong>各自拥有 (Each one owns)</strong>
+<br>
+将小张量的<strong>整个数据块</strong>，像盖章一样复制到所有缺失的更高维度上。
+</blockquote>
+
+<p>以 <code>[4, 32, 8] + [8]</code> 为例：</p>
+
+<h4>📝 广播步骤</h4>
+<ol>
+    <li><strong>补齐维度：</strong><code>[8]</code> (1维) 的形状被补齐为 <code>[1, 1, 8]</code> (3维)，以匹配 <code>[4, 32, 8]</code>。</li>
+    <li><strong>匹配维度 (从后往前)：</strong>
+        <ul>
+            <li><code>dim 2 (scores)</code>: 8 vs 8 -> ✅ <strong>匹配</strong></li>
+            <li><code>dim 1 (student)</code>: 32 vs 1 -> ✅ <strong>兼容 (可广播)</strong></li>
+            <li><code>dim 0 (class)</code>: 4 vs 1 -> ✅ <strong>兼容 (可广播)</strong></li>
+        </ul>
+    </li>
+</ol>
+
+<h4>🎨 直观理解：“盖章”过程</h4>
+<p>想象你有一个刻着8个分数的印章 (张量 <code>[8]</code>)。</p>
+<ol>
+    <li><strong>为学生盖章：</strong>因为学生维度不存在，所以你给<strong>每一个</strong>学生都盖上这个完整的8分印章。这就虚拟地创造了一个 <code>[32, 8]</code> 的 "学生分数表"。</li>
+    <li><strong>为班级盖章：</strong>因为班级维度也不存在，你再把整个 "学生分数表" (<code>[32, 8]</code>) 这个大印章，给<strong>每一个</strong>班级都盖一次。</li>
+</ol>
+<p>最终，这个小小的 <code>[8]</code> 分数条，被每一个学生、每一个班级所“拥有”。
+
+![[Pasted image 20250724021541.png]]
+
+
+
+<div style="background-color:#E3F2FD; border: 1px solid #90CAF9; padding: 15px; margin-top: 20px; border-radius: 5px;">
+<h3 style="color:#0D47A1;">情况二：当一个维度大小为 1 时 (法则 2)</h3>
+<blockquote style="border-left: 3px solid #1976D2; margin-left: 0; padding-left: 10px; font-style: italic; color: #1565C0;">
+核心概念：<strong>共享 (Shared)</strong>
+<br>
+将大小为1的维度上的<strong>单个元素</strong>，像拉伸橡皮筋一样扩展，以填满对应的整个维度。
+</blockquote>
+
+<p>以 <code>[4, 32, 8] + [32, 1]</code> 为例：</p>
+
+<h4>📝 广播步骤</h4>
+<ol>
+    <li><strong>补齐维度：</strong><code>[32, 1]</code> (2维) 的形状被补齐为 <code>[1, 32, 1]</code> (3维)。</li>
+    <li><strong>匹配维度 (从后往前)：</strong>
+        <ul>
+            <li><code>dim 2 (scores)</code>: 8 vs 1 -> ✅ <strong>兼容 (可广播)</strong></li>
+            <li><code>dim 1 (student)</code>: 32 vs 32 -> ✅ <strong>匹配</strong></li>
+            <li><code>dim 0 (class)</code>: 4 vs 1 -> ✅ <strong>兼容 (可广播)</strong></li>
+        </ul>
+    </li>
+</ol>
+
+<h4>🎨 直观理解：“拉伸”过程</h4>
+<p>想象你有一个 <code>[32, 1]</code> 的列表，代表32个学生，每人有一个专属的“调整分”。</p>
+<ol>
+    <li><strong>拉伸分数维度：</strong>对于学生1，他有一个调整分。在计算时，这个调整分被“共享”给他所有的8门成绩。这个过程就像把大小为1的维度<strong>拉伸</strong>了8倍，以匹配另一个张量的维度大小。这对所有32个学生都适用。</li>
+    <li><strong>复制班级维度：</strong>因为班级维度大小为1，这个完整的、已经被拉伸过的 <code>[32, 8]</code> “学生专属调整分表”，会被复制给所有4个班级。</li>
+</ol>
+<p>最终，每个学生的专属调整分，被他自己的所有成绩所“共享”。</p>
+
+
+![[Pasted image 20250724021735.png]]
+
+
+<div style="background-color:#FFFDE7; border: 1px solid #FFF59D; padding: 15px; margin-top: 20px; border-radius: 5px;">
+<h3 style="color:#F57F17;">💡 总结与对比</h3>
+<table style="width:100%; border-collapse: collapse;">
+    <thead style="background-color:#FFF9C4;">
+        <tr>
+            <th style="padding:10px; border:1px solid #FBC02D; text-align:left;">特征</th>
+            <th style="padding:10px; border:1px solid #FBC02D; text-align:left;">各自拥有 (维度更少)</th>
+            <th style="padding:10px; border:1px solid #FBC02D; text-align:left;">共享 (维度为1)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding:10px; border:1px solid #FDD835;"><strong>操作对象</strong></td>
+            <td style="padding:10px; border:1px solid #FDD835;">整个数据块 (The entire tensor)</td>
+            <td style="padding:10px; border:1px solid #FDD835;">维度上的单个元素 (Elements in a dim of size 1)</td>
+        </tr>
+        <tr>
+            <td style="padding:10px; border:1px solid #FDD835;"><strong>操作方向</strong></td>
+            <td style="padding:10px; border:1px solid #FDD835;">在 <strong>缺失的、更高</strong> 的维度上复制</td>
+            <td style="padding:10px; border:1px solid #FDD835;">在 <strong>已存在的、大小为1</strong> 的维度上拉伸</td>
+        </tr>
+        <tr>
+            <td style="padding:10px; border:1px solid #FDD835;"><strong>核心比喻</strong></td>
+            <td style="padding:10px; border:1px solid #FDD835;"><strong>盖章  Stamps</strong>：将小印章盖满所有地方</td>
+            <td style="padding:10px; border:1px solid #FDD835;"><strong>拉伸 Stretches</strong>：将橡皮筋拉长到所需长度</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
 </div>
