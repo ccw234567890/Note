@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "镜像源.md",
+                "file": "Pytorch/镜像源.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452237c40d37c75b",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
     "Pytorch/PyTorch GPU 环境安装.md",
-    "镜像源.md",
+    "Pytorch/镜像源.md",
     "Images/屏幕截图 2025-07-22 222034.png",
     "Images/屏幕截图 2025-07-22 233553.png",
     "Pytorch/CPU&GPU.md",
