@@ -178,8 +178,9 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "Pytorch/线性变换 y = Wx + b.md",
+    "Pytorch/神经网络核心概念.md",
     "Pytorch/识别手写数字.md",
+    "Pytorch/线性变换 y = Wx + b.md",
     "Images/Pasted image 20250723222057.png",
     "Images/Pasted image 20250723222042.png",
     "Images/Pasted image 20250723222005.png",
@@ -215,7 +216,6 @@
     "Python/wxPython GUI 编程.md",
     "Python/Python Socket 编程.md",
     "Python/目录与文件操作.md",
-    "Python/JSON vs. CSV.md",
     "Images",
     "Python",
     "IELTS",
