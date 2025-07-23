@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/Linear Regression.md",
+                "file": "Pytorch/识别手写数字.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "识别手写数字"
             }
           }
         ]
@@ -176,22 +176,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452237c40d37c75b",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "Images/Pasted image 20250723222057.png",
+    "Images/Pasted image 20250723222042.png",
+    "Images/Pasted image 20250723222005.png",
+    "Images/Pasted image 20250723221938.png",
+    "Images/Pasted image 20250723221840.png",
+    "Images/Pasted image 20250723221806.png",
+    "Images/Pasted image 20250723221645.png",
+    "Images/Pasted image 20250723221551.png",
+    "Pytorch/Linear Regression.md",
+    "Pytorch/识别手写数字.md",
     "Images/Pasted image 20250723203046.png",
     "Images/Pasted image 20250723203029.png",
     "Images/Pasted image 20250723203002.png",
-    "Images/Pasted image 20250723202925.png",
-    "Images/Pasted image 20250723202828.png",
-    "Images/Pasted image 20250723202727.png",
     "Pytorch/模型参数与损失最小化.md",
-    "Pytorch/Linear Regression.md",
     "Pytorch/Gradient Descent.md",
-    "Images/屏幕截图 2025-07-23 194913.png",
     "Pytorch/镜像源.md",
     "Pytorch/PyTorch GPU 环境安装.md",
-    "Images/屏幕截图 2025-07-22 222034.png",
-    "Images/屏幕截图 2025-07-22 233553.png",
     "Pytorch/CPU&GPU.md",
     "Pytorch/什么是pytorch.md",
     "Pytorch/动态图.md",
@@ -213,9 +216,6 @@
     "Python/Python Socket 编程.md",
     "Python/目录与文件操作.md",
     "Python/JSON vs. CSV.md",
-    "Python/第三方库.md",
-    "Images/Pasted image 20250715002836.png",
-    "Images/Pasted image 20250714224301.png",
     "Images",
     "Python",
     "IELTS",
