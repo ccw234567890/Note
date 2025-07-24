@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梯度下降与神经网络优化.md",
+                "file": "Pytorch/梯度计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "梯度下降与神经网络优化"
+              "title": "梯度计算"
             }
           }
         ]
@@ -178,18 +178,19 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "Images/Pasted image 20250724230113.png",
+    "Images/Pasted image 20250724230050.png",
+    "Images/Pasted image 20250724230020.png",
+    "Images/Pasted image 20250724225941.png",
+    "Images/Pasted image 20250724225912.png",
+    "Images/Pasted image 20250724225850.png",
+    "梯度下降与神经网络优化.md",
+    "Pytorch/梯度计算.md",
     "Images/Pasted image 20250724223458.png",
     "Images/Pasted image 20250724223359.png",
     "Images/Pasted image 20250724223214.png",
     "Images/Pasted image 20250724223138.png",
     "Images/Pasted image 20250724223030.png",
-    "Images/Pasted image 20250724223006.png",
-    "Images/Pasted image 20250724222925.png",
-    "Images/Pasted image 20250724222844.png",
-    "Images/Pasted image 20250724222751.png",
-    "Images/Pasted image 20250724222710.png",
-    "Images/Pasted image 20250724222635.png",
-    "梯度下降与神经网络优化.md",
     "Pytorch/高级张量操作.md",
     "Pytorch/数据统计.md",
     "Pytorch/广播机制 Broadcasting.md",
@@ -214,7 +215,6 @@
     "Pytorch/动态图.md",
     "IELTS/雅思口语 Ⅱ.md",
     "Pytorch",
-    "IELTS/雅思听力 Ⅱ.md",
     "未命名.canvas",
     "Images",
     "Python",
