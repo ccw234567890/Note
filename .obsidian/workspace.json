@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "未命名.md",
+    "神经网络核心组件.md",
     "Images/Pasted image 20250724233503.png",
     "Images/Pasted image 20250724233413.png",
     "Images/Pasted image 20250724233333.png",
@@ -188,10 +190,7 @@
     "Images/Pasted image 20250724232909.png",
     "Images/Pasted image 20250724232826.png",
     "Images/Pasted image 20250724232754.png",
-    "Images/Pasted image 20250724232713.png",
     "Pytorch/梯度计算.md",
-    "神经网络核心组件.md",
-    "神经网络核心组件.md",
     "梯度下降与神经网络优化.md",
     "Pytorch/高级张量操作.md",
     "Pytorch/数据统计.md",
