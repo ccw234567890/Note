@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本运算.md",
+                "file": "Pytorch/神经网络核心概念.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本运算"
+              "title": "神经网络核心概念"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "数据统计.md",
+    "Pytorch/基本运算.md",
     "Pytorch/合并与分割张量.md",
-    "基本运算.md",
     "Pytorch/广播机制 Broadcasting.md",
     "Images/Pasted image 20250724021735.png",
     "Images/Pasted image 20250724021541.png",
@@ -215,7 +216,6 @@
     "IELTS/雅思听力 Ⅰ.md",
     "IELTS/雅思口语 Ⅰ.md",
     "IELTS/口语资料库.md",
-    "IELTS/雅思口语资源整合.md",
     "Images",
     "Python",
     "IELTS",
