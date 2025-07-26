@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "神经网络核心组件.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,11 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "梯度下降与神经网络优化.md",
+    "Pytorch/自动求导核心笔记：计算图与梯度.md",
+    "神经网络核心组件.md",
     "Images/Pasted image 20250726225532.png",
     "Images/Pasted image 20250726213011.png",
-    "梯度下降与神经网络优化.md",
     "单一输出感知机1.md",
     "IELTS/雅思口语 Ⅱ.md",
     "IELTS/雅思听力 Ⅱ.md",
@@ -192,9 +194,7 @@
     "Images/Pasted image 20250725000705.png",
     "Images/Pasted image 20250725000615.png",
     "Images/Pasted image 20250725000535.png",
-    "神经网络核心组件.md",
     "Images/Pasted image 20250724233503.png",
-    "Images/Pasted image 20250724233413.png",
     "Pytorch/梯度计算.md",
     "Pytorch/高级张量操作.md",
     "Pytorch/数据统计.md",
