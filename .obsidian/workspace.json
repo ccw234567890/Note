@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "神经网络核心组件.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -178,6 +178,7 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "Pasted image 20250726225532.png",
     "Images/Pasted image 20250726213011.png",
     "梯度下降与神经网络优化.md",
     "单一输出感知机1.md",
@@ -194,7 +195,6 @@
     "神经网络核心组件.md",
     "Images/Pasted image 20250724233503.png",
     "Images/Pasted image 20250724233413.png",
-    "Images/Pasted image 20250724233333.png",
     "Pytorch/梯度计算.md",
     "Pytorch/高级张量操作.md",
     "Pytorch/数据统计.md",
