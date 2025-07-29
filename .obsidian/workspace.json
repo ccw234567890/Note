@@ -178,8 +178,9 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
+    "逻辑回归.md",
     "链式法则，反向传播.md",
+    "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
     "Pytorch/专家乘积模型.md",
     "神经网络的层级连接示例.md",
     "Pytorch/多输出感知机2.md",
@@ -213,7 +214,6 @@
     "Pytorch/广播机制 Broadcasting.md",
     "Pytorch/线性变换 y = Wx + b.md",
     "Pytorch/正则化与梯度裁剪.md",
-    "Pytorch/什么是pytorch.md",
     "Pytorch",
     "未命名.canvas",
     "Images",
