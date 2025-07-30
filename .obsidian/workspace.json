@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/交叉熵.md",
+                "file": "链式法则，反向传播.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交叉熵"
+              "title": "链式法则，反向传播"
             }
           }
         ]
@@ -176,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "链式法则，反向传播.md",
     "Pytorch/交叉熵.md",
+    "链式法则，反向传播.md",
     "Pytorch/逻辑回归.md",
     "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
     "Pytorch/专家乘积模型.md",
