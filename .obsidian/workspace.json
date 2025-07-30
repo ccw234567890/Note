@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多分类神经网络.md",
+                "file": "链式法则，反向传播.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多分类神经网络"
+              "title": "链式法则，反向传播"
             }
           }
         ]
@@ -178,13 +178,14 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "Pytorch/高层API.md",
     "链式法则，反向传播.md",
-    "多分类神经网络.md",
+    "神经网络的层级连接示例.md",
+    "Pytorch/多分类神经网络.md",
     "Pytorch/交叉熵.md",
     "Pytorch/逻辑回归.md",
     "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
     "Pytorch/专家乘积模型.md",
-    "神经网络的层级连接示例.md",
     "Pytorch/多输出感知机2.md",
     "梯度下降与神经网络优化.md",
     "IELTS/雅思口语 Ⅲ.md",
@@ -213,7 +214,6 @@
     "Images/Pasted image 20250724233503.png",
     "Pytorch/梯度计算.md",
     "Pytorch/数据统计.md",
-    "Pytorch/广播机制 Broadcasting.md",
     "Pytorch",
     "未命名.canvas",
     "Images",
