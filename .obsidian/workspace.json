@@ -176,9 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452237c40d37c75b",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "逻辑回归.md",
+    "Pytorch/逻辑回归.md",
     "链式法则，反向传播.md",
     "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
     "Pytorch/专家乘积模型.md",
