@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卷积填充 (Padding).md",
+                "file": "Conv2D.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卷积填充 (Padding)"
+              "title": "Conv2D"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "链式法则，反向传播.md",
     "卷积填充 (Padding).md",
+    "Conv2D.md",
+    "链式法则，反向传播.md",
     "卷积的数学直觉.md",
     "Pytorch/CNN两大基石.md",
     "FCN vs. CNN 运行流程.md",
@@ -203,7 +204,6 @@
     "Pytorch/合并与分割张量.md",
     "Pytorch/创建Tensor.md",
     "Pytorch/高级张量操作.md",
-    "Pytorch/Softmax函数.md",
     "Images/Pasted image 20250726225532.png",
     "Images/Pasted image 20250726213011.png",
     "Images/Pasted image 20250725002115.png",
