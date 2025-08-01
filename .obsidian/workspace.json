@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
+                "file": "1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "1"
             }
           }
         ]
@@ -176,15 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452237c40d37c75b",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "2.md",
     "神经网络核心组件.md",
-    "未命名.md",
     "DL大纲.md",
     "Pytorch/卷积填充 (Padding).md",
     "Pytorch/卷积的数学直觉.md",
     "Pytorch/Conv2D.md",
-    "链式法则，反向传播.md",
+    "1.md",
     "Pytorch/CNN两大基石.md",
     "FCN vs. CNN 运行流程.md",
     "神经网络的层级连接示例.md",
