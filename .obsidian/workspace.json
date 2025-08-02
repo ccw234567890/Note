@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.md",
+                "file": "IELTS/雅思听力 Ⅲ.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "雅思听力 Ⅲ"
             }
           }
         ]
@@ -178,13 +178,16 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "IELTS/雅思口语 Ⅳ.md",
+    "IELTS/雅思听力 Ⅲ.md",
+    "学习总结.md",
+    "1.md",
     "2.md",
     "神经网络核心组件.md",
     "DL大纲.md",
     "Pytorch/卷积填充 (Padding).md",
     "Pytorch/卷积的数学直觉.md",
     "Pytorch/Conv2D.md",
-    "1.md",
     "Pytorch/CNN两大基石.md",
     "FCN vs. CNN 运行流程.md",
     "神经网络的层级连接示例.md",
@@ -201,9 +204,6 @@
     "Pytorch/单一输出感知机1.md",
     "Pytorch/索引与切片.md",
     "Pytorch/模型参数与损失最小化.md",
-    "Pytorch/基本运算.md",
-    "Pytorch/合并与分割张量.md",
-    "Pytorch/创建Tensor.md",
     "Images/Pasted image 20250726225532.png",
     "Images/Pasted image 20250726213011.png",
     "Images/Pasted image 20250725002115.png",
