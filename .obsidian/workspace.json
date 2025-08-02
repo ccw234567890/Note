@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/雅思听力 Ⅲ.md",
+                "file": "IELTS/雅思口语 Ⅳ.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雅思听力 Ⅲ"
+              "title": "雅思口语 Ⅳ"
             }
           }
         ]
@@ -176,10 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "IELTS/雅思口语 Ⅳ.md",
+    "IELTS/雅思口语 Ⅲ.md",
+    "IELTS/雅思听力 Ⅳ.md",
     "IELTS/雅思听力 Ⅲ.md",
+    "IELTS/雅思口语 Ⅰ.md",
+    "IELTS/雅思口语 Ⅱ.md",
+    "IELTS/雅思口语 Ⅳ.md",
     "学习总结.md",
     "1.md",
     "2.md",
@@ -200,10 +204,6 @@
     "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
     "Pytorch/专家乘积模型.md",
     "Pytorch/多输出感知机2.md",
-    "IELTS/雅思口语 Ⅲ.md",
-    "Pytorch/单一输出感知机1.md",
-    "Pytorch/索引与切片.md",
-    "Pytorch/模型参数与损失最小化.md",
     "Images/Pasted image 20250726225532.png",
     "Images/Pasted image 20250726213011.png",
     "Images/Pasted image 20250725002115.png",
