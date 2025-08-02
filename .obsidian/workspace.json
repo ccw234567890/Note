@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PyTorch&DL学习总结.md",
-                "mode": "preview",
+                "file": "数学建模国赛/前七次培训.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PyTorch&DL学习总结"
+              "title": "前七次培训"
             }
           }
         ]
@@ -178,14 +178,15 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "未命名",
+    "PyTorch&DL学习总结.md",
+    "数学建模国赛/前七次培训.md",
+    "数学建模国赛",
     "IELTS/雅思口语 Ⅳ.md",
     "IELTS/雅思口语 Ⅲ.md",
     "IELTS/雅思听力 Ⅳ.md",
     "IELTS/雅思听力 Ⅲ.md",
     "IELTS/雅思口语 Ⅰ.md",
     "IELTS/雅思口语 Ⅱ.md",
-    "PyTorch&DL学习总结.md",
     "1.md",
     "2.md",
     "神经网络核心组件.md",
