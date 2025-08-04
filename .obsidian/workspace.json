@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "转置卷积.md",
+                "file": "2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "转置卷积"
+              "title": "2"
             }
           }
         ]
@@ -179,10 +179,11 @@
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
     "未命名.md",
-    "转置卷积.md",
-    "Pytorch/上下采样.md",
+    "未命名 1.md",
     "2.md",
     "神经网络的层级连接示例.md",
+    "Pytorch/转置卷积.md",
+    "Pytorch/上下采样.md",
     "数学建模国赛/前七次培训.md",
     "PyTorch&DL学习总结.md",
     "数学建模国赛",
@@ -204,7 +205,6 @@
     "Pytorch/正则化与梯度裁剪.md",
     "Pytorch/高层API.md",
     "Pytorch/多分类神经网络.md",
-    "Pytorch/交叉熵.md",
     "Images/Pasted image 20250726225532.png",
     "Images/Pasted image 20250726213011.png",
     "Images/Pasted image 20250725002115.png",
