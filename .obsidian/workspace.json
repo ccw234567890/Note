@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "池化.md",
+                "file": "Pytorch/池化.md",
                 "mode": "preview",
                 "source": false
               },
@@ -179,7 +179,7 @@
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
     "2.md",
-    "池化.md",
+    "Pytorch/池化.md",
     "神经网络的层级连接示例.md",
     "数学建模国赛/前七次培训.md",
     "PyTorch&DL学习总结.md",
