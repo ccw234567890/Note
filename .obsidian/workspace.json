@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/WGAN&WGAN-GP.md",
+                "file": "MS/lecture 2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WGAN&WGAN-GP"
+              "title": "lecture 2"
             }
           }
         ]
@@ -178,8 +178,11 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "2.md",
+    "Pasted image 20250810105234.png",
     "Pytorch/WGAN&WGAN-GP.md",
+    "MS/lecture 2.md",
+    "MS",
+    "2.md",
     "Pytorch/GAN.md",
     "Pytorch/LSTM.md",
     "Pytorch/多层RNN.md",
@@ -203,8 +206,6 @@
     "1.md",
     "神经网络核心组件.md",
     "DL大纲.md",
-    "Pytorch/卷积填充 (Padding).md",
-    "Pytorch/卷积的数学直觉.md",
     "Images/Pasted image 20250726225532.png",
     "Images/Pasted image 20250726213011.png",
     "Images/Pasted image 20250725002115.png",
