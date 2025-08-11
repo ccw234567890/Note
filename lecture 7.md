@@ -81,7 +81,9 @@
   1.  **译码器 (Decoder)**
   2.  **编码器 (Encoder)**
   3.  **多路复用器 (Multiplexer)**
-  4.  **多![[Pasted image 20250811231717.png]]路解复用器 (Demultiplexer)**
+  4.  **多路解复用器 (Demultiplexer)**
 
 ![[Pasted image 20250811232036.png]]
 ![[Pasted image 20250811231717.png]]
+![[Pasted image 20250811233204.png]]
+![[Pasted image 20250811233317.png]]
