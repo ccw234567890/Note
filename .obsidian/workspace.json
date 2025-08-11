@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第八章.md",
+                "file": "第九十章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第八章"
+              "title": "第九十章"
             }
           }
         ]
@@ -176,22 +176,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "3cae24f793b6f1df4a85bbb4a617db9.jpg",
+    "548fc2b9211c5d6f640a14b74aa1b80.jpg",
+    "ad491804fcb91592a246fc3caead357.jpg",
+    "65d8ea9948c787fc49b772082cebfb2.jpg",
+    "第八章.md",
+    "第九十章.md",
     "Images/9ffbf00c7ede51190ea2b1efea5a42c.jpg",
     "Images/bcfad26ba635f0e17d0dcde8d8827ef.jpg",
     "Images/0d4466f53cc5b60c68ad3a6a8176145.jpg",
     "第七章.md",
-    "第八章.md",
     "Images/9d0591ce7921b3fbe39aed7fca44161.jpg",
     "Images/baaad3be4521ee494a5e2af28335d64.jpg",
     "Images/99f551c499def890048a75e2615ef59.jpg",
     "Images/83a26362b2898979e806053aa394604.jpg",
     "MS/第六章.md",
-    "Images/b33f960adb788e690ee174133519990.jpg",
-    "Images/b16bc59e2c131cf8b602ed6ef43574d.jpg",
-    "Pasted image 20250811211045.png",
-    "Images/4b8455f06eb36eaf3cf2793cc367173.jpg",
     "MS/第二章.md",
     "MS/第三四五章.md",
     "Pytorch/3.md",
@@ -214,7 +215,6 @@
     "神经网络的层级连接示例.md",
     "Pytorch/转置卷积.md",
     "Pytorch/上下采样.md",
-    "数学建模国赛/前七次培训.md",
     "数学建模国赛",
     "Pytorch",
     "未命名.canvas",
