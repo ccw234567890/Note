@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS/lecture 2.md",
-                "mode": "preview",
+                "file": "lecture 3.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 2"
+              "title": "lecture 3"
             }
           }
         ]
@@ -176,21 +176,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "Images/Pasted image 20250811005437.png",
-    "Images/Pasted image 20250811005230.png",
-    "Images/Pasted image 20250811005145.png",
-    "Images/Pasted image 20250811005113.png",
-    "Images/Pasted image 20250811005044.png",
-    "Images/Pasted image 20250811005005.png",
-    "Images/Pasted image 20250811004929.png",
-    "Images/Pasted image 20250811004857.png",
-    "Images/Pasted image 20250811004821.png",
-    "Images/Pasted image 20250811004728.png",
-    "Images/Pasted image 20250811004232.png",
-    "Pytorch/WGAN&WGAN-GP.md",
+    "Pasted image 20250811162318.png",
+    "Pasted image 20250811155616.png",
+    "Pasted image 20250811155546.png",
+    "Images/Pasted image 20250811153946.png",
+    "Images/Pasted image 20250811153911.png",
+    "Images/Pasted image 20250811153841.png",
+    "Images/Pasted image 20250811153804.png",
+    "Images/Pasted image 20250811153543.png",
+    "Images/Pasted image 20250811153514.png",
+    "Images/Pasted image 20250811153237.png",
+    "Images/Pasted image 20250811153149.png",
     "MS/lecture 2.md",
+    "lecture 3.md",
+    "MS/第一章.md",
+    "Pytorch/WGAN&WGAN-GP.md",
     "MS",
     "2.md",
     "Pytorch/GAN.md",
@@ -214,8 +216,6 @@
     "IELTS/雅思口语 Ⅰ.md",
     "IELTS/雅思口语 Ⅱ.md",
     "1.md",
-    "神经网络核心组件.md",
-    "DL大纲.md",
     "Pytorch",
     "未命名.canvas",
     "Images",
