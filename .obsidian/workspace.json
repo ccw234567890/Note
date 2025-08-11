@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture 3.md",
+                "file": "lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 3"
+              "title": "lecture 4"
             }
           }
         ]
@@ -178,19 +178,20 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "Pasted image 20250811162318.png",
-    "Pasted image 20250811155616.png",
-    "Pasted image 20250811155546.png",
-    "Images/Pasted image 20250811153946.png",
-    "Images/Pasted image 20250811153911.png",
-    "Images/Pasted image 20250811153841.png",
-    "Images/Pasted image 20250811153804.png",
-    "Images/Pasted image 20250811153543.png",
-    "Images/Pasted image 20250811153514.png",
-    "Images/Pasted image 20250811153237.png",
-    "Images/Pasted image 20250811153149.png",
+    "Pasted image 20250811164048.png",
+    "Pasted image 20250811163849.png",
+    "Pasted image 20250811163754.png",
+    "Images/Pasted image 20250811163702.png",
+    "Images/Pasted image 20250811163409.png",
+    "MS/lecture 3.md",
+    "lecture 4.md",
+    "Images/Pasted image 20250811162902.png",
+    "Images/Pasted image 20250811162823.png",
+    "Images/Pasted image 20250811162741.png",
+    "Images/Pasted image 20250811162713.png",
+    "Images/Pasted image 20250811162642.png",
+    "Images/Pasted image 20250811162550.png",
     "MS/lecture 2.md",
-    "lecture 3.md",
     "MS/第一章.md",
     "Pytorch/WGAN&WGAN-GP.md",
     "MS",
@@ -215,7 +216,6 @@
     "IELTS/雅思听力 Ⅲ.md",
     "IELTS/雅思口语 Ⅰ.md",
     "IELTS/雅思口语 Ⅱ.md",
-    "1.md",
     "Pytorch",
     "未命名.canvas",
     "Images",
