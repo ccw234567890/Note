@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "第十三章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "第十三章"
             }
           }
         ]
@@ -178,19 +178,20 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "第十二章.md",
+    "第十三章.md",
+    "Images/a23b5de4cfb8794aed9cc41e9b6c413.jpg",
+    "Images/4005c2ad542223287e4a14070b69cf4.jpg",
+    "Images/a880a3e211de68e26a2fcf54f0640a2.jpg",
+    "Images/a045f6ae067a53c2d9b2f75464c73e0.jpg",
+    "Images/e25f13ddc50a6a8df0bf166ce154aef.jpg",
     "第十一章.md",
-    "未命名.md",
     "Images/849089386efdd50886045b81f40059d.jpg",
     "Images/3998c5d69e0bd3b9ad5a48d7cefa66b.jpg",
     "Images/6a3998c5c2e6f21519fd9d46e412f39.jpg",
     "Images/73998370707607ea23919a166b4aa78.jpg",
     "Images/f75537eff502e74f84befdf09d00759.jpg",
-    "Images/406e8005da1e7dd80a00901afd0d5c1.jpg",
     "第九十章.md",
-    "Images/571a765cb3567b0c053bc2f8044c022.jpg",
-    "Images/b783e6b174c0b563562f3ecb9e85a3c.jpg",
-    "Images/cc2fc7fd45cb8caa5658248dfc201b3.jpg",
-    "Images/3cae24f793b6f1df4a85bbb4a617db9.jpg",
     "第八章.md",
     "第七章.md",
     "MS/第六章.md",
@@ -214,7 +215,6 @@
     "FCN vs. CNN 运行流程.md",
     "Pytorch/ResNet vs. DenseNet-两种顶级网络设计哲学.md",
     "神经网络的层级连接示例.md",
-    "Pytorch/转置卷积.md",
     "数学建模国赛",
     "Pytorch",
     "未命名.canvas",
