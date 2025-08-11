@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第三四五章.md",
+                "file": "第六章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三四五章"
+              "title": "第六章"
             }
           }
         ]
@@ -178,9 +178,13 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "f13b61e3f6462b28291840c3c46e96f.jpg",
+    "3125709c9941bf5a2117efd01b6a6be.jpg",
     "MS/第二章.md",
-    "第三四五章.md",
+    "第六章.md",
+    "MS/第三四五章.md",
+    "Images/b2505e74ea4b777a294478bd89d3848.jpg",
+    "Images/e7c2c0695871c07d53c9290a004cc80.jpg",
+    "Images/f13b61e3f6462b28291840c3c46e96f.jpg",
     "Pytorch/3.md",
     "Images/88a50b41f91f917efea31d1d16f9e04.jpg",
     "Images/abba6bf8ae1dd563c54b682c4c3dda4.jpg",
@@ -190,9 +194,6 @@
     "Images/Pasted image 20250811174142.png",
     "Images/Pasted image 20250811174107.png",
     "Images/Pasted image 20250811174038.png",
-    "Images/Pasted image 20250811173952.png",
-    "Images/Pasted image 20250811173510.png",
-    "Images/Pasted image 20250811173417.png",
     "MS/lecture 5.md",
     "MS/lecture 4.md",
     "MS/lecture 3.md",
@@ -215,7 +216,6 @@
     "PyTorch&DL学习总结.md",
     "数学建模国赛",
     "IELTS/雅思口语 Ⅳ.md",
-    "IELTS/雅思口语 Ⅲ.md",
     "Pytorch",
     "未命名.canvas",
     "Images",
