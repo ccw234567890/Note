@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS/lecture 6.md",
-                "mode": "preview",
+                "file": "未命名.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 6"
+              "title": "未命名"
             }
           }
         ]
@@ -176,8 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "第二章.md",
+    "Images/88a50b41f91f917efea31d1d16f9e04.jpg",
+    "Images/abba6bf8ae1dd563c54b682c4c3dda4.jpg",
+    "MS/lecture 6.md",
     "Images/Pasted image 20250811174240.png",
     "Images/Pasted image 20250811174209.png",
     "Images/Pasted image 20250811174142.png",
@@ -186,11 +190,7 @@
     "Images/Pasted image 20250811173952.png",
     "Images/Pasted image 20250811173510.png",
     "Images/Pasted image 20250811173417.png",
-    "Images/Pasted image 20250811173345.png",
-    "Images/Pasted image 20250811173305.png",
-    "Images/Pasted image 20250811173242.png",
     "MS/lecture 5.md",
-    "MS/lecture 6.md",
     "MS/lecture 4.md",
     "MS/lecture 3.md",
     "MS/lecture 2.md",
@@ -215,7 +215,6 @@
     "IELTS/雅思口语 Ⅳ.md",
     "IELTS/雅思口语 Ⅲ.md",
     "IELTS/雅思听力 Ⅳ.md",
-    "IELTS/雅思听力 Ⅲ.md",
     "Pytorch",
     "未命名.canvas",
     "Images",
