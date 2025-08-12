@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "lecture 8.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
     "Images/屏幕截图 2025-08-12 144223.png",
     "Images/屏幕截图 2025-08-12 144212.png",
