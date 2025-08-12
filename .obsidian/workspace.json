@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "根据考试的分析.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "根据考试的分析"
+              "title": "未命名"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "lecture 12.md",
-    "根据考试的分析.md",
+    "MS/根据考试的分析.md",
+    "未命名.md",
+    "企业杂谈",
+    "MS/lecture 12.md",
     "Images/屏幕截图 2025-08-12 165215.png",
     "Images/屏幕截图 2025-08-12 165158.png",
     "Images/屏幕截图 2025-08-12 165148.png",
@@ -214,7 +216,6 @@
     "MS/第一章.md",
     "Pytorch/WGAN&WGAN-GP.md",
     "MS",
-    "Pytorch/2.md",
     "数学建模国赛",
     "Pytorch",
     "未命名.canvas",
@@ -224,7 +225,6 @@
     "大物实验 I",
     "新建文件夹",
     "LA",
-    "Untitled.canvas",
-    "CCW/新建文件夹"
+    "Untitled.canvas"
   ]
 }
