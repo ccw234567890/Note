@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture 7.md",
-                "mode": "source",
+                "file": "MS/lecture 7.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,14 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452237c40d37c75b",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "屏幕截图 2025-08-12 000342.png",
-    "屏幕截图 2025-08-12 000319.png",
-    "屏幕截图 2025-08-12 000249.png",
-    "屏幕截图 2025-08-12 000214.png",
+    "Images/屏幕截图 2025-08-12 000342.png",
+    "Images/屏幕截图 2025-08-12 000319.png",
+    "Images/屏幕截图 2025-08-12 000249.png",
+    "Images/屏幕截图 2025-08-12 000214.png",
     "Images/屏幕截图 2025-08-11 234414.png",
-    "lecture 7.md",
+    "MS/lecture 7.md",
     "Images/屏幕截图 2025-08-11 233246.png",
     "Images/Pasted image 20250811233317.png",
     "Images/Pasted image 20250811233204.png",
