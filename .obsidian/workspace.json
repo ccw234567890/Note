@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture 10.md",
-                "mode": "preview",
+                "file": "lecture 11.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 10"
+              "title": "lecture 11"
             }
           }
         ]
@@ -178,19 +178,20 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "屏幕截图 2025-08-12 162429.png",
+    "屏幕截图 2025-08-12 162421.png",
+    "屏幕截图 2025-08-12 162407.png",
+    "屏幕截图 2025-08-12 162312.png",
+    "屏幕截图 2025-08-12 162302.png",
+    "屏幕截图 2025-08-12 162252.png",
+    "屏幕截图 2025-08-12 162241.png",
+    "屏幕截图 2025-08-12 162231.png",
+    "MS/lecture 10.md",
+    "lecture 11.md",
     "Images/屏幕截图 2025-08-12 155415.png",
     "Images/屏幕截图 2025-08-12 155405.png",
     "Images/屏幕截图 2025-08-12 155353.png",
-    "Images/屏幕截图 2025-08-12 155342.png",
-    "Images/屏幕截图 2025-08-12 155323.png",
-    "Images/屏幕截图 2025-08-12 155303.png",
-    "Images/屏幕截图 2025-08-12 155248.png",
-    "Images/屏幕截图 2025-08-12 155233.png",
-    "Images/屏幕截图 2025-08-12 155216.png",
-    "Images/屏幕截图 2025-08-12 155209.png",
-    "Images/屏幕截图 2025-08-12 155159.png",
     "MS/lecture 9.md",
-    "lecture 10.md",
     "MS/lecture 8.md",
     "未命名 1.md",
     "MS/lecture 7.md",
@@ -214,7 +215,6 @@
     "MS",
     "Pytorch/2.md",
     "Pytorch/GAN.md",
-    "Pytorch/LSTM.md",
     "数学建模国赛",
     "Pytorch",
     "未命名.canvas",
