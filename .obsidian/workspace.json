@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "lecture 12.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,8 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "Images/屏幕截图 2025-08-12 165215.png",
+    "Images/屏幕截图 2025-08-12 165158.png",
+    "Images/屏幕截图 2025-08-12 165148.png",
     "Images/屏幕截图 2025-08-12 165139.png",
     "Images/屏幕截图 2025-08-12 165118.png",
     "Images/屏幕截图 2025-08-12 165106.png",
@@ -186,9 +189,6 @@
     "Images/屏幕截图 2025-08-12 165032.png",
     "Images/屏幕截图 2025-08-12 165021.png",
     "Images/屏幕截图 2025-08-12 165013.png",
-    "Images/屏幕截图 2025-08-12 165001.png",
-    "Images/屏幕截图 2025-08-12 164947.png",
-    "Images/屏幕截图 2025-08-12 164937.png",
     "MS/lecture 11.md",
     "lecture 12.md",
     "MS/lecture 10.md",
