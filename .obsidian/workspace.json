@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS/CPU内部基本操作流程.md",
-                "mode": "preview",
+                "file": "未命名.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU内部基本操作流程"
+              "title": "未命名"
             }
           }
         ]
@@ -176,10 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "452237c40d37c75b",
   "lastOpenFiles": [
-    "企业杂谈/胜券在握.md",
+    "Pasted image 20250815004234.png",
+    "青梅煮酒/论“娜拉”走后，或献祭于资本.md",
+    "未命名.md",
+    "Images/15b2a733f63f3c937b448be9ccd383b5_b8423bcbe6dea588d498e205535ffdcd1177945825.jpg@1192w_1788h.webp",
+    "青梅煮酒",
     "MS/CPU内部基本操作流程.md",
+    "企业杂谈/胜券在握.md",
     "企业杂谈/门禁与夜宵.md",
     "MS/根据考试的分析.md",
     "企业杂谈",
@@ -193,7 +198,6 @@
     "Images/屏幕截图 2025-08-12 165053.png",
     "Images/屏幕截图 2025-08-12 165044.png",
     "Images/屏幕截图 2025-08-12 165032.png",
-    "Images/屏幕截图 2025-08-12 165021.png",
     "MS/lecture 11.md",
     "MS/lecture 10.md",
     "MS/lecture 9.md",
@@ -212,9 +216,6 @@
     "Pytorch/3.md",
     "MS/lecture 6.md",
     "MS/lecture 5.md",
-    "MS/lecture 4.md",
-    "MS/lecture 3.md",
-    "MS/lecture 2.md",
     "MS",
     "数学建模国赛",
     "Pytorch",
@@ -224,7 +225,6 @@
     "IELTS",
     "大物实验 I",
     "新建文件夹",
-    "LA",
     "Untitled.canvas"
   ]
 }
