@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS/lecture 9.md",
-                "mode": "preview",
+                "file": "理解Sample frequency.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 9"
+              "title": "理解Sample frequency"
             }
           }
         ]
@@ -178,16 +178,18 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "青梅煮酒/偶像化的分野——当体育精神遭遇饭圈逻辑.md",
+    "理解Sample frequency.md",
+    "青梅煮酒/论“娜拉”走后，或献祭于资本.md",
+    "青梅煮酒/运动员是否该被偶像化？.md",
+    "MS/lecture 9.md",
     "屎味巧克力/第六章 学习法治思想 提升法治素养.md",
     "屎味巧克力/第五章 遵守道德规范  锤炼道德品格.md",
     "屎味巧克力/绪论  担当复兴大任 成就时代新人.md",
     "屎味巧克力/思政大纲.md",
-    "青梅煮酒/论“娜拉”走后，或献祭于资本.md",
-    "青梅煮酒/偶像化的分野——当体育精神遭遇饭圈逻辑.md",
     "Pytorch/单一输出感知机1.md",
     "青梅煮酒/25国乒.md",
     "青梅煮酒/国乒的“神性”黄昏：当“太子”与“饭圈”侵蚀荣誉的基石.md",
-    "青梅煮酒/运动员是否该被偶像化？.md",
     "Images/Pasted image 20250815010537.png",
     "LA/21年好题.md",
     "Images/Pasted image 20250815004234.png",
@@ -208,14 +210,12 @@
     "Images/屏幕截图 2025-08-12 165053.png",
     "MS/lecture 11.md",
     "MS/lecture 10.md",
-    "MS/lecture 9.md",
     "MS/lecture 8.md",
     "MS/lecture 7.md",
     "MS/第十三章.md",
     "MS/第十二章.md",
     "MS/第十一章.md",
     "MS/第九十章.md",
-    "MS/第八章.md",
     "MS",
     "数学建模国赛",
     "Pytorch",
