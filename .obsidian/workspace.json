@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理解Sample frequency.md",
+                "file": "DAC工作流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "理解Sample frequency"
+              "title": "DAC工作流程"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "452237c40d37c75b",
   "lastOpenFiles": [
+    "MS/理解Sample frequency.md",
+    "MS/Vref.md",
+    "DAC工作流程.md",
     "青梅煮酒/偶像化的分野——当体育精神遭遇饭圈逻辑.md",
-    "理解Sample frequency.md",
     "青梅煮酒/论“娜拉”走后，或献祭于资本.md",
     "青梅煮酒/运动员是否该被偶像化？.md",
     "MS/lecture 9.md",
@@ -214,8 +216,6 @@
     "MS/lecture 7.md",
     "MS/第十三章.md",
     "MS/第十二章.md",
-    "MS/第十一章.md",
-    "MS/第九十章.md",
     "MS",
     "数学建模国赛",
     "Pytorch",
