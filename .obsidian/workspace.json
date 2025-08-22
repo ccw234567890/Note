@@ -25,12 +25,14 @@
             "id": "12aed49e501f0116",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "MS/题目.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "icon": "lucide-file",
+              "title": "题目"
             }
           }
         ],
@@ -190,8 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12aed49e501f0116",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "MS/题目.md",
+    "MS/题目.md",
+    "MS/题目.md",
     "青梅煮酒/运动员是否该被偶像化？.md",
     "青梅煮酒/苏联革命与犹太资本.md",
     "青梅煮酒/年薪140万，女朋友15万，差了快10倍，要不要换一个？.md",
@@ -214,11 +219,7 @@
     "MS/lecture 9.md",
     "屎味巧克力/第六章 学习法治思想 提升法治素养.md",
     "屎味巧克力/第五章 遵守道德规范  锤炼道德品格.md",
-    "屎味巧克力/绪论  担当复兴大任 成就时代新人.md",
-    "屎味巧克力/思政大纲.md",
-    "Pytorch/单一输出感知机1.md",
     "Images/Pasted image 20250815010537.png",
-    "LA/21年好题.md",
     "Images/Pasted image 20250815004234.png",
     "Images/15b2a733f63f3c937b448be9ccd383b5_b8423bcbe6dea588d498e205535ffdcd1177945825.jpg@1192w_1788h.webp",
     "青梅煮酒",
