@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "MS/题目.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "12aed49e501f0116",
   "lastOpenFiles": [
     "MS/题目.md",
     "MS/题目.md",
