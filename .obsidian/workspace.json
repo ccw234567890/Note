@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS/题目.md",
+                "file": "Pytorch/长序列.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "题目"
+              "title": "长序列"
             }
           }
         ],
@@ -194,8 +194,17 @@
   },
   "active": "12aed49e501f0116",
   "lastOpenFiles": [
-    "MS/题目.md",
-    "MS/题目.md",
+    "Pytorch/转置卷积.md",
+    "Pytorch/自动求导核心笔记：计算图与梯度.md",
+    "Pytorch/CNN两大基石.md",
+    "Pytorch/DL大纲.md",
+    "Pytorch/GAN.md",
+    "Pytorch/Gradient Descent.md",
+    "Pytorch/Linear Regression.md",
+    "Pytorch/LSTM.md",
+    "Pytorch/WGAN&WGAN-GP.md",
+    "Lisa/0.md",
+    "Lisa",
     "MS/题目.md",
     "青梅煮酒/运动员是否该被偶像化？.md",
     "青梅煮酒/苏联革命与犹太资本.md",
@@ -212,13 +221,6 @@
     "MS/DAC.md",
     "MS/lecture 5.md",
     "MS/第七章.md",
-    "MS/第六章.md",
-    "MS/Vref.md",
-    "MS/DAC工作流程.md",
-    "MS/理解Sample frequency.md",
-    "MS/lecture 9.md",
-    "屎味巧克力/第六章 学习法治思想 提升法治素养.md",
-    "屎味巧克力/第五章 遵守道德规范  锤炼道德品格.md",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
     "Images/15b2a733f63f3c937b448be9ccd383b5_b8423bcbe6dea588d498e205535ffdcd1177945825.jpg@1192w_1788h.webp",
@@ -239,7 +241,6 @@
     "Python",
     "IELTS",
     "大物实验 I",
-    "新建文件夹",
     "Untitled.canvas"
   ]
 }
