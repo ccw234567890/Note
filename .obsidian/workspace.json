@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/长序列.md",
+                "file": "Lisa/0.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "长序列"
+              "title": "0"
             }
           }
         ],
@@ -194,6 +194,7 @@
   },
   "active": "12aed49e501f0116",
   "lastOpenFiles": [
+    "Pytorch/长序列.md",
     "Pytorch/转置卷积.md",
     "Pytorch/自动求导核心笔记：计算图与梯度.md",
     "Pytorch/CNN两大基石.md",
@@ -220,7 +221,6 @@
     "未命名 1.md",
     "MS/DAC.md",
     "MS/lecture 5.md",
-    "MS/第七章.md",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
     "Images/15b2a733f63f3c937b448be9ccd383b5_b8423bcbe6dea588d498e205535ffdcd1177945825.jpg@1192w_1788h.webp",
