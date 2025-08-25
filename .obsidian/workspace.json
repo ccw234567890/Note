@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lisa/0.md",
+                "file": "Lisa/环境配置.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "环境配置"
             }
           }
         ],
@@ -194,6 +194,8 @@
   },
   "active": "12aed49e501f0116",
   "lastOpenFiles": [
+    "Lisa/0.md",
+    "Lisa/环境配置.md",
     "Pytorch/长序列.md",
     "Pytorch/转置卷积.md",
     "Pytorch/自动求导核心笔记：计算图与梯度.md",
@@ -204,7 +206,6 @@
     "Pytorch/Linear Regression.md",
     "Pytorch/LSTM.md",
     "Pytorch/WGAN&WGAN-GP.md",
-    "Lisa/0.md",
     "Lisa",
     "MS/题目.md",
     "青梅煮酒/运动员是否该被偶像化？.md",
@@ -220,7 +221,6 @@
     "企业杂谈/门禁与夜宵.md",
     "未命名 1.md",
     "MS/DAC.md",
-    "MS/lecture 5.md",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
     "Images/15b2a733f63f3c937b448be9ccd383b5_b8423bcbe6dea588d498e205535ffdcd1177945825.jpg@1192w_1788h.webp",
