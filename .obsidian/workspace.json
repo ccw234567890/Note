@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lisa/0.md",
-                "mode": "preview",
+                "file": "4.coco DATASET.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "4.coco DATASET"
             }
           }
         ],
@@ -195,9 +195,10 @@
   "active": "12aed49e501f0116",
   "lastOpenFiles": [
     "Lisa/3.核心训练脚本train_ds.py.md",
+    "4.coco DATASET.md",
+    "Lisa/0.md",
     "Lisa/2.md",
     "Lisa/1.环境配置.md",
-    "Lisa/0.md",
     "Pytorch/长序列.md",
     "Pytorch/转置卷积.md",
     "Pytorch/自动求导核心笔记：计算图与梯度.md",
@@ -220,7 +221,6 @@
     "青梅煮酒/偶像化的分野——当体育精神遭遇饭圈逻辑.md",
     "数学建模国赛/前七次培训.md",
     "企业杂谈/胜券在握.md",
-    "企业杂谈/门禁与夜宵.md",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
     "Images/15b2a733f63f3c937b448be9ccd383b5_b8423bcbe6dea588d498e205535ffdcd1177945825.jpg@1192w_1788h.webp",
