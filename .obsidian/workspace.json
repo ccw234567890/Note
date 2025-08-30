@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.LjlConversasion Ⅳ.md",
+                "file": "Lisa/7.LjlConversasion Ⅳ.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,7 +195,10 @@
   "active": "12aed49e501f0116",
   "lastOpenFiles": [
     "Lisa/6.LjlConversasion Ⅲ.md",
-    "7.LjlConversasion Ⅳ.md",
+    "Lisa/7.LjlConversasion Ⅳ.md",
+    "Lisa/5.LjlConversasion Ⅱ.md",
+    "Lisa/4.LjlConversasion Ⅰ.md",
+    "Lisa/2.md",
     "企业杂谈/胜券在握.md",
     "企业杂谈/你确定这是公司？.md",
     "企业杂谈/捷径的代价.md",
@@ -206,8 +209,6 @@
     "青梅煮酒/偶像化的分野——当体育精神遭遇饭圈逻辑.md",
     "青梅煮酒/论“娜拉”走后，或献祭于资本.md",
     "Lisa/一些概念.md",
-    "Lisa/5.LjlConversasion Ⅱ.md",
-    "Lisa/4.LjlConversasion Ⅰ.md",
     "Pytorch/class的作用.md",
     "Pytorch/Transformer.md",
     "Pytorch/3.md",
@@ -219,7 +220,6 @@
     "Pytorch/广播机制 Broadcasting.md",
     "Pytorch/高级张量操作.md",
     "Pytorch/高层API.md",
-    "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
     "Lisa",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
