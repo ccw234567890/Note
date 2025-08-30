@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "企业杂谈/捷径的代价.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12aed49e501f0116",
+  "active": "12e724638a064013",
   "lastOpenFiles": [
+    "Python/序列、列表、元组、字典和集合的区别.md",
+    "企业杂谈/捷径的代价.md",
     "企业杂谈/你确定这是公司？.md",
     "Lisa/6.LjlConversasion Ⅲ.md",
     "青梅煮酒/资本、民族与权力：对苏联百年叙事的深度剖析.md",
@@ -201,7 +203,6 @@
     "青梅煮酒/年薪140万，女朋友15万，差了快10倍，要不要换一个？.md",
     "青梅煮酒/偶像化的分野——当体育精神遭遇饭圈逻辑.md",
     "青梅煮酒/论“娜拉”走后，或献祭于资本.md",
-    "企业杂谈/捷径的代价.md",
     "未命名.md",
     "Lisa/一些概念.md",
     "Lisa/5.LjlConversasion Ⅱ.md",
@@ -219,7 +220,6 @@
     "Pytorch/高层API.md",
     "Pytorch/分类模型的优化心法：从准确率到交叉熵.md",
     "Pytorch/多输出感知机2.md",
-    "Pytorch/多分类神经网络.md",
     "Lisa",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
