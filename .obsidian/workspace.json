@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "企业杂谈/捷径的代价.md",
-                "mode": "preview",
+                "file": "Lisa/5.LjlConversasion Ⅱ.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "捷径的代价"
+              "title": "5.LjlConversasion Ⅱ"
             }
           }
         ],
@@ -194,10 +194,11 @@
   },
   "active": "12aed49e501f0116",
   "lastOpenFiles": [
-    "企业杂谈/你确定这是公司？.md",
+    "Pytorch/class的作用.md",
     "Lisa/5.LjlConversasion Ⅱ.md",
-    "Lisa/一些概念.md",
+    "企业杂谈/你确定这是公司？.md",
     "企业杂谈/捷径的代价.md",
+    "Lisa/一些概念.md",
     "Pytorch/Transformer.md",
     "Pytorch/3.md",
     "Pytorch/GAN.md",
@@ -219,7 +220,6 @@
     "Pytorch/神经网络的层级连接示例.md",
     "Pytorch/神经网络核心概念.md",
     "Pytorch/CNN两大基石.md",
-    "Pytorch/Softmax函数.md",
     "Lisa",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
