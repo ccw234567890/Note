@@ -39,12 +39,14 @@
             "id": "5536a10f79b79b4c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Lisa/7.LjlConversasion Ⅳ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.12"
+              "icon": "lucide-file",
+              "title": "7.LjlConversasion Ⅳ"
             }
           }
         ],
