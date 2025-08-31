@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.LjlConversasion Ⅶ.md",
+                "file": "Lisa/10.LjlConversasion Ⅶ.md",
                 "mode": "preview",
                 "source": false
               },
@@ -206,10 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5536a10f79b79b4c",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "MS/lecture 4.md",
+    "MS/lecture 3.md",
+    "MS/第十一章.md",
+    "Lisa/10.LjlConversasion Ⅶ.md",
     "Lisa/9.LjlConversasion Ⅵ.md",
-    "10.LjlConversasion Ⅶ.md",
     "Lisa/8.LjlConversasion Ⅴ.md",
     "Lisa/一些概念.md",
     "Lisa/7.LjlConversasion Ⅳ.md",
@@ -233,9 +236,6 @@
     "Pytorch/3.md",
     "Pytorch/GAN.md",
     "Pytorch/LSTM.md",
-    "Pytorch/ResNet vs. DenseNet-两种顶级网络设计哲学.md",
-    "Pytorch/RNN流程.md",
-    "Pytorch/合并与分割张量.md",
     "Lisa",
     "Images/Pasted image 20250815010537.png",
     "Images/Pasted image 20250815004234.png",
