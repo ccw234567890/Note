@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +208,10 @@
   },
   "active": "5536a10f79b79b4c",
   "lastOpenFiles": [
+    "Lisa/一些概念.md",
+    "Lisa/7.LjlConversasion Ⅳ.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
-    "Lisa/7.LjlConversasion Ⅳ.md",
     "Lisa/6.LjlConversasion Ⅲ.md",
     "Lisa/5.LjlConversasion Ⅱ.md",
     "Lisa/4.LjlConversasion Ⅰ.md",
@@ -224,7 +225,6 @@
     "青梅煮酒/年薪140万，女朋友15万，差了快10倍，要不要换一个？.md",
     "青梅煮酒/偶像化的分野——当体育精神遭遇饭圈逻辑.md",
     "青梅煮酒/论“娜拉”走后，或献祭于资本.md",
-    "Lisa/一些概念.md",
     "Pytorch/class的作用.md",
     "Pytorch/Transformer.md",
     "Pytorch/3.md",
@@ -246,7 +246,6 @@
     "Images/屏幕截图 2025-08-12 165148.png",
     "Images/屏幕截图 2025-08-12 165139.png",
     "Images/屏幕截图 2025-08-12 165118.png",
-    "Images/屏幕截图 2025-08-12 165106.png",
     "MS",
     "数学建模国赛",
     "Pytorch",
