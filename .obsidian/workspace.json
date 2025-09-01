@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lisa/14.第四次SSH（非常有用）.md",
+                "file": "15.第五次SSH（非常有用）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.第四次SSH（非常有用）"
+              "title": "15.第五次SSH（非常有用）"
             }
           }
         ],
@@ -206,10 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12e724638a064013",
+  "active": "5536a10f79b79b4c",
   "lastOpenFiles": [
-    "Lisa/12.第二次SSH.md",
     "Lisa/14.第四次SSH（非常有用）.md",
+    "15.第五次SSH（非常有用）.md",
+    "Lisa/12.第二次SSH.md",
     "Lisa/13.第三次SSH.md",
     "Lisa/11.第一次SSH.md",
     "Lisa/10.LjlConversasion Ⅶ.md",
@@ -236,7 +237,6 @@
     "MS/lecture 6.md",
     "MS/lecture 7.md",
     "MS/lecture 8.md",
-    "MS/lecture 4.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Lisa",
