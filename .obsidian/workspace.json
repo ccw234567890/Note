@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS/晶体管概念辨析：阈值电压 vs. 开启电压.md",
+                "file": "数学建模国赛/前七次培训.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "晶体管概念辨析：阈值电压 vs. 开启电压"
+              "title": "前七次培训"
             }
           }
         ],
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "5536a10f79b79b4c",
   "lastOpenFiles": [
+    "MS/阈值电压 vs. 开启电压.md",
     "MS/Body Electrode.md",
-    "MS/晶体管概念辨析：阈值电压 vs. 开启电压.md",
     "MS/根据考试的分析.md",
     "MS/理解Sample frequency.md",
     "MS/DAC工作流程.md",
