@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
+                "file": "MS/晶体管概念辨析：阈值电压 vs. 开启电压.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "晶体管概念辨析：阈值电压 vs. 开启电压"
             }
           }
         ],
@@ -208,9 +208,15 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "EFES B",
+    "MS/Body Electrode.md",
+    "MS/晶体管概念辨析：阈值电压 vs. 开启电压.md",
+    "MS/根据考试的分析.md",
+    "MS/理解Sample frequency.md",
+    "MS/DAC工作流程.md",
+    "MS/DAC.md",
+    "MS/CPU内部基本操作流程.md",
     "EFES B/EFES B 9.3.md",
-    "未命名.md",
+    "EFES B",
     "马原/马原9.1.md",
     "马原/马原9.3.md",
     "马原",
@@ -230,11 +236,6 @@
     "Lisa/11.第一次SSH.md",
     "Lisa/10.LjlConversasion Ⅶ.md",
     "Lisa/一些概念.md",
-    "屎味巧克力/马原9.1.md",
-    "屎味巧克力/思政/绪论  担当复兴大任 成就时代新人.md",
-    "屎味巧克力/思政/思政大纲.md",
-    "屎味巧克力/思政/第一章  领悟人生真谛 把握人生方向.md",
-    "屎味巧克力/思政/第五章 遵守道德规范  锤炼道德品格.md",
     "屎味巧克力/思政",
     "屎味巧克力/新建文件夹",
     "新建文件夹",
@@ -253,7 +254,6 @@
     "Images/屏幕截图 2025-08-12 165118.png",
     "MS",
     "数学建模国赛",
-    "Pytorch",
     "未命名.canvas",
     "Untitled.canvas"
   ]
