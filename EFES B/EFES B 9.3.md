@@ -34,3 +34,6 @@
 -   **In stark contrast to X, Y exhibits...**
 -   **While X is characterized by..., Y, conversely, is...**
 -   **A notable discrepancy can be observed between X and Y.**
+
+![image.png](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202509082344504.png)
+![image.png](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202509082344259.png)
