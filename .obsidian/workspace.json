@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/1.md",
+                "file": "论文/Week Ⅰ/深度残差学习在图像识别中的应用/1.摘要.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "1.摘要"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,11 +179,12 @@
   },
   "active": "5a4a2a466b1936c2",
   "lastOpenFiles": [
+    "论文/Week Ⅰ/深度残差学习在图像识别中的应用/1512.03385v1.pdf",
+    "论文/Week Ⅰ/深度残差学习在图像识别中的应用/1.摘要.md",
+    "Pytorch/1.md",
     "《深度残差学习在图像识别中的应用》通读.md",
-    "《深度残差学习在图像识别中的应用》精读.md",
     "神经网络层结构.md",
     "Physics Ⅱ/CH19作业难点.md",
-    "论文/Week Ⅰ/深度残差学习在图像识别中的应用/1512.03385v1.pdf",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用",
     "论文/Week Ⅰ/新建文件夹",
     "论文/Week Ⅰ/1512.03385v1.pdf",
@@ -214,7 +214,6 @@
     "MS/lecture 6.md",
     "MS/lecture 5.md",
     "MS/lecture 4.md",
-    "MS/根据考试的分析.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
