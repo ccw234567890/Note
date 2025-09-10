@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅰ/深度残差学习在图像识别中的应用/3.Deep Residual Learning.md",
+                "file": "核心关系：卷积、池化、维度与尺寸的变换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Deep Residual Learning"
+              "title": "核心关系：卷积、池化、维度与尺寸的变换"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "池化",
+                "query": "全连接层",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,11 @@
   },
   "active": "31a9d11f4c09b312",
   "lastOpenFiles": [
-    "Projection Shortcut.md",
+    "Fully Connected Layer.md",
+    "核心关系：卷积、池化、维度与尺寸的变换.md",
+    "Pytorch/RNN流程.md",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用/3.Deep Residual Learning.md",
+    "论文/Week Ⅰ/深度残差学习在图像识别中的应用/Projection Shortcut.md",
     "Pytorch/Transformer.md",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用/概念：Transformer中的“维度” (Dimensions in a Transformer).md",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用/Fig. 2.md",
@@ -205,9 +208,6 @@
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用/Convergence Rate.md",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用/Auxiliary Classifier.md",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用/响应值.md",
-    "论文/Week Ⅰ/深度残差学习在图像识别中的应用/全零映射.md",
-    "论文/Week Ⅰ/深度残差学习在图像识别中的应用/2.Related work.md",
-    "论文/prompt2.md",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用/1512.03385v1.pdf",
     "Vanishing",
     "论文/Week Ⅰ/深度残差学习在图像识别中的应用",
