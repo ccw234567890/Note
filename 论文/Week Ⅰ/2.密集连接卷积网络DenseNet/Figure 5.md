@@ -1,3 +1,4 @@
+![image.png](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202509111936585.png)
 好的，这张图是 DenseNet 论文中的一个关键实验结果（图5），它非常直观地展示了 DenseNet 的核心机制——**特征重用（Feature Reuse）**是如何在实际训练中发生的。
 
 我们来详细解析这张图的每一个部分。
