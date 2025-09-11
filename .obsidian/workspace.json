@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
-                "mode": "preview",
+                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/1.Introduction.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequence Transduction"
+              "title": "1.Introduction"
             }
           }
         ]
@@ -178,11 +178,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "31a9d11f4c09b312",
   "lastOpenFiles": [
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/0.Abstract.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/1.Introduction.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Hidden State.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/1706.03762v7.pdf",
+    "论文/Week Ⅰ/1709.01507v4.pdf",
+    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/1608.06993v5.pdf",
+    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/1512.03385v1.pdf",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Attention Mechanism.md",
     "论文/prompt2.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Recurrent Neural Networks (RNN).md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/时间步.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
     "论文/Week Ⅰ/3.《Attention is all you need》/1706.03762v7.pdf",
     "论文/Week Ⅰ/3.《Attention is all you need》",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Summation (Element-wise Addition).md",
@@ -204,18 +214,7 @@
     "EFES B/EFES B 9.9 从两篇LED Summary范文中提炼精华.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/4.Experiment.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Concatenation.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/1608.06993v5.pdf",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Transition Layer.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Bottleneck Layer.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 3.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Data Augmentation.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Compression Factor.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 2.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Table 1.md",
     "论文/Week Ⅰ/1706.03762v7.pdf",
-    "论文/Week Ⅰ/1905.10671v2.pdf",
-    "论文/Week Ⅰ/1709.01507v4.pdf",
-    "论文/Week Ⅰ/1608.06993v5.pdf",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
