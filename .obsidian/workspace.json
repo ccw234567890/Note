@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/prompt2.md",
+                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt2"
+              "title": "Sequence Transduction"
             }
           }
         ]
@@ -180,6 +180,9 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/0.Abstract.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
+    "论文/prompt2.md",
     "论文/Week Ⅰ/3.《Attention is all you need》/1706.03762v7.pdf",
     "论文/Week Ⅰ/3.《Attention is all you need》",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Summation (Element-wise Addition).md",
@@ -191,7 +194,6 @@
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 5.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/随机深度训练的ResNet.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/前馈特性.md",
-    "论文/prompt2.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Stochastic Depth.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Implicit Deep Supervision.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 4.md",
@@ -210,12 +212,10 @@
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Compression Factor.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 2.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Table 1.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/3. DenseNets.md",
     "论文/Week Ⅰ/1706.03762v7.pdf",
     "论文/Week Ⅰ/1905.10671v2.pdf",
     "论文/Week Ⅰ/1709.01507v4.pdf",
     "论文/Week Ⅰ/1608.06993v5.pdf",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
