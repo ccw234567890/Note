@@ -16,7 +16,7 @@
 - **X 轴 (横坐标)**: `#parameters` (x 10^6) - 模型参数量（百万为单位），**越靠左越好**（越高效）。
 - **四条曲线**:
     - `DenseNet` (黑): 基础版。
-    - `DenseNet-C` (绿): 只在[[过渡层 (Transition Layer)|过渡层]]使用了**压缩（Compression）**。
+    - `DenseNet-C` (绿): 只在[[Transition Layer|过渡层]]使用了**压缩（Compression）**。
     - `DenseNet-B` (红): 只在内部使用了**[[Bottleneck Layer|瓶颈层]]**。
     - `DenseNet-BC` (蓝): 同时使用**瓶颈层**和**压缩**。
 
