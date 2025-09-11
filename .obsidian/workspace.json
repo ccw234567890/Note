@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前馈特性.md",
-                "mode": "source",
+                "file": "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/Inception Module.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前馈特性"
+              "title": "Inception Module"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正则化",
+                "query": "transformer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,18 +180,23 @@
   },
   "active": "31a9d11f4c09b312",
   "lastOpenFiles": [
-    "论文/Week Ⅰ/2.密集连接卷积网络/filters.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/2.Related work.md",
+    "论文/prompt2.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/1608.06993v5.pdf",
     "论文/Week Ⅰ/2.密集连接卷积网络/1.Introduction.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/前馈特性.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/Transformer.md",
+    "Lisa/一些概念.md",
+    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/反向传播.md",
+    "循环神经网络 (RNN).md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/filters.md",
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/通道.md",
-    "前馈特性.md",
     "论文/Week Ⅰ/2.密集连接卷积网络/FractalNets.md",
     "残差网络 (ResNet).md",
     "论文/Week Ⅰ/2.密集连接卷积网络/Stochastic Depth.md",
     "Pytorch/DL大纲.md",
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/4.Experiments.md",
     "Pytorch/1.md",
-    "论文/prompt2.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络/1608.06993v5.pdf",
     "论文/Week Ⅰ/2.密集连接卷积网络/0.Abstract.md",
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/Exploding Gradients.md",
     "Vanishing Gradients.md",
@@ -204,11 +209,6 @@
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/Fig. 5.md",
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/Fig. 7.md",
     "Pytorch/单一输出感知机1.md",
-    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/Fully Connected Layer.md",
-    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/核心关系：卷积、池化、维度与尺寸的变换.md",
-    "EFES B/EFES B 9.10.md",
-    "马原/马原9.10.md",
-    "Pytorch/RNN流程.md",
     "通道（channels",
     "64 个通道（channels",
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/1512.03385v1.pdf",
