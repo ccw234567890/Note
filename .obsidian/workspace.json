@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/prompt2.md",
+                "file": "论文/Week Ⅰ/2.密集连接卷积网络/6.Conclusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt2"
+              "title": "6.Conclusion"
             }
           }
         ]
@@ -178,13 +178,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31a9d11f4c09b312",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "论文/Week Ⅰ/2.密集连接卷积网络/1608.06993v5.pdf",
-    "未命名.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络/4.Experiment.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络/Transition Layer.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/5.Discussion.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/6.Conclusion.md",
+    "论文/prompt2.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/Figure 5.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/Stochastic Depth.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/Implicit Deep Supervision.md",
     "论文/Week Ⅰ/2.密集连接卷积网络/Figure 4.md",
+    "EFES B/EFES B 9.11 Tutorial：Bulb summary sample.md",
+    "EFES B/EFES B 9.3 学术写作：描述相似点与不同点.md",
+    "EFES B/EFES B 9.10 文献综述 (Literature Review).md",
+    "EFES B/EFES B 9.4 LED Transcript.md",
+    "EFES B/EFES B 9.9 从两篇LED Summary范文中提炼精华.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/Summation (Element-wise Addition).md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/4.Experiment.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/Concatenation.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络/1608.06993v5.pdf",
+    "论文/Week Ⅰ/2.密集连接卷积网络/Transition Layer.md",
     "论文/Week Ⅰ/2.密集连接卷积网络/Bottleneck Layer.md",
     "论文/Week Ⅰ/2.密集连接卷积网络/Figure 3.md",
     "论文/Week Ⅰ/2.密集连接卷积网络/Data Augmentation.md",
@@ -195,20 +207,9 @@
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/4.Experiments.md",
     "论文/Week Ⅰ/2.密集连接卷积网络/Table 3.md",
     "论文/Week Ⅰ/2.密集连接卷积网络/Model Capacity.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络/Table 2.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络/Learning Rate.md",
-    "Pytorch/1.md",
-    "论文/prompt2.md",
     "论文/Week Ⅰ/1706.03762v7.pdf",
-    "论文/Week Ⅰ/2.密集连接卷积网络/Dense blocks.md",
     "论文/Week Ⅰ/1905.10671v2.pdf",
     "论文/Week Ⅰ/1709.01507v4.pdf",
-    "论文/Week Ⅰ/2.密集连接卷积网络/Deeply-Supervised Nets (DSN).md",
-    "论文/Week Ⅰ/2.密集连接卷积网络/2.Related work.md",
-    "Pytorch/2.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络/Network in Network (NIN).md",
-    "讲解一下Fully Connected Layer.md",
-    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用/Inception Module.md",
     "论文/Week Ⅰ/1608.06993v5.pdf",
     "论文/Week Ⅰ/2.密集连接卷积网络",
     "通道（channels",
