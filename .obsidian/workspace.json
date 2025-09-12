@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous Representation.md",
+                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuous Representation"
+              "title": "3.Model"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "31a9d11f4c09b312",
   "lastOpenFiles": [
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Continuous Representation.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
-    "Continuous Representation.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
     "大物实验 Ⅱ/6.使用迈克尔逊干涉仪测量激光波长和空气折射率.md",
