@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Continuous Representation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Continuous Representation"
             }
           }
         ]
@@ -180,11 +180,22 @@
   },
   "active": "31a9d11f4c09b312",
   "lastOpenFiles": [
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
+    "Continuous Representation.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
+    "大物实验 Ⅱ/6.使用迈克尔逊干涉仪测量激光波长和空气折射率.md",
+    "大物实验 Ⅱ/Measuring Laser wavelength and Index of Refraction of Air by Michelson Interferometer.pdf",
+    "大物实验 Ⅱ/13-Writing a lab report-Appendix 1.pdf",
+    "大物实验 Ⅱ/大学物理实验  -英文版 付浩著_科学出版社 , 2017.01-9787030514073-14423491.pdf",
+    "大物实验 Ⅱ/Lab Ⅵ.md",
+    "大物实验 Ⅱ/Data tables-2021.pdf",
+    "大物实验 Ⅱ/未命名.md",
+    "大物实验 Ⅱ/Measuring Laser wavelength and Index of Refraction of Air by  Michelson Interferometer.pdf",
+    "大物实验 Ⅱ/Measuring Laser wavelength and Index of Refraction of Air by  Michelson Interferometer.pdf",
     "大物实验 Ⅱ/~$ta tables-2021.docx",
     "大物实验 Ⅱ/~$lculations for Lab 6.docx",
     "大物实验 Ⅱ/~$-Template for Prelab work-Physical Experiment 2-2025.docx",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
-    "未命名.md",
     "大物实验 Ⅰ/误差.md",
     "大物实验 Ⅰ/未命名 1.md",
     "大物实验 Ⅰ/有效数字.md",
@@ -194,13 +205,6 @@
     "大物实验 Ⅰ/1.2.md",
     "大物实验 Ⅰ/不确定度.md",
     "大物实验 Ⅰ",
-    "大物实验 Ⅱ/大学物理实验  -英文版 付浩著_科学出版社 , 2017.01-9787030514073-14423491.pdf",
-    "大物实验 Ⅱ/Use a spectrometer to measure the apex angle of a prism and the.ppt",
-    "大物实验 Ⅱ/The Photoelectric Effect.ppt",
-    "大物实验 Ⅱ/The Millikan Oil Drop Experiment.ppt",
-    "大物实验 Ⅱ/The Potentiometer.ppt",
-    "大物实验 Ⅱ/The Frank-Hertz Experiment.ppt",
-    "大物实验 Ⅱ/Measuring Laser wavelength and Index of Refraction of Air by  Michelson Interferometer.ppt",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Self-Attention.md",
     "论文/prompt2.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/2.Backgroud.md",
@@ -211,11 +215,7 @@
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/0.Abstract.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Hidden State.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Attention Mechanism.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Recurrent Neural Networks (RNN).md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/时间步.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
-    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Summation (Element-wise Addition).md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
