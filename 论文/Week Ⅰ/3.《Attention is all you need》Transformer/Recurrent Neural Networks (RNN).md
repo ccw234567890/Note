@@ -70,7 +70,7 @@ RNN 的核心是一个可以“循环”的单元。在处理序列时，这个�
 
 - **多对多 (Many-to-Many, 异步)**:
     - **结构**: 先完整读入一个输入序列，然后再开始生成一个输出序列。
-    - **应用**: **[[Sequence Transduction|序列转导]]**，如**机器翻译**。例如，先完整输入英文句子 "Hello world"，再输出中文句子“你好 世界”。这通常由一个 **Encoder-Decoder** 架构实现。
+    - **应用**: **[[论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction|序列转导]]**，如**机器翻译**。例如，先完整输入英文句子 "Hello world"，再输出中文句子“你好 世界”。这通常由一个 **Encoder-Decoder** 架构实现。
 
 ---
 

@@ -3,7 +3,7 @@
 **标签**: #MachineLearning #NLP #Seq2Seq #Transformer #CoreConcept
 
 > [!quote] 核心论述
-> **[[Sequence Transduction]]**: 指将一个序列作为输入，并生成另一个序列作为输出的任务，例如机器翻译、语音识别等。
+> **[[论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction]]**: 指将一个序列作为输入，并生成另一个序列作为输出的任务，例如机器翻译、语音识别等。
 
 ---
 

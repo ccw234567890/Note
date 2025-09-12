@@ -3,13 +3,13 @@
 **标签**: #DeepLearning #NLP #Seq2Seq #RNN #Transformer #Architecture
 
 > [!quote] 核心论述
-> **[[Encoder-Decoder Architecture]]**: [[Sequence Transduction|序列到序列]]任务的标准框架，编码器负责理解输入序列，解码器负责生成输出序列。
+> **[[Encoder-Decoder Architecture]]**: [[论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction|序列到序列]]任务的标准框架，编码器负责理解输入序列，解码器负责生成输出序列。
 
 ---
 
 ## 1. 核心思想：“先理解，再表达”
 
-编码器-解码器（Encoder-Decoder）架构是解决[[Sequence Transduction|序列转导（Seq2Seq）]]问题的标准“蓝图”。它将复杂的序列转换任务优美地拆分成了两个阶段。
+编码器-解码器（Encoder-Decoder）架构是解决[[论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction|序列转导（Seq2Seq）]]问题的标准“蓝图”。它将复杂的序列转换任务优美地拆分成了两个阶段。
 
 > **核心比喻：人类翻译官**
 > 这个架构的工作方式，与人类翻译官翻译句子的过程高度相似：
@@ -71,7 +71,7 @@
     - **工作方式**:
         - 编码器不再是产出一个**单一的**上下文向量，而是为输入序列的**每一个**位置都产出一个丰富的上下文表示。
         - 解码器在生成每一个输出词时，不再只依赖一个固定的“思想向量”。相反，它会通过注意力机制，“**回顾**”和“**关注**”编码器为所有输入词生成的表示，并动态地决定在当前这一步，哪些输入词的信息最重要。
-    - **优势**: 这种“想一句，看一眼原文”的模式，使得模型可以轻松处理非常长的序列，并取得了革命性的成功，成为现代几乎所有 [[Sequence Transduction|序列转导]] 任务的基石。
+    - **优势**: 这种“想一句，看一眼原文”的模式，使得模型可以轻松处理非常长的序列，并取得了革命性的成功，成为现代几乎所有 [[论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction|序列转导]] 任务的基石。
 好的，我们用一个最经典的**机器翻译**任务，来一步步走完编码器-解码器（Encoder-Decoder）架构的整个流程。
 
 假设我们要将英文句子 **"How are you"** 翻译成中文 **"你好吗"**。
