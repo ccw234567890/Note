@@ -11,14 +11,12 @@
             "id": "31a9d11f4c09b312",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
-                "mode": "preview",
-                "source": false
+                "file": "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/1608.06993v5.pdf"
               },
-              "icon": "lucide-file",
-              "title": "3.Model"
+              "icon": "lucide-file-text",
+              "title": "1608.06993v5"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Figure",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +178,15 @@
   },
   "active": "31a9d11f4c09b312",
   "lastOpenFiles": [
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Continuous Representation.md",
+    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/1512.03385v1.pdf",
+    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/《深度残差学习在图像识别中的应用》通读.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/1706.03762v7.pdf",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Attention Mechanism.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Computational Path Length.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Continuous Representation.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Recurrent Neural Networks (RNN).md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Self-Attention.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
     "大物实验 Ⅱ/6.使用迈克尔逊干涉仪测量激光波长和空气折射率.md",
@@ -204,18 +209,11 @@
     "大物实验 Ⅰ/仪器误差的确定.md",
     "大物实验 Ⅰ/1.2.md",
     "大物实验 Ⅰ/不确定度.md",
-    "大物实验 Ⅰ",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Self-Attention.md",
     "论文/prompt2.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/2.Backgroud.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Computational Path Length.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/ByteNet.md",
     "Sequence Transduction.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/1.Introduction.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/0.Abstract.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Hidden State.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Attention Mechanism.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Recurrent Neural Networks (RNN).md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
