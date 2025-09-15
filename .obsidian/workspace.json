@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics Ⅱ/1.高斯定律往年考试题.md",
+                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.高斯定律往年考试题"
+              "title": "Auto-regressive Model"
             }
           }
         ]
@@ -178,13 +178,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
+    "Physics Ⅱ/1.高斯定律往年考试题.md",
     "Physics Ⅱ/CH20补充.md",
     "Physics Ⅱ/CH20 Gauss's Law的理解补充.md",
     "Physics Ⅱ/CH20 Gauss's Law.md",
     "Physics Ⅱ/CH19 Coulomb's Law.md",
-    "Physics Ⅱ/1.高斯定律往年考试题.md",
     "Images/Gauss's Law and its conprehension.pdf",
     "Physics Ⅱ/CH19作业难点.md",
     "Images/Electric field involving conductors.pdf",
@@ -204,18 +207,15 @@
     "AI模型练习/LFM2-350M/Docker,Git,Linux.md",
     "AI模型练习/LFM2-350M/本地运行 AI 模型 (LFM2-350M) 最终操作指南.md",
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/《深度残差学习在图像识别中的应用》通读.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Attention Mechanism.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Computational Path Length.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Continuous Representation.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Recurrent Neural Networks (RNN).md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Self-Attention.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
     "大物实验 Ⅱ/未命名.md",
     "大物实验 Ⅰ/误差.md",
     "大物实验 Ⅰ/未命名 1.md",
-    "大物实验 Ⅰ/有效数字.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
