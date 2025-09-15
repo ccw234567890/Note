@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Physics Ⅱ/CH20 Gauss's Law.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
     "Physics Ⅱ/CH19 Coulomb's Law.md",
     "Physics Ⅱ/CH20 Gauss's Law.md",
