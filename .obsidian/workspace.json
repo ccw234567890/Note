@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
+                "file": "lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto-regressive Model"
+              "title": "lecture 4"
             }
           }
         ]
@@ -178,10 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
+    "lecture 3.md",
+    "lecture 4.md",
+    "CAD/lecture 1.md",
+    "Images/Lecture 3.pdf",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
     "Physics Ⅱ/1.高斯定律往年考试题.md",
     "Physics Ⅱ/CH20补充.md",
@@ -199,7 +203,6 @@
     "大物实验 Ⅱ/d4ec619e95cf43c3b4c256c88ee0f7cf",
     "大物实验 Ⅱ/~$ta tables-2021.docx",
     "大物实验 Ⅱ/Physical Exp+EEE+2024300901016+prelab08.pdf",
-    "大物实验 Ⅱ/~$-Template for Prelab work-Physical Experiment 2-2025.docx",
     "大物实验 Ⅱ/PPT/Lab Ⅰ.md",
     "大物实验 Ⅱ/原文/6.使用迈克尔逊干涉仪测量激光波长和空气折射率.md",
     "大物实验 Ⅱ/PPT/Lab Ⅵ.md",
@@ -212,10 +215,6 @@
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Continuous Representation.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Recurrent Neural Networks (RNN).md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Self-Attention.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Sequence Transduction.md",
-    "大物实验 Ⅱ/未命名.md",
-    "大物实验 Ⅰ/误差.md",
-    "大物实验 Ⅰ/未命名 1.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
