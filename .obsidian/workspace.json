@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI模型练习/新生项目/filter参数过滤器.md",
+                "file": "概率论/Week 3/可数集与不可数集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "filter参数过滤器"
+              "title": "可数集与不可数集"
             }
           }
         ]
@@ -177,10 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12e724638a064013",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "AI模型练习/新生项目/3.train.py.md",
+    "概率论/Week 3/1 (9.16).md",
+    "概率论/Week 3/可数集与不可数集.md",
+    "概率论/Week 3",
+    "概率论",
     "AI模型练习/新生项目/filter参数过滤器.md",
+    "AI模型练习/新生项目/3.train.py.md",
     "AI模型练习/新生项目/动态学习率调度.md",
     "AI模型练习/新生项目/Momentum优化器.md",
     "AI模型练习/新生项目/NumPy.md",
@@ -205,16 +209,12 @@
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
     "Physics Ⅱ/1.高斯定律往年考试题.md",
     "Physics Ⅱ/CH20补充.md",
-    "Physics Ⅱ/CH20 Gauss's Law的理解补充.md",
-    "Physics Ⅱ/CH20 Gauss's Law.md",
     "Images/Gauss's Law and its conprehension.pdf",
     "Images/Electric field involving conductors.pdf",
     "~$Electric field involving conductors.pptx",
     "Electric field involving conductors.pptx",
     "大物实验 Ⅱ/~$-Template for long lab report-Physical Experiment 2-2025.docx",
     "大物实验 Ⅱ/d4ec619e95cf43c3b4c256c88ee0f7cf/bac6d37ccd284d28bf93c450974ab502.pdf",
-    "大物实验 Ⅱ/d4ec619e95cf43c3b4c256c88ee0f7cf",
-    "大物实验 Ⅱ/~$ta tables-2021.docx",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
