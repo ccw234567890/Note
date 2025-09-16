@@ -1,5 +1,7 @@
-![9b3d5578e5e72238202330407204a50.jpg](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202509092014704.jpg)
-![078561007ab09a576e41b85af7f04e4.jpg](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202509092014031.jpg)
+
+
+![image.png](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202509161955859.png)
+
 ![9f8d99f10a2eaa14a9df8829cf64afb.jpg](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202509092015851.jpg)
 
 # 写作技巧解析：从两篇LED Summary范文中提炼精华

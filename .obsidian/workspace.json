@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/DL大纲.md",
+                "file": "CAD/lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DL大纲"
+              "title": "lecture 2"
             }
           }
         ]
@@ -177,18 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
+    "EFES B/EFES B 9.9 从两篇LED Summary范文中提炼精华.md",
+    "EFES B/EFES B 9.4 LED Transcript.md",
+    "EFES B/EFES B 9.3 学术写作：描述相似点与不同点.md",
+    "CAD/lecture 1.md",
+    "CAD/lecture 2.md",
+    "CAD/lecture 3.md",
+    "Pytorch/DL大纲.md",
     "Physics Ⅱ/CH21.md",
     "Physics Ⅱ/CH20作业整理.md",
     "Physics Ⅱ/CH19作业整理.md",
     "Physics Ⅱ/CH20补充.md",
     "Physics Ⅱ/CH20 Gauss's Law的理解补充.md",
     "Physics Ⅱ/CH19 Coulomb's Law.md",
-    "CAD/lecture 1.md",
     "马原/马原 9.15.md",
-    "CAD/lecture 2.md",
-    "CAD/lecture 3.md",
     "概率论/Week 3/可数集与不可数集.md",
     "概率论/Week 3/1 (9.16).md",
     "概率论/Week 3",
@@ -203,10 +207,6 @@
     "AI模型练习/新生项目/Mindspore.md",
     "AI模型练习/新生项目/随机种子.md",
     "AI模型练习/新生项目/Softmax.md",
-    "AI模型练习/新生项目/分类头 (Head Net).md",
-    "AI模型练习/新生项目/分类头.md",
-    "AI模型练习/新生项目/2.“解码”路线.md",
-    "青梅煮酒/25国乒.md",
     "AI模型练习/新生项目",
     "Images/Lecture 3.pdf",
     "Images/Gauss's Law and its conprehension.pdf",
