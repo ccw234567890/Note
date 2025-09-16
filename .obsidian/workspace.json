@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI模型练习/新生项目/2。.md",
+                "file": "AI模型练习/新生项目/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2。"
+              "title": "未命名"
             }
           }
         ]
@@ -177,10 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "AI模型练习/新生项目/2.“解码”路线.md",
+    "AI模型练习/新生项目/未命名.md",
     "AI模型练习/新生项目/0.md",
-    "AI模型练习/新生项目/2。.md",
     "AI模型练习/新生项目/1.md",
     "AI模型练习/新生项目",
     "lecture 3.md",
@@ -214,7 +215,6 @@
     "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/《深度残差学习在图像识别中的应用》通读.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Attention Mechanism.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Computational Path Length.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Continuous Representation.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
