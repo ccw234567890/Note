@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAD/lecture 2.md",
+                "file": "CAD/lecture 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 2"
+              "title": "lecture 3"
             }
           }
         ]
@@ -179,11 +179,11 @@
   },
   "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
+    "CAD/lecture 2.md",
     "EFES B/EFES B 9.9 从两篇LED Summary范文中提炼精华.md",
     "EFES B/EFES B 9.4 LED Transcript.md",
     "EFES B/EFES B 9.3 学术写作：描述相似点与不同点.md",
     "CAD/lecture 1.md",
-    "CAD/lecture 2.md",
     "CAD/lecture 3.md",
     "Pytorch/DL大纲.md",
     "Physics Ⅱ/CH21.md",
