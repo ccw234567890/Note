@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI模型练习/新生项目/Momentum优化器.md",
-                "mode": "preview",
+                "file": "AI模型练习/新生项目/CrossEntropyWithLabelSmooth交叉熵损失.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Momentum优化器"
+              "title": "CrossEntropyWithLabelSmooth交叉熵损失"
             }
           }
         ]
@@ -177,11 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "解析：“分类头” (Head Net) 的矩阵变换模拟.md",
-    "AI模型练习/新生项目/Momentum优化器.md",
     "AI模型练习/新生项目/3.train.py.md",
+    "AI模型练习/新生项目/CrossEntropyWithLabelSmooth交叉熵损失.md",
+    "AI模型练习/新生项目/Momentum优化器.md",
+    "解析：“分类头” (Head Net) 的矩阵变换模拟.md",
     "AI模型练习/新生项目/Mindspore.md",
     "AI模型练习/新生项目/随机种子.md",
     "AI模型练习/新生项目/Softmax.md",
@@ -214,7 +215,6 @@
     "大物实验 Ⅱ/d4ec619e95cf43c3b4c256c88ee0f7cf/bac6d37ccd284d28bf93c450974ab502.pdf",
     "大物实验 Ⅱ/d4ec619e95cf43c3b4c256c88ee0f7cf",
     "大物实验 Ⅱ/~$ta tables-2021.docx",
-    "大物实验 Ⅱ/PPT/Lab Ⅰ.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
