@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI模型练习/新生项目/9.落地实用性（使用Transformer的情况）.md",
+                "file": "AI模型练习/LFM2-350M/本地运行 AI 模型 (LFM2-350M) 最终操作指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.落地实用性（使用Transformer的情况）"
+              "title": "本地运行 AI 模型 (LFM2-350M) 最终操作指南"
             }
           }
         ]
@@ -177,10 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "AI模型练习/新生项目/8.实用性落地（使用ResNet的情况）.md",
+    "AI模型练习/未命名/0.md",
+    "AI模型练习/未命名2",
     "AI模型练习/新生项目/9.落地实用性（使用Transformer的情况）.md",
+    "AI模型练习/未命名",
+    "AI模型练习/新生项目/8.实用性落地（使用ResNet的情况）.md",
     "lecture 4.md",
     "AI模型练习/新生项目/5.ResNet的优越性.md",
     "AI模型练习/新生项目/7.Transformer的优越性.md",
@@ -203,8 +206,6 @@
     "Physics Ⅱ/CH20补充.md",
     "Physics Ⅱ/CH20 Gauss's Law的理解补充.md",
     "Physics Ⅱ/CH19 Coulomb's Law.md",
-    "马原/马原 9.15.md",
-    "概率论/Week 3/可数集与不可数集.md",
     "概率论/Week 3",
     "概率论",
     "AI模型练习/新生项目",
@@ -213,8 +214,6 @@
     "Images/Electric field involving conductors.pdf",
     "~$Electric field involving conductors.pptx",
     "Electric field involving conductors.pptx",
-    "大物实验 Ⅱ/~$-Template for long lab report-Physical Experiment 2-2025.docx",
-    "大物实验 Ⅱ/d4ec619e95cf43c3b4c256c88ee0f7cf/bac6d37ccd284d28bf93c450974ab502.pdf",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
