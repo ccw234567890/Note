@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论/Week 3/可数集与不可数集.md",
+                "file": "CAD/lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可数集与不可数集"
+              "title": "lecture 1"
             }
           }
         ]
@@ -177,10 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "概率论/Week 3/1 (9.16).md",
+    "马原/马原 9.15.md",
+    "CAD/lecture 1.md",
+    "CAD/lecture 2.md",
+    "CAD/lecture 3.md",
     "概率论/Week 3/可数集与不可数集.md",
+    "概率论/Week 3/1 (9.16).md",
     "概率论/Week 3",
     "概率论",
     "AI模型练习/新生项目/filter参数过滤器.md",
@@ -200,15 +204,11 @@
     "AI模型练习/新生项目/1.md",
     "AI模型练习/新生项目/0.md",
     "AI模型练习/新生项目",
-    "lecture 3.md",
     "lecture 4.md",
-    "CAD/lecture 1.md",
     "Images/Lecture 3.pdf",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
-    "Physics Ⅱ/1.高斯定律往年考试题.md",
-    "Physics Ⅱ/CH20补充.md",
     "Images/Gauss's Law and its conprehension.pdf",
     "Images/Electric field involving conductors.pdf",
     "~$Electric field involving conductors.pptx",
