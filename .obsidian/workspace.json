@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics Ⅱ/CH21.md",
+                "file": "Pytorch/DL大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH21"
+              "title": "DL大纲"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "Physics Ⅱ/CH21.md",
     "Physics Ⅱ/CH20作业整理.md",
     "Physics Ⅱ/CH19作业整理.md",
     "Physics Ⅱ/CH20补充.md",
@@ -206,7 +207,6 @@
     "AI模型练习/新生项目/分类头.md",
     "AI模型练习/新生项目/2.“解码”路线.md",
     "青梅煮酒/25国乒.md",
-    "AI模型练习/新生项目/1.md",
     "AI模型练习/新生项目",
     "Images/Lecture 3.pdf",
     "Images/Gauss's Law and its conprehension.pdf",
