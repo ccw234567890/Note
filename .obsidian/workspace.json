@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAD/lecture 3.md",
+                "file": "AI模型练习/新生项目/8.实用性落地.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 3"
+              "title": "8.实用性落地"
             }
           }
         ]
@@ -177,14 +177,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "AI模型练习/新生项目/5.ResNet的优越性.md",
+    "AI模型练习/新生项目/8.实用性落地.md",
+    "AI模型练习/新生项目/7.Transformer的优越性.md",
+    "AI模型练习/新生项目/6.使用Transformer改进.md",
+    "AI模型练习/新生项目/4.使用ResNet改进.md",
+    "AI模型练习/新生项目/3.train.py.md",
+    "AI模型练习/新生项目/0.md",
+    "AI模型练习/新生项目/1.md",
+    "AI模型练习/新生项目/2.“解码”路线.md",
+    "lecture 4.md",
+    "CAD/lecture 3.md",
     "CAD/lecture 2.md",
     "EFES B/EFES B 9.9 从两篇LED Summary范文中提炼精华.md",
     "EFES B/EFES B 9.4 LED Transcript.md",
     "EFES B/EFES B 9.3 学术写作：描述相似点与不同点.md",
     "CAD/lecture 1.md",
-    "CAD/lecture 3.md",
     "Pytorch/DL大纲.md",
     "Physics Ⅱ/CH21.md",
     "Physics Ⅱ/CH20作业整理.md",
@@ -197,16 +207,6 @@
     "概率论/Week 3/1 (9.16).md",
     "概率论/Week 3",
     "概率论",
-    "AI模型练习/新生项目/filter参数过滤器.md",
-    "AI模型练习/新生项目/3.train.py.md",
-    "AI模型练习/新生项目/动态学习率调度.md",
-    "AI模型练习/新生项目/Momentum优化器.md",
-    "AI模型练习/新生项目/NumPy.md",
-    "AI模型练习/新生项目/CrossEntropyWithLabelSmooth交叉熵损失.md",
-    "解析：“分类头” (Head Net) 的矩阵变换模拟.md",
-    "AI模型练习/新生项目/Mindspore.md",
-    "AI模型练习/新生项目/随机种子.md",
-    "AI模型练习/新生项目/Softmax.md",
     "AI模型练习/新生项目",
     "Images/Lecture 3.pdf",
     "Images/Gauss's Law and its conprehension.pdf",
