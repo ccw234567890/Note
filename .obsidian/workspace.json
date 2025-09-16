@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAD/lecture 1.md",
+                "file": "Physics Ⅱ/CH20作业答案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 1"
+              "title": "CH20作业答案"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "马原/马原 9.15.md",
     "CAD/lecture 1.md",
+    "Physics Ⅱ/CH20作业答案.md",
+    "马原/马原 9.15.md",
     "CAD/lecture 2.md",
     "CAD/lecture 3.md",
     "概率论/Week 3/可数集与不可数集.md",
@@ -208,7 +209,6 @@
     "Images/Lecture 3.pdf",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
     "论文/Week Ⅰ/3.《Attention is all you need》Transformer/3.Model.md",
-    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
     "Images/Gauss's Law and its conprehension.pdf",
     "Images/Electric field involving conductors.pdf",
     "~$Electric field involving conductors.pptx",
