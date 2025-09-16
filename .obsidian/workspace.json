@@ -11,14 +11,12 @@
             "id": "303663ad8bce1dfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AI模型练习/LFM2-350M/本地运行 AI 模型 (LFM2-350M) 最终操作指南.md",
-                "mode": "source",
-                "source": false
+                "file": "论文/Week Ⅰ/4/1709.01507v4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "本地运行 AI 模型 (LFM2-350M) 最终操作指南"
+              "icon": "lucide-file-text",
+              "title": "1709.01507v4"
             }
           }
         ]
@@ -179,10 +177,19 @@
   },
   "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
+    "AI模型练习/LFM2-350M/本地运行 AI 模型 (LFM2-350M) 最终操作指南.md",
+    "论文/Week Ⅰ/8/2110.11852v1.pdf",
+    "论文/Week Ⅰ/8",
+    "论文/Week Ⅰ/新建文件夹",
+    "论文/Week Ⅰ/7/2010.11929v2.pdf",
+    "论文/Week Ⅰ/7",
+    "论文/Week Ⅰ/6/1910.03151v4.pdf",
+    "论文/Week Ⅰ/6",
+    "论文/Week Ⅰ/5/1905.10671v2.pdf",
+    "论文/Week Ⅰ/5",
+    "论文/Week Ⅰ/4/1709.01507v4.pdf",
     "AI模型练习/未命名/0.md",
-    "AI模型练习/未命名2",
     "AI模型练习/新生项目/9.落地实用性（使用Transformer的情况）.md",
-    "AI模型练习/未命名",
     "AI模型练习/新生项目/8.实用性落地（使用ResNet的情况）.md",
     "lecture 4.md",
     "AI模型练习/新生项目/5.ResNet的优越性.md",
@@ -206,14 +213,6 @@
     "Physics Ⅱ/CH20补充.md",
     "Physics Ⅱ/CH20 Gauss's Law的理解补充.md",
     "Physics Ⅱ/CH19 Coulomb's Law.md",
-    "概率论/Week 3",
-    "概率论",
-    "AI模型练习/新生项目",
-    "Images/Lecture 3.pdf",
-    "Images/Gauss's Law and its conprehension.pdf",
-    "Images/Electric field involving conductors.pdf",
-    "~$Electric field involving conductors.pptx",
-    "Electric field involving conductors.pptx",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
