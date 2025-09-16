@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
     "AI模型练习/新生项目/1.md",
     "AI模型练习/新生项目",
