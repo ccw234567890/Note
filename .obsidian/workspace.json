@@ -11,12 +11,14 @@
             "id": "303663ad8bce1dfa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅰ/4/1709.01507v4.pdf"
+                "file": "0.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1709.01507v4"
+              "icon": "lucide-file",
+              "title": "0"
             }
           }
         ]
@@ -177,6 +179,8 @@
   },
   "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
+    "论文/Week Ⅰ/4/1709.01507v4.pdf",
+    "0.md",
     "AI模型练习/LFM2-350M/本地运行 AI 模型 (LFM2-350M) 最终操作指南.md",
     "论文/Week Ⅰ/8/2110.11852v1.pdf",
     "论文/Week Ⅰ/8",
@@ -187,7 +191,6 @@
     "论文/Week Ⅰ/6",
     "论文/Week Ⅰ/5/1905.10671v2.pdf",
     "论文/Week Ⅰ/5",
-    "论文/Week Ⅰ/4/1709.01507v4.pdf",
     "AI模型练习/未命名/0.md",
     "AI模型练习/新生项目/9.落地实用性（使用Transformer的情况）.md",
     "AI模型练习/新生项目/8.实用性落地（使用ResNet的情况）.md",
@@ -211,8 +214,6 @@
     "Physics Ⅱ/CH20作业整理.md",
     "Physics Ⅱ/CH19作业整理.md",
     "Physics Ⅱ/CH20补充.md",
-    "Physics Ⅱ/CH20 Gauss's Law的理解补充.md",
-    "Physics Ⅱ/CH19 Coulomb's Law.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
