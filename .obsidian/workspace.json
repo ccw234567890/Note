@@ -11,10 +11,14 @@
             "id": "303663ad8bce1dfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "论文/Week Ⅰ/8.RLA - Recurrence along Depth/0.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "0"
             }
           }
         ]
@@ -173,11 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12e724638a064013",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "论文/Week Ⅰ/8/2110.11852v1.pdf",
-    "论文/Week Ⅰ/8.RLA - Recurrence along Depth/0.md",
     "论文/Week Ⅰ/8.RLA - Recurrence along Depth/2110.11852v1.pdf",
+    "论文/Week Ⅰ/5.DIANet Dense-and-Implicit Attention Network/0.md",
+    "论文/Week Ⅰ/5.DIANet Dense-and-Implicit Attention Network/2.md",
+    "论文/Week Ⅰ/5.DIANet Dense-and-Implicit Attention Network/1.md",
+    "论文/Week Ⅰ/8.RLA - Recurrence along Depth/0.md",
+    "论文/Week Ⅰ/8/2110.11852v1.pdf",
     "论文/Week Ⅰ/8.RLA - Recurrence along Depth",
     "论文/Week Ⅰ/8/0.md",
     "论文/Week Ⅰ/7.Vision Transformer (ViT) - AN IMAGE IS WORTH 16X16 WORDS/0.md",
@@ -192,7 +199,6 @@
     "论文/Week Ⅰ/6.ECA-Net Efficient Channel Attention for Deep Convolutional Neural Networks",
     "论文/Week Ⅰ/6.DIANet Dense-and-Implicit Attention Network/0.md",
     "论文/Week Ⅰ/6.DIANet Dense-and-Implicit Attention Network/0.md",
-    "论文/Week Ⅰ/5.DIANet Dense-and-Implicit Attention Network/0.md",
     "论文/Week Ⅰ/5.XLM (Cross-lingual Language Model Pretraining)/0.md",
     "论文/Week Ⅰ/5.DIANet Dense-and-Implicit Attention Network/1905.10671v2.pdf",
     "论文/Week Ⅰ/4.Squeeze-and-Excitation Networks (SENet)/0.md",
@@ -208,8 +214,6 @@
     "AI模型练习/新生项目/7.Transformer的优越性.md",
     "AI模型练习/新生项目/6.使用Transformer改进.md",
     "AI模型练习/新生项目/4.使用ResNet改进.md",
-    "AI模型练习/新生项目/3.train.py.md",
-    "AI模型练习/新生项目/0.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
