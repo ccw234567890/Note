@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI模型练习/LFM2-350M/temperature.md",
+                "file": "第一次组会.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temperature"
+              "title": "第一次组会"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "梯度爆炸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,10 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "论文/Week Ⅰ/8.RLA - Recurrence along Depth/0.md",
+    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/Highway Networks.md",
+    "第一次组会.md",
+    "Pytorch/2.md",
+    "Pytorch/1.md",
     "AI模型练习/LFM2-350M/temperature.md",
+    "论文/Week Ⅰ/8.RLA - Recurrence along Depth/0.md",
     "论文/Week Ⅰ/8.RLA - Recurrence along Depth/1.md",
     "论文/Week Ⅰ/7.Vision Transformer (ViT) - AN IMAGE IS WORTH 16X16 WORDS/1.md",
     "论文/Week Ⅰ/6.ECA-Net Efficient Channel Attention for Deep Convolutional Neural Networks/1910.03151v4.pdf",
@@ -211,10 +215,6 @@
     "论文/Week Ⅰ/5.DIANet Dense-and-Implicit Attention Network/1905.10671v2.pdf",
     "论文/Week Ⅰ/4.Squeeze-and-Excitation Networks (SENet)/0.md",
     "论文/Week Ⅰ/6.BART Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension/0.md",
-    "论文/Week Ⅰ/4/0.md",
-    "论文/Week Ⅰ/6/0.md",
-    "AI模型练习/LFM2-350M/本地运行 AI 模型 (LFM2-350M) 最终操作指南.md",
-    "AI模型练习/未命名/0.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
