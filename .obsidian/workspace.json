@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/1512.03385v1.pdf"
+                "file": "论文/Week Ⅰ/7.Vision Transformer (ViT) - AN IMAGE IS WORTH 16X16 WORDS/2010.11929v2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1512.03385v1"
+              "title": "2010.11929v2"
             }
           }
         ]
@@ -175,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
+    "论文/Week Ⅰ/3.《Attention is all you need》Transformer/1706.03762v7.pdf",
+    "论文/Week Ⅰ/1.深度残差学习在图像识别中的应用ResNet/1512.03385v1.pdf",
     "未命名 1.md",
     "未命名.md",
     "DAIL第一次组会.md",
@@ -211,8 +213,6 @@
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/1706.03762v7.pdf",
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/1.Introduction.md",
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/0.Abstract.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer",
-    "AI模型练习/新生项目/1.深度残差学习在图像识别中的应用ResNet/通道.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
