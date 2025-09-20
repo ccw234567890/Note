@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文/Week Ⅱ/2302.13971v1.pdf"
+                "file": "论文/Week Ⅱ/0.LLaMA/2302.13971v1.pdf"
               },
               "icon": "lucide-file-text",
               "title": "2302.13971v1"
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 517.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,17 +178,17 @@
   },
   "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "论文/Week Ⅱ/2503.20823v1.pdf",
+    "论文/Week Ⅱ/1.Visual Instruction Tuning/2304.08485v2.pdf",
+    "论文/Week Ⅱ/2.MiniGPT-4  利用先进大语言模型增强视觉语言理解/2304.10592v2.pdf",
+    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/2307.14539v2.pdf",
+    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
+    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/2403.09792v3.pdf",
+    "论文/Week Ⅱ/7.装傻充愣：利用分布外策略突破大语言模型和多模态大语言模型的限制/2503.20823v1.pdf",
+    "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2405.03825v1.pdf",
+    "论文/Week Ⅱ/0.LLaMA/2302.13971v1.pdf",
+    "论文/prompt1.md",
     "论文/Week Ⅱ/7360662c628b28a4545625dc0a77d085.par.temp",
-    "论文/Week Ⅱ/dcd071beb1d89f5737e9e9d4e9ca204b.par.temp",
-    "论文/Week Ⅱ/6e5b2466462e4482cc3ec1aa8d24f889.par.temp",
-    "论文/Week Ⅱ/570675ee09dd9452e38bc8873e9ce2d5.par.temp",
-    "论文/Week Ⅱ/f0438c1c76581b9041daba9524ce45e5.par.temp",
-    "论文/Week Ⅱ/48adb834f1fa2aca993a540ad34c9508.par.temp",
-    "论文/Week Ⅱ/2405.03825v1.pdf",
-    "论文/Week Ⅱ/2311.05608v3.pdf",
-    "论文/Week Ⅱ/d072d58a3106ea1b89fb49049031d7ad.par.temp",
-    "论文/Week Ⅱ/69e1442ff7c05dd229a8c63bd0e3f184.par.temp",
     "Physics Ⅱ/CH20补充.md",
     "Physics Ⅱ/CH21.md",
     "未命名 1.md",
@@ -212,7 +213,6 @@
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/4.md",
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/3.Model.md",
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/2.Backgroud.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/1.Introduction.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
