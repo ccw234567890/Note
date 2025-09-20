@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大物实验 Ⅱ/prompt1.md",
+                "file": "未命名 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt1"
+              "title": "未命名 2"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "303663ad8bce1dfa",
   "lastOpenFiles": [
-    "大物实验 Ⅱ/prompt2.md",
     "大物实验 Ⅱ/prompt1.md",
+    "未命名 2.md",
+    "大物实验 Ⅱ/prompt2.md",
     "论文/Week Ⅱ/0.LLaMA/2302.13971v1.pdf",
     "大物实验 Ⅱ/~$-Template for long lab report-Physical Experiment 2-2025.docx",
     "论文/Week Ⅱ/1.Visual Instruction Tuning/2304.08485v2.pdf",
@@ -215,7 +216,6 @@
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Attention Mechanism.md",
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
     "AI模型练习/新生项目/3.《Attention is all you need》Transformer/4.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/3.Model.md",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
