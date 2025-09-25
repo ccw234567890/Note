@@ -13,15 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 1 (Figure 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "图 1 (Figure 1)"
+            }
+          },
+          {
+            "id": "9e23911e88f702c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基于构建的攻击流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基于构建的攻击流程"
+            }
+          },
+          {
+            "id": "181fef27a8c528ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/肯定的回复集.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肯定的回复集"
+            }
+          },
+          {
+            "id": "c58a0b07570800eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2402.02309v1"
+            }
+          },
+          {
+            "id": "689bef3eb74ebab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/多模态模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多模态模型"
+            }
+          },
+          {
+            "id": "e0a4717a62fa0a57",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2402.02309v1"
+            }
+          },
+          {
+            "id": "fbfabde0a34a5150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -53,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "梯度爆炸",
+                "query": "sigmoid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "未命名 1 的反向链接列表"
             }
           },
           {
@@ -112,11 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "未命名 1 的出链列表"
             }
           },
           {
@@ -131,7 +214,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -154,8 +237,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -163,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,47 +257,49 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "303663ad8bce1dfa",
+  "active": "fbfabde0a34a5150",
   "lastOpenFiles": [
-    "大物实验 Ⅱ/prompt1.md",
-    "未命名 2.md",
-    "大物实验 Ⅱ/prompt2.md",
-    "论文/Week Ⅱ/0.LLaMA/2302.13971v1.pdf",
-    "大物实验 Ⅱ/~$-Template for long lab report-Physical Experiment 2-2025.docx",
-    "论文/Week Ⅱ/1.Visual Instruction Tuning/2304.08485v2.pdf",
-    "论文/Week Ⅱ/2.MiniGPT-4  利用先进大语言模型增强视觉语言理解/2304.10592v2.pdf",
-    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/2307.14539v2.pdf",
-    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
+    "conflict-files-obsidian-git.md",
+    "基于构建的攻击流程.md",
+    "图3 (Figure 3).md",
+    "图2 (Figure 2).md",
+    "图1 (Figure 1).md",
+    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/0.md",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf",
-    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/2403.09792v3.pdf",
-    "论文/Week Ⅱ/7.装傻充愣：利用分布外策略突破大语言模型和多模态大语言模型的限制/2503.20823v1.pdf",
+    "Physics Ⅱ/CH22作业题.md",
+    "Physics Ⅱ/CH21作业题.md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 1 (Figure 1).md",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2405.03825v1.pdf",
-    "论文/prompt1.md",
-    "Physics Ⅱ/CH20补充.md",
-    "Physics Ⅱ/CH21.md",
-    "未命名 1.md",
-    "未命名.md",
-    "DAIL第一次组会.md",
-    "大物实验 Ⅱ/PPT/Lab Ⅵ.md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 4.md",
+    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/多模态模型.md",
     "大物实验 Ⅱ/PPT/Lab Ⅰ.md",
     "大物实验 Ⅱ/1.迈克尔逊干涉仪/迈克尔逊干涉仪prelab.md",
-    "Physics Ⅱ/CH20 Gauss's Law的理解补充.md",
-    "AI模型练习/新生项目/8.实用性落地（使用ResNet的情况）.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/时间步.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Self-Attention.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Sequence Transduction.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Recurrent Neural Networks (RNN).md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Hidden State.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Continuous Representation.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Encoder-Decoder Architecture.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Computational Path Length.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/ByteNet.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Attention Mechanism.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/Auto-regressive Model.md",
-    "AI模型练习/新生项目/3.《Attention is all you need》Transformer/4.md",
+    "大物实验 Ⅱ/1.迈克尔逊干涉仪/迈克尔逊干涉仪计算.md",
+    "论文/Week Ⅱ/7.装傻充愣：利用分布外策略突破大语言模型和多模态大语言模型的限制/2503.20823v1.pdf",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/肯定的回复集.md",
+    "论文/Idea/Jailbreak/0-9.24 想法接收.md",
+    "论文/Idea/Jailbreak/1-流程.md",
+    "论文/Idea/Jailbreak",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/HADES.md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/0.md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/对抗性噪声.md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/表 1 (Table 1).md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/表 2 (Table 2).md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 3.md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 2 (Figure 2).md",
+    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/2403.09792v3.pdf",
+    "论文/Idea",
+    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/文字图片.md",
+    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
+    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/2307.14539v2.pdf",
+    "论文/Week Ⅱ/2.MiniGPT-4  利用先进大语言模型增强视觉语言理解/2304.10592v2.pdf",
+    "AI模型练习/新生项目/example_usage.py",
+    "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
     "Images/Pasted image 20250815010537.png",
@@ -226,7 +310,6 @@
     "Images/屏幕截图 2025-08-12 165148.png",
     "Images/屏幕截图 2025-08-12 165139.png",
     "Images/屏幕截图 2025-08-12 165118.png",
-    "未命名.canvas",
     "Untitled.canvas"
   ]
 }
