@@ -1,4 +1,5 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Atom"
+  "cssTheme": "",
+  "accentColor": ""
 }
