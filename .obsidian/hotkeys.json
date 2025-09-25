@@ -1,0 +1,10 @@
+{
+  "canvas:export-as-image": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "CapsLock"
+    }
+  ]
+}
