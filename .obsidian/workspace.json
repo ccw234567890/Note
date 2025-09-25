@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基于构建的攻击流程.md",
+                "file": "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/基于构建的攻击流程.md",
                 "mode": "source",
                 "source": false
               },
@@ -81,10 +81,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2405.03825v1.pdf"
+                "file": "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2405.03825v1"
+              "title": "2402.02309v1"
             }
           }
         ],
@@ -248,19 +248,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e0a4717a62fa0a57",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "基于构建的攻击流程.md",
-    "conflict-files-obsidian-git.md",
-    "图3 (Figure 3).md",
-    "图2 (Figure 2).md",
-    "图1 (Figure 1).md",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/0.md",
+    "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2405.03825v1.pdf",
+    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/基于构建的攻击流程.md",
+    "conflict-files-obsidian-git.md",
+    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图3 (Figure 3).md",
+    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图2 (Figure 2).md",
+    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图1 (Figure 1).md",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf",
     "Physics Ⅱ/CH22作业题.md",
     "Physics Ⅱ/CH21作业题.md",
     "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 1 (Figure 1).md",
-    "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2405.03825v1.pdf",
     "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 4.md",
     "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/多模态模型.md",
     "大物实验 Ⅱ/PPT/Lab Ⅰ.md",
