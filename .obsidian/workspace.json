@@ -79,12 +79,14 @@
             "id": "e0a4717a62fa0a57",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf"
+                "file": "Pytorch/1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2311.05608v3"
+              "icon": "lucide-file",
+              "title": "1"
             }
           }
         ],
@@ -120,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "正则化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +143,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,6 +255,7 @@
   },
   "active": "e0a4717a62fa0a57",
   "lastOpenFiles": [
+    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
     "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/文字图片.md",
     "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/多模态模型.md",
     "论文/Week Ⅱ/2.MiniGPT-4  利用先进大语言模型增强视觉语言理解/7.细节图.md",
@@ -283,7 +287,6 @@
     "论文/prompt1.md",
     "论文/prompt2.md",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/0.md",
-    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/对抗性图像的生成 (3.1.2 & Algorithm 1).md",
     "论文/Week Ⅱ/7.装傻充愣：利用分布外策略突破大语言模型和多模态大语言模型的限制/2503.20823v1.pdf",
     "论文/Idea/Jailbreak",
     "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/2403.09792v3.pdf",
