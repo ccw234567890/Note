@@ -79,14 +79,12 @@
             "id": "e0a4717a62fa0a57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/0.md",
-                "mode": "preview",
-                "source": false
+                "file": "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "0"
+              "icon": "lucide-file-text",
+              "title": "2311.05608v3"
             }
           }
         ],
@@ -122,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sigmoid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 517.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -253,6 +252,19 @@
   },
   "active": "e0a4717a62fa0a57",
   "lastOpenFiles": [
+    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/文字图片.md",
+    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/多模态模型.md",
+    "论文/Week Ⅱ/2.MiniGPT-4  利用先进大语言模型增强视觉语言理解/7.细节图.md",
+    "论文/Week Ⅱ/2.MiniGPT-4  利用先进大语言模型增强视觉语言理解/6.Q-Former (Querying Transformer).md",
+    "论文/Week Ⅱ/2.MiniGPT-4  利用先进大语言模型增强视觉语言理解/0.md",
+    "未命名.base",
+    "Pytorch/1.md",
+    "AI模型练习/新生项目/0.md",
+    "论文/Week Ⅰ/5.DIANet Dense-and-Implicit Attention Network/0.md",
+    "论文/Week Ⅱ/0.LLaMA/梯度爆炸和梯度消失.md",
+    "论文/Week Ⅱ/0.LLaMA/绝对位置编码 (Absolute Positional Embeddings - APE).md",
+    "论文/Week Ⅱ/0.LLaMA/激活函数.md",
+    "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/0.md",
     "未命名.md",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/图1.md",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/攻击过程.md",
@@ -263,7 +275,6 @@
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图3 (Figure 3).md",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图1 (Figure 1).md",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/Section 3.2.md",
-    "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/0.md",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/Section 3.1.md",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2401.17256v5.pdf",
     "论文/prompt3 李沐三遍读论文.md",
@@ -273,22 +284,10 @@
     "论文/prompt2.md",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/0.md",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/对抗性图像的生成 (3.1.2 & Algorithm 1).md",
-    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/恶意触发器嵌入的来源 (Eq. 3).md",
-    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/攻击的数学表述 (3.1.1).md",
-    "表1.md",
-    "conflict-files-obsidian-git.md",
-    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图2 (Figure 2).md",
-    "Physics Ⅱ/CH22作业题.md",
-    "Physics Ⅱ/CH21作业题.md",
-    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 1 (Figure 1).md",
-    "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 4.md",
-    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/多模态模型.md",
-    "大物实验 Ⅱ/PPT/Lab Ⅰ.md",
     "论文/Week Ⅱ/7.装傻充愣：利用分布外策略突破大语言模型和多模态大语言模型的限制/2503.20823v1.pdf",
     "论文/Idea/Jailbreak",
     "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/2403.09792v3.pdf",
     "论文/Idea",
-    "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
