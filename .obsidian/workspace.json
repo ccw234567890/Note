@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Idea/Jailbreak/8-介绍.md",
+                "file": "AI模型练习/Figstep/1.figstep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-介绍"
+              "title": "1.figstep"
             }
           }
         ],
@@ -236,10 +236,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "689bef3eb74ebab8",
   "lastOpenFiles": [
-    "论文/Idea/Jailbreak/2-9.26晚想法.md",
+    "AI模型练习/Figstep",
     "论文/Idea/Jailbreak/8-介绍.md",
+    "AI模型练习/Figstep/1.figstep.md",
+    "论文/Idea/Jailbreak/2-9.26晚想法.md",
     "论文/Idea/Jailbreak/6-实验角度具体做法.md",
     "论文/Idea/Jailbreak/7-到底符不符合CVPR.md",
     "论文/Idea/Jailbreak/5-预实验ver 2.0.md",
@@ -251,7 +253,6 @@
     "3-9.26晚想法改进黑盒研究.md",
     "论文/Idea/Jailbreak/1-流程.md",
     "Pytorch/1.md",
-    "未命名",
     "未命名.base",
     "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
     "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/文字图片.md",
@@ -265,8 +266,6 @@
     "论文/Week Ⅱ/0.LLaMA/绝对位置编码 (Absolute Positional Embeddings - APE).md",
     "论文/Week Ⅱ/0.LLaMA/激活函数.md",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/0.md",
-    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/图1.md",
-    "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/攻击过程.md",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/2307.14539v2.pdf",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2401.17256v5.pdf",
