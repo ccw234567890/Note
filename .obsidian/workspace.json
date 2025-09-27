@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,11 +236,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "689bef3eb74ebab8",
+  "active": "181fef27a8c528ce",
   "lastOpenFiles": [
+    "AI模型练习/Figstep/1.figstep.md",
     "AI模型练习/Figstep",
     "论文/Idea/Jailbreak/8-介绍.md",
-    "AI模型练习/Figstep/1.figstep.md",
     "论文/Idea/Jailbreak/2-9.26晚想法.md",
     "论文/Idea/Jailbreak/6-实验角度具体做法.md",
     "论文/Idea/Jailbreak/7-到底符不符合CVPR.md",
