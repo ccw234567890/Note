@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论/Week 4/3 第三章.md",
+                "file": "论文/Idea/Jailbreak/2-9.26晚想法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 第三章"
+              "title": "2-9.26晚想法"
             }
           }
         ],
@@ -236,13 +236,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "689bef3eb74ebab8",
   "lastOpenFiles": [
-    "概率论/Week 4/2 第一章.md",
+    "论文/Idea/Jailbreak/6-实验角度具体做法.md",
+    "论文/Idea/Jailbreak/7-到底符不符合CVPR.md",
+    "论文/Idea/Jailbreak/5-预实验ver 2.0.md",
+    "论文/Idea/Jailbreak/4-预实验ver 1.0.md",
+    "论文/Idea/Jailbreak/3-评估.md",
+    "论文/Idea/Jailbreak/2-9.26晚想法.md",
     "概率论/Week 4/3 第三章.md",
+    "概率论/Week 4/2 第一章.md",
     "概率论/Week 4/1 (9.23).md",
     "3-9.26晚想法改进黑盒研究.md",
-    "论文/Idea/Jailbreak/2-9.26晚想法.md",
     "论文/Idea/Jailbreak/1-流程.md",
     "Pytorch/1.md",
     "未命名",
@@ -264,11 +269,6 @@
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/2307.14539v2.pdf",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/0.md",
-    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/基于构建的攻击流程.md",
-    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图3 (Figure 3).md",
-    "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/图1 (Figure 1).md",
-    "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/Section 3.2.md",
-    "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/Section 3.1.md",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2401.17256v5.pdf",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2401.17256v5.pdf.crdownload",
     "论文/Week Ⅱ/8.组织语言模型社会：增强集体智能的结构与机制/2405.03825v1.pdf",
