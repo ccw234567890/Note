@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAD/lecture 5.md",
+                "file": "CAD/lecture 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 5"
+              "title": "lecture 3"
             }
           },
           {
@@ -239,10 +239,10 @@
   },
   "active": "181fef27a8c528ce",
   "lastOpenFiles": [
-    "CAD/lecture 3.md",
-    "CAD/lecture 5.md",
-    "Images/Lecture 5.pdf",
     "CAD/lecture 4.md",
+    "CAD/lecture 5.md",
+    "CAD/lecture 3.md",
+    "Images/Lecture 5.pdf",
     "Images/Lecture 4.pdf",
     "AI模型练习/API调用/0.md",
     "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/肯定的回复集.md",
