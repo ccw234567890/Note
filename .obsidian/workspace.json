@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture2 单位阶跃函数与 Dirac δ 的积分关系.md",
+                "file": "CAD/lecture2 单位阶跃函数与 Dirac δ 的积分关系.md",
                 "mode": "preview",
                 "source": false
               },
@@ -220,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,10 +239,10 @@
   },
   "active": "181fef27a8c528ce",
   "lastOpenFiles": [
-    "CAD/lecture 4.md",
-    "lecture2 单位阶跃函数与 Dirac δ 的积分关系.md",
-    "CAD/lecture 2.md",
     "CAD/lecture 1.md",
+    "CAD/lecture2 单位阶跃函数与 Dirac δ 的积分关系.md",
+    "CAD/lecture 4.md",
+    "CAD/lecture 2.md",
     "CAD/lecture 3.md",
     "CAD/lecture 5.md",
     "Images/Lecture 5.pdf",
