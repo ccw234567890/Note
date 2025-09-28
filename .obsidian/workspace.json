@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAD/lecture 1.md",
-                "mode": "source",
+                "file": "CAD/lecture 2.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 1"
+              "title": "lecture 2"
             }
           },
           {
@@ -238,6 +238,7 @@
   },
   "active": "181fef27a8c528ce",
   "lastOpenFiles": [
+    "CAD/lecture 1.md",
     "CAD/lecture 3.md",
     "CAD/lecture 4.md",
     "CAD/lecture 5.md",
