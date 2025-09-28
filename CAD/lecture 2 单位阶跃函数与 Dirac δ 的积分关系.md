@@ -118,3 +118,115 @@ $$
 3. 用 $u(t)$ 表示一个**幅度 $A$、起点 $t_0$、宽度 $\tau$** 的矩形脉冲。
 
 > 结论速记：**δ 是阶跃的导数；阶跃是 δ 的积分**。这组关系在分析开关电路、构造分段信号、以及做卷积/拉普拉斯变换时极其重要。
+
+---
+## 补充讲解：为什么 δ 和 u 有“抽样/积分”这两种神奇关系？
+
+---
+
+### 2) Dirac δ 的基本性质（把话说全）
+
+**(a) 抽样（筛选）性质**
+$$
+\int_{-\infty}^{\infty} x(\tau)\,\delta(\tau-a)\,d\tau \;=\; x(a).
+$$
+意思是：δ 只在 $\tau=a$ 这一点“起作用”，把被积函数在那一点的值“筛”出来。
+
+**(b) “面积为 1”的冲击**
+$$
+\int_{-\infty}^{\infty} \delta(t)\,dt = 1.
+$$
+但要注意：$\delta(t)$ **不是**通常意义下的函数（没有普通函数的“高度”），而是**广义函数/分布**。你可以把它想成“**极窄极高、面积恒为 1** 的脉冲的极限”。
+
+**(c) 移位**
+$$
+\delta(t-a)\ \text{在}\ t=a\ \text{处“冲击”，且}\ 
+\int_{-\infty}^{\infty} \delta(t-a)\,dt = 1.
+$$
+
+> 直觉模型：用一族“很窄但面积=1”的矩形脉冲近似 δ。  
+> 例如宽度为 $\varepsilon$、高度为 $1/\varepsilon$ 的矩形
+> $$
+> \delta_\varepsilon(t) \;=\;
+> \begin{cases}
+> \tfrac{1}{\varepsilon}, & |t|<\tfrac{\varepsilon}{2},\\[4pt]
+> 0, & \text{其他}.
+> \end{cases}
+> $$
+> 当 $\varepsilon\to 0^+$ 时，$\delta_\varepsilon \Rightarrow \delta$（面积始终=1，但越来越“尖”）。
+
+---
+
+### 3) 为什么
+$$
+u(t)\;=\;\int_{-\infty}^{t}\delta(\tau)\,d\tau
+\quad\text{以及}\quad
+\frac{d}{dt}u(t)=\delta(t)
+$$
+
+#### (1) “把积分上限当作变量”到底啥意思？
+表达式 $\displaystyle F(t)=\int_{-\infty}^{t} f(\tau)\,d\tau$ 的意思是：  
+- **积分变量**是 $\tau$（用来“扫”积分区间的虚名）；  
+- **上限**是**自变量** $t$。  
+随着 $t$ 改变，积分区间 $(-\infty,\,t]$ 变长或变短，所以 $F(t)$ 随之改变。
+
+#### (2) 先用“窄矩形”近似 δ，直观看到 $u(t)$
+用上面的 $\delta_\varepsilon(\tau)$ 代替 δ，定义
+$$
+U_\varepsilon(t)\;=\;\int_{-\infty}^{t}\delta_\varepsilon(\tau)\,d\tau.
+$$
+
+- 若 $t<-\tfrac{\varepsilon}{2}$：积分区间完全**没碰到**窄矩形，积分为 $0$。
+- 若 $t>\tfrac{\varepsilon}{2}$：区间**完全覆盖**窄矩形，积分为面积 $1$。
+- 若 $-\tfrac{\varepsilon}{2}\le t \le \tfrac{\varepsilon}{2}$：区间只覆盖了**部分**窄矩形，积分**从 0 线性爬到 1**。
+
+把 $\varepsilon\to 0^+$：  
+这个“台阶”过渡带收缩成一个点，于是
+$$
+\lim_{\varepsilon\to 0^+} U_\varepsilon(t)
+=
+\begin{cases}
+0, & t<0,\\
+1, & t>0,
+\end{cases}
+$$
+这正是单位阶跃 $u(t)$（至于 $t=0$ 取 0/1/1/2 都行，工程里不影响结果）。  
+因此
+$$
+\boxed{\,u(t)=\int_{-\infty}^{t}\delta(\tau)\,d\tau\,}.
+$$
+
+#### (3) 由“微积分基本定理”的直觉得到 $\dfrac{d}{dt}u(t)=\delta(t)$
+仍先用近似量：
+$$
+\frac{d}{dt}U_\varepsilon(t)
+\;=\;\delta_\varepsilon(t).
+$$
+让 $\varepsilon\to 0^+$，左边 $\to \dfrac{d}{dt}u(t)$，右边 $\to \delta(t)$，于是
+$$
+\boxed{\,\frac{d}{dt}u(t)=\delta(t)\,}.
+$$
+
+> 直观图像：$u(t)$ 在 $t=0$ **瞬间从 0 跳到 1**，普通导数无法描述这个“无限陡”的跳变；  
+> 分布理论把这个“跳”用一个**面积为 1 的冲击**来表示，这就是 $\delta(t)$。
+
+---
+
+### 4) 两个常用推论（顺手就会用）
+- **平移**：  
+  $$
+  u(t-t_0)=\int_{-\infty}^{t}\delta(\tau-t_0)\,d\tau,
+  \qquad
+  \frac{d}{dt}u(t-t_0)=\delta(t-t_0).
+  $$
+- **构造矩形脉冲**（起点 $t_0$、宽度 $\tau$、幅度 $A$）：
+  $$
+  A\,[u(t-t_0)-u(t-t_0-\tau)].
+  $$
+
+---
+
+### 5) 练习用来“自证”你懂了
+1. 用 $\delta_\varepsilon$ 的矩形近似，**亲手算** $U_\varepsilon(t)$ 的三段值，再取极限得到 $u(t)$。  
+2. 证明：$\displaystyle \int_{-\infty}^{t}\delta(\tau-a)\,d\tau = u(t-a)$。  
+3. 证明：$\displaystyle \fr
