@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAD/lecture 3.md",
+                "file": "CAD/lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 3"
+              "title": "lecture 1"
             }
           },
           {
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -239,9 +238,9 @@
   },
   "active": "181fef27a8c528ce",
   "lastOpenFiles": [
+    "CAD/lecture 3.md",
     "CAD/lecture 4.md",
     "CAD/lecture 5.md",
-    "CAD/lecture 3.md",
     "Images/Lecture 5.pdf",
     "Images/Lecture 4.pdf",
     "AI模型练习/API调用/0.md",
