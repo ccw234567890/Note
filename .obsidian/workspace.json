@@ -220,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +236,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "181fef27a8c528ce",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "CAD/lecture 5 关键知识点.md",
+    "CAD/lecture 5 受控源的方向与极性.md",
     "CAD/lecture 5.md",
+    "CAD/lecture 5 节点分析.md",
+    "CAD/lecture 5 用克莱默法则求解多节点方程.md",
+    "CAD/lecture 5 例题.md",
     "CAD/lecture 4.md",
     "CAD/lecture 4 例题.md",
     "CAD/lecture 3.md",
@@ -266,9 +268,6 @@
     "论文/Idea/Jailbreak/3-评估.md",
     "概率论/Week 4/3 第三章.md",
     "概率论/Week 4/2 第一章.md",
-    "概率论/Week 4/1 (9.23).md",
-    "3-9.26晚想法改进黑盒研究.md",
-    "论文/Idea/Jailbreak/1-流程.md",
     "未命名.base",
     "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/2307.14539v2.pdf",
