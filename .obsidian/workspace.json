@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAD/Tutorial 1(记得重做）.md",
-                "mode": "source",
+                "file": "论文/prompt3 李沐三遍读论文.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial 1(记得重做）"
+              "title": "prompt3 李沐三遍读论文"
             }
           },
           {
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -240,10 +239,13 @@
   },
   "active": "181fef27a8c528ce",
   "lastOpenFiles": [
+    "论文/prompt2.md",
+    "论文/prompt1.md",
     "CAD/lecture 6.md",
-    "CAD/Tutorial 1(记得重做）.md",
-    "Images/Lecture 6.pdf",
     "CAD/Tutorial 2.md",
+    "CAD/Tutorial 1(记得重做）.md",
+    "概率论/Week 4/3 第三章.md",
+    "Images/Lecture 6.pdf",
     "CAD/lecture 5 例题.md",
     "CAD/lecture 5.md",
     "CAD/lecture 5 节点分析.md",
@@ -268,9 +270,6 @@
     "AI模型练习/Figstep",
     "论文/Idea/Jailbreak/8-介绍.md",
     "论文/Idea/Jailbreak/2-9.26晚想法.md",
-    "论文/Idea/Jailbreak/6-实验角度具体做法.md",
-    "论文/Idea/Jailbreak/7-到底符不符合CVPR.md",
-    "论文/Idea/Jailbreak/5-预实验ver 2.0.md",
     "未命名.base",
     "论文/Week Ⅱ/4.FigStep：通过排版视觉提示突破大型视觉语言模型的限制/2311.05608v3.pdf",
     "论文/Week Ⅱ/3.分块越狱：对多模态语言模型的组合式对抗攻击/2307.14539v2.pdf",
