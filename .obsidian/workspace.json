@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论/Week 4/2-3 第一章重点例子.md",
-                "mode": "source",
+                "file": "2.项目情况.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-3 第一章重点例子"
+              "title": "2.项目情况"
             }
           },
           {
@@ -237,11 +237,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "181fef27a8c528ce",
   "lastOpenFiles": [
+    "概率论/Week 4/2-3 第一章重点例子.md",
+    "2.项目情况.md",
     "概率论/Week 4/2 第一章.md",
     "概率论/Week 4/1 (9.23).md",
-    "概率论/Week 4/2-3 第一章重点例子.md",
     "概率论/Week 4/2-2 第一章多项式系数.md",
     "概率论/Week 4/2-1 第一章二项式系数.md",
     "马原/马原9.10.md",
@@ -265,7 +266,6 @@
     "CAD/lecture 3 例题.md",
     "CAD/lecture 3 从微观关系推到宏观电阻公式.md",
     "CAD/lecture 2.md",
-    "CAD/lecture 2 把阶跃 u(t) 看成“斜坡极限.md",
     "Images/Lecture 5.pdf",
     "Images/Lecture 4.pdf",
     "AI模型练习/API调用",
