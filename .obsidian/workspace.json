@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.文本图片生成以及识别.md",
+                "file": "AI模型练习/Figstep/1.figstep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.文本图片生成以及识别"
+              "title": "1.figstep"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#problem",
+                "query": "idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,10 +237,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "181fef27a8c528ce",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "2.项目情况.md",
-    "3.文本图片生成以及识别.md",
+    "AI模型练习/Figstep/2.项目情况.md",
+    "AI模型练习/Figstep/3.文本图片生成以及识别.md",
     "概率论/Week 4/2-3 第一章重点例子.md",
     "概率论/Week 4/2 第一章.md",
     "概率论/Week 4/1 (9.23).md",
