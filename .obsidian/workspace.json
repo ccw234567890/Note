@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/prompt3 李沐三遍读论文.md",
+                "file": "0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt3 李沐三遍读论文"
+              "title": "0"
             }
           },
           {
@@ -238,6 +238,8 @@
   },
   "active": "181fef27a8c528ce",
   "lastOpenFiles": [
+    "论文/prompt3 李沐三遍读论文.md",
+    "0.md",
     "论文/Week Ⅲ/2310.06474v3.pdf",
     "马原/2/第3讲｜唯物辩证法的基本规律.md",
     "论文/Week Ⅲ/WEEK Ⅲ 会议纪要.md",
@@ -259,7 +261,6 @@
     "概率论/Week 4/1 (9.23).md",
     "概率论/Week 4/2-2 第一章多项式系数.md",
     "概率论/Week 4/2-1 第一章二项式系数.md",
-    "论文/prompt3 李沐三遍读论文.md",
     "论文/prompt2.md",
     "论文/prompt1.md",
     "CAD/lecture 6.md",
