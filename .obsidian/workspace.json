@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅲ/多语言越狱/0.md",
+                "file": "论文/Week Ⅲ/WIPI/0.md",
                 "mode": "source",
                 "source": false
               },
@@ -236,8 +236,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "181fef27a8c528ce",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "论文/Week Ⅲ/WASP/0.md",
+    "论文/Week Ⅲ/WIPI/0.md",
+    "论文/Week Ⅲ/AdvWeb/0.md",
+    "论文/Week Ⅲ/AdvWeb/2410.17401v4.pdf",
+    "论文/Week Ⅲ/多语言越狱/0.md",
     "论文/Idea/Jailbreak/13-方案A_Web_Agent_视觉Jailbreak_完整研究方案.md",
     "论文/Idea/Jailbreak/12-方案A_Web_Agent_视觉对抗攻击_完整研究方案.md",
     "论文/Idea/Jailbreak/11-10.4 方案3_Web_Agent_Jailbreak_完整研究方案.md",
@@ -254,12 +259,10 @@
     "论文/Week Ⅲ/新建文件夹",
     "论文/Week Ⅲ/WIPI/2402.16965v1.pdf",
     "论文/Week Ⅲ/WIPI/2402.16965v1.pdf.crdownload",
-    "论文/Week Ⅲ/WIPI",
     "论文/Week Ⅲ/多语言越狱/README_论文阅读总结.md",
     "论文/Week Ⅲ/多语言越狱/WebAgent安全攻击文献清单.md",
     "论文/Week Ⅲ/多语言越狱/论文分析与下步建议.md",
     "论文/Week Ⅲ/多语言越狱/SELF-DEFENCE方法流程图.md",
-    "论文/Week Ⅲ/多语言越狱/0.md",
     "论文/prompt/prompt3 李沐三遍读论文.md",
     "大二上/马原/2/第3讲｜唯物辩证法的基本规律.md",
     "论文/Week Ⅲ/WEEK Ⅲ 会议纪要.md",
@@ -271,9 +274,6 @@
     "大二上/马原/1/马原9.10.md",
     "AI模型练习/Figstep/1.figstep.md",
     "AI模型练习/Figstep/2.项目情况.md",
-    "AI模型练习/Figstep/3.文本图片生成以及识别.md",
-    "大二上/概率论/Week 4/2 第一章.md",
-    "大二上/概率论/Week 4/1 (9.23).md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
