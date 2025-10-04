@@ -9,7 +9,7 @@
 
 ## 1. 核心思想：序列建模的第三条路
 
-在 [[Transformer]] 成为主流之前，处理[[Sequence Transduction|序列到序列]]任务主要依赖 [[Recurrent Neural Networks (RNN)|RNN]]。但 RNN 有一个与生俱来的缺陷：**计算是串行的**，无法并行，处理长序列时速度很慢。
+在 [[大一下/Pytorch/Transformer]] 成为主流之前，处理[[Sequence Transduction|序列到序列]]任务主要依赖 [[Recurrent Neural Networks (RNN)|RNN]]。但 RNN 有一个与生俱来的缺陷：**计算是串行的**，无法并行，处理长序列时速度很慢。
 
 ByteNet 的提出，代表了研究者探索的**第三条道路**：
 
@@ -81,6 +81,6 @@ ByteNet 同样遵循了经典的 **[[Encoder-Decoder Architecture|编码器-解�
 - **并行计算的优势**: 它们展示了相比 RNN，CNN 在训练速度上的巨大优势。
 - **为什么没有 Transformer 流行？**
     - 尽管空洞卷积极大地扩展了感受野，但这种感受野的结构是**固定的、系统性的**。
-    - 而 [[Transformer]] 的**[[Attention Mechanism|自注意力机制]]**提供了一种**完全动态的、不依赖距离的**依赖关系建模能力。在翻译“The animal didn't cross the street because **it** was too tired.” 这句话时，注意力机制可以动态地、精确地将 "it" 与 "animal" 联系起来，无论它们相距多远。这种灵活性被证明是更强大的。
+    - 而 [[大一下/Pytorch/Transformer]] 的**[[Attention Mechanism|自注意力机制]]**提供了一种**完全动态的、不依赖距离的**依赖关系建模能力。在翻译“The animal didn't cross the street because **it** was too tired.” 这句话时，注意力机制可以动态地、精确地将 "it" 与 "animal" 联系起来，无论它们相距多远。这种灵活性被证明是更强大的。
 
 尽管最终 Transformer 胜出，但 ByteNet 作为一种探索并行化序列建模的强大尝试，其使用的**空洞卷积**等思想，在后续的许多模型（如 WaveNet 用于音频生成）中都得到了广泛的应用。

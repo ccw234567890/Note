@@ -95,7 +95,7 @@
 | **词汇表大小** | `vocab_size` | 模型输入/输出层的Token总数。 | 30k, 50k |
 
 ## 关联概念
-- [[Pytorch/Transformer]]
+- [[大一下/Pytorch/Transformer]]
 - [[自注意力机制 (Self-Attention)]]
 - [[表示 (Representation)]]
 - [[词嵌入 (Word Embedding)]]

@@ -42,7 +42,7 @@
     - 输入: `(x1, x2, ..., xn)` -> `(829, 451, ...)`
     - 输出: `z = (z1, z2, ..., zn)` -> `( [0.1, -0.5, ...], [-0.8, 0.2, ...], ... )`
     - 这里的 `z1` 就是 `x1`（“猫”）对应的512维向量，`z2` 就是 `x2`（“坐”）对应的512维向量。
-    - **重要**: 在 [[Pytorch/Transformer]] 这样的现代模型中，`z1` 这个向量**不仅仅包含了“猫”这个词本身的意思，还通过自注意力机制（Self-Attention）融合了句子中其他词对它的影响**。因此，这里的 `z1` 是一个**上下文感知 (context-aware)** 的连续表示。
+    - **重要**: 在 [[大一下/Pytorch/Transformer]] 这样的现代模型中，`z1` 这个向量**不仅仅包含了“猫”这个词本身的意思，还通过自注意力机制（Self-Attention）融合了句子中其他词对它的影响**。因此，这里的 `z1` 是一个**上下文感知 (context-aware)** 的连续表示。
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 关联概念
 - [[Encoder-Decoder Architecture]]
-- [[Pytorch/Transformer]]
+- [[大一下/Pytorch/Transformer]]
 - [[表示 (Representation)]]
 - [[词嵌入 (Word Embedding)]]
 - [[自注意力机制 (Self-Attention)]]

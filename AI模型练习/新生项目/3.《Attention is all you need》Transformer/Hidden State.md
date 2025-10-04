@@ -59,7 +59,7 @@ ht​=f(ht−1​,xt​)
 
 > **我们是否可以设计一个模型，在处理序列时，彻底摆脱 `h_t = f(h_{t-1}, x_t)` 这种循环依赖的限制？**
 
-**[[Transformer]] 就是这个问题的答案。**
+**[[大一下/Pytorch/Transformer]] 就是这个问题的答案。**
 
 - 它通过 **[[Attention Mechanism|注意力机制]]**，尤其是**自注意力机制（Self-Attention）**，实现了这一点。
     
