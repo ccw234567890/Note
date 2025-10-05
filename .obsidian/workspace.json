@@ -53,12 +53,14 @@
             "id": "7f7f23140a9d4b4b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "论文/Week Ⅲ/总览.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
+              "icon": "lucide-file",
+              "title": "总览"
             }
           },
           {
@@ -232,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,12 +253,19 @@
   },
   "active": "7f7f23140a9d4b4b",
   "lastOpenFiles": [
+    "论文/Week Ⅲ/EIA/2409.11295v5.pdf",
+    "论文/Week Ⅲ/EIA/2409.11295v5.pdf.crdownload",
+    "论文/Week Ⅲ/EIA",
+    "论文/Week Ⅲ/新建文件夹",
+    "论文/Week Ⅲ/Mind2Web/2306.06070v3.pdf",
+    "论文/Week Ⅲ/总览.md",
+    "论文/Week Ⅲ/AdvWeb/2410.17401v4.pdf",
+    "论文/Week Ⅲ/SeeAct/2401.01614v2.pdf",
     "论文/Week Ⅲ/Mind2Web/5.Fig.6（每站点分布）.md",
     "论文/Week Ⅲ/Mind2Web/4.Fig.3，4，5（方法）.md",
     "论文/Week Ⅲ/Mind2Web/3.Fig.2.md",
     "论文/Week Ⅲ/Mind2Web/2.Fig.1.md",
     "论文/Week Ⅲ/Mind2Web/0.md",
-    "论文/Week Ⅲ/Mind2Web/2306.06070v3.pdf",
     "论文/Week Ⅲ/Mind2Web/1.导图.md",
     "论文/prompt/prompt3 李沐三遍读论文.md",
     "Fig.3/4/5（方法）.md",
@@ -271,20 +281,14 @@
     "论文/Week Ⅲ/WebAgent/0.导图.md",
     "未命名.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 3.md",
-    "论文/Week Ⅲ/AdvWeb/2410.17401v4.pdf",
     "论文/Idea/Jailbreak/13-方案A_Web_Agent_视觉Jailbreak_完整研究方案.md",
-    "论文/Week Ⅲ/SeeAct/2401.01614v2.pdf",
     "论文/Week Ⅲ/SeeAct/2401.01614v2.pdf.crdownload",
-    "论文/Week Ⅲ/SeeAct",
-    "论文/Week Ⅲ/MindWeb/2306.06070v3.pdf.crdownload",
-    "论文/Week Ⅲ/Mind2Web",
     "论文/Week Ⅲ/WIPI/0.md",
     "论文/Week Ⅲ/WASP/0.md",
     "论文/Week Ⅲ/AdvWeb/0.md",
     "论文/Week Ⅲ/多语言越狱/0.md",
     "论文/Idea/Jailbreak/12-方案A_Web_Agent_视觉对抗攻击_完整研究方案.md",
     "论文/Idea/Jailbreak/11-10.4 方案3_Web_Agent_Jailbreak_完整研究方案.md",
-    "论文/Idea/Jailbreak/10-是不是jailbreak.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
