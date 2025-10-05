@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅲ/WebAgent/1.md",
+                "file": "论文/Week Ⅲ/WebAgent/4.HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "4.HTML"
             }
           },
           {
@@ -236,12 +236,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "181fef27a8c528ce",
   "lastOpenFiles": [
-    "论文/prompt/prompt3 李沐三遍读论文.md",
+    "论文/Week Ⅲ/WebAgent/6.Table 2（注意力与预训练客观性）.md",
+    "论文/Week Ⅲ/WebAgent/5.Table 1（真实网站三域结果）.md",
+    "论文/Week Ⅲ/WebAgent/3.Fig.1 & Fig.2.md",
+    "论文/Week Ⅲ/WebAgent/2.Figure 3.md",
     "论文/Week Ⅲ/WebAgent/1.md",
-    "论文/Week Ⅲ/WebAgent/0.导图.md",
     "论文/Week Ⅲ/WebAgent/2307.12856v4.pdf",
+    "论文/Week Ⅲ/WebAgent/0.导图.md",
+    "未命名.md",
+    "论文/Week Ⅲ/WebAgent/4.HTML.md",
+    "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 3.md",
+    "Introduction & Figure 1, 2.md",
+    "论文/prompt/prompt3 李沐三遍读论文.md",
     "论文/Week Ⅲ/AdvWeb/2410.17401v4.pdf",
     "论文/Idea/Jailbreak/13-方案A_Web_Agent_视觉Jailbreak_完整研究方案.md",
     "论文/Week Ⅲ/SeeAct/2401.01614v2.pdf",
@@ -265,15 +273,6 @@
     "论文/Week Ⅲ/多语言越狱/README_论文阅读总结.md",
     "论文/Week Ⅲ/多语言越狱/WebAgent安全攻击文献清单.md",
     "论文/Week Ⅲ/多语言越狱/论文分析与下步建议.md",
-    "论文/Week Ⅲ/多语言越狱/SELF-DEFENCE方法流程图.md",
-    "大二上/马原/2/第3讲｜唯物辩证法的基本规律.md",
-    "论文/Week Ⅲ/WEEK Ⅲ 会议纪要.md",
-    "大二上/马原/2/第2讲｜唯物辩证法的总特征.md",
-    "大二上/马原/2/第1讲｜马克思主义唯物论.md",
-    "大二上/概率论/Week 4/2-3 第一章重点例子.md",
-    "大二上/CAD/Tutorial 1(记得重做）.md",
-    "大二上/马原/1/马原 9.15.md",
-    "大二上/马原/1/马原9.10.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
