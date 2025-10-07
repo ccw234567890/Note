@@ -53,12 +53,14 @@
             "id": "7f7f23140a9d4b4b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文/Week Ⅲ/Mind2Web/2306.06070v3.pdf"
+                "file": "SeeAct.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2306.06070v3"
+              "icon": "lucide-file",
+              "title": "SeeAct"
             }
           },
           {
@@ -251,6 +253,7 @@
   },
   "active": "7f7f23140a9d4b4b",
   "lastOpenFiles": [
+    "论文/Week Ⅲ/Mind2Web/2306.06070v3.pdf",
     "论文/Week Ⅲ/Mind2Web/1.导图.md",
     "论文/Week Ⅲ/Mind2Web/0.md",
     "论文/Week Ⅲ/SeeAct/2401.01614v2.pdf",
@@ -263,7 +266,6 @@
     "论文/Week Ⅲ/EIA/2409.11295v5.pdf.crdownload",
     "论文/Week Ⅲ/EIA",
     "论文/Week Ⅲ/新建文件夹",
-    "论文/Week Ⅲ/Mind2Web/2306.06070v3.pdf",
     "论文/Week Ⅲ/Mind2Web/5.Fig.6（每站点分布）.md",
     "论文/Week Ⅲ/Mind2Web/4.Fig.3，4，5（方法）.md",
     "论文/Week Ⅲ/Mind2Web/3.Fig.2.md",
@@ -278,7 +280,7 @@
     "论文/Week Ⅲ/WebAgent/3.Fig.1 & Fig.2.md",
     "论文/Week Ⅲ/WebAgent/2.Figure 3.md",
     "论文/Week Ⅲ/WebAgent/2307.12856v4.pdf",
-    "未命名.md",
+    "SeeAct.md",
     "论文/Week Ⅰ/2.密集连接卷积网络DenseNet/Figure 3.md",
     "论文/Idea/Jailbreak/13-方案A_Web_Agent_视觉Jailbreak_完整研究方案.md",
     "论文/Week Ⅲ/WIPI/0.md",
