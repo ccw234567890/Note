@@ -53,14 +53,12 @@
             "id": "7f7f23140a9d4b4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二上/概率论/Week 4/3 第二章.md",
-                "mode": "preview",
-                "source": false
+                "file": "论文/Week Ⅰ/3.《Attention is all you need》Transformer/1706.03762v7.pdf"
               },
-              "icon": "lucide-file",
-              "title": "3 第二章"
+              "icon": "lucide-file-text",
+              "title": "1706.03762v7"
             }
           },
           {
@@ -147,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -253,6 +252,7 @@
   },
   "active": "7f7f23140a9d4b4b",
   "lastOpenFiles": [
+    "大二上/概率论/Week 4/3 第二章.md",
     "大二上/概率论/Week 4/2 第一章.md",
     "大二上/概率论/作业/第一次作业.md",
     "SeeAct.md",
@@ -288,7 +288,6 @@
     "论文/Week Ⅲ/WIPI/0.md",
     "论文/Week Ⅲ/WASP/0.md",
     "论文/Week Ⅲ/多语言越狱/0.md",
-    "论文/Idea/Jailbreak/12-方案A_Web_Agent_视觉对抗攻击_完整研究方案.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
