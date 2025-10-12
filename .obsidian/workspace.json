@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二上/Physics Ⅱ/CH22作业题.md",
-                "mode": "preview",
+                "file": "大二上/概率论/Week 6/2 第三章.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH22作业题"
+              "title": "2 第三章"
             }
           }
         ]
@@ -182,17 +182,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7bde90799bd1cd11",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "大二上/概率论/Week 6/1 (条件概率+全概率+贝叶斯）.md",
+    "大二上/概率论/Week 6/2 第三章.md",
+    "大二上/概率论/Week 4/3 第二章.md",
+    "大二上/概率论/Week 3/1 (9.16).md",
+    "大二上/Physics Ⅱ/CH22作业题.md",
     "大二上/Physics Ⅱ/CH19作业整理.md",
     "大二上/Physics Ⅱ/CH20作业整理.md",
     "大二上/Physics Ⅱ/CH21作业题.md",
-    "大二上/Physics Ⅱ/CH22作业题.md",
     "SeeAct.md",
-    "大二上/概率论/Week 6/1 (条件概率+全概率+贝叶斯）.md",
     "大二上/概率论/Week 4/1 (不可数样本空间的概率+容斥原理+计数方法).md",
     "大二上/概率论/Week 3/2 (样本空间与事件+集合论与事件的运算+概率).md",
-    "未命名.md",
     "大二上/概率论/Week 6",
     "AI模型练习/Figstep/1.figstep.md",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf",
@@ -200,7 +202,6 @@
     "论文/Week Ⅲ/Mind2Web/1.导图.md",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/基于构建的攻击流程.md",
     "论文/Week Ⅱ/6.图像是对齐的阿喀琉斯之踵：利用视觉漏洞越狱多模态大语言模型/图 1 (Figure 1).md",
-    "大二上/概率论/Week 4/3 第二章.md",
     "大二上/概率论/Week 4/2 第一章.md",
     "大二上/概率论/作业/第一次作业.md",
     "大二上/概率论/作业",
@@ -219,7 +220,6 @@
     "论文/Week Ⅲ/Mind2Web/4.Fig.3，4，5（方法）.md",
     "论文/Week Ⅲ/Mind2Web/3.Fig.2.md",
     "论文/Week Ⅲ/Mind2Web/2.Fig.1.md",
-    "论文/prompt/prompt3 李沐三遍读论文.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
