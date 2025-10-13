@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d02ab1e462fe0f",
+        "id": "e630ac8335342138",
         "type": "tabs",
         "children": [
           {
-            "id": "7bde90799bd1cd11",
+            "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大二上/CAD/lecture 7.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lecture 7"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -183,13 +178,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7bde90799bd1cd11",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "大二上/EFES B/EFES B 9.9 LED Summary.md",
+    "大二上/EFES B/EFES B 9.10 Literature Review.md",
+    "大二上/EFES B/EFES B 10.13 Circuit summary sample.md",
+    "大二上/EFES B/EFES B 9.11 Bulb summary sample.md",
+    "大二上/CAD/lecture 7.md",
     "大二上/CAD/lecture 6.md",
     "大二上/CAD/lecture 4.md",
     "大二上/CAD/lecture 5.md",
     "大二上/CAD/lecture 5 用克莱默法则求解多节点方程.md",
-    "大二上/CAD/lecture 7.md",
     "大二上/CAD/PPT/Lecture 7_Hainan_No Answers.pdf",
     "大二上/CAD/PPT",
     "大二上/马原/2/第3讲｜唯物辩证法的基本规律.md",
@@ -215,12 +214,8 @@
     "大二上/Physics Ⅱ/CH20作业整理.md",
     "大二上/Physics Ⅱ/CH21作业题.md",
     "SeeAct.md",
-    "大二上/概率论/Week 4/1 (不可数样本空间的概率+容斥原理+计数方法).md",
-    "大二上/概率论/Week 3/2 (样本空间与事件+集合论与事件的运算+概率).md",
     "大二上/概率论/Week 6",
-    "AI模型练习/Figstep/1.figstep.md",
     "论文/Week Ⅱ/5.针对多模态大语言模型的越狱攻击/2402.02309v1.pdf",
-    "论文/Week Ⅲ/Mind2Web/1.导图.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
