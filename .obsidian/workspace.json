@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二上/CAD/lecture 6.md",
+                "file": "大二上/CAD/lecture 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 6"
+              "title": "lecture 7"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +185,8 @@
   },
   "active": "7bde90799bd1cd11",
   "lastOpenFiles": [
-    "大二上/CAD/lecture 4.md",
     "大二上/CAD/lecture 6.md",
+    "大二上/CAD/lecture 4.md",
     "大二上/CAD/lecture 5.md",
     "大二上/CAD/lecture 5 用克莱默法则求解多节点方程.md",
     "大二上/CAD/lecture 7.md",

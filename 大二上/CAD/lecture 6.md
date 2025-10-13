@@ -262,7 +262,7 @@ $$
 
 ## 例题 E（Example 3.17）：含受控关系的 Supermesh
 ![[Lecture 6.pdf#page=31]]
-![[Lecture 6.pdf#page=32]]
+
 
 - 受控关系：$I_3-I_2=0.0005\,v$，且 $v=6000\,I_1$ ⇒ $I_3=3I_1+I_2$。  
 - Supermesh KVL：  
@@ -283,7 +283,7 @@ $$
 ---
 
 ## Summary（要点回顾）
-![[Lecture 6.pdf#page=33]]
+![[Lecture 6.pdf#page=31]]
 
 - 网孔电流法：每个网孔一条 **KVL**，共享支路用差流。  
 - 电流源在单一网孔内 → 该网孔电流已知。  
