@@ -11,14 +11,12 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二上/大物实验 Ⅱ/2/使用分光计测量棱镜顶角和汞光谱线波长.md",
-                "mode": "preview",
-                "source": false
+                "file": "大二上/大物实验 Ⅱ/2/lab 7.pdf"
               },
-              "icon": "lucide-file",
-              "title": "使用分光计测量棱镜顶角和汞光谱线波长"
+              "icon": "lucide-file-text",
+              "title": "lab 7"
             }
           }
         ]
@@ -184,17 +182,25 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
+    "大二上/大物实验 Ⅱ/2/Physical Exp+电工+2024300901016曹城玮+prelab07.pdf",
+    "大二上/大物实验 Ⅱ/2/lab 7.pdf",
+    "大二上/大物实验 Ⅱ/2/使用分光计测量棱镜顶角和汞光谱线波长.md",
+    "大二上/EFES B/7.lab report 样例.md",
+    "大二上/EFES B/6.lab report 技巧.md",
+    "大二上/EFES B/4.Bulb summary sample.md",
+    "大二上/EFES B/3.Literature Review.md",
+    "大二上/EFES B/2.LED Summary.md",
+    "大二上/EFES B/1.LED Transcript.md",
+    "大二上/EFES B/0.描述相似点与不同点.md",
+    "大二上/EFES B/5.Circuit summary sample.md",
+    "大二上/概率论/作业/第二次作业.md",
     "大二上/大物实验 Ⅱ/prompt2.md",
     "大二上/大物实验 Ⅱ/prompt1.md",
     "大二上/大物实验 Ⅱ/0.弗兰克赫兹实验/The Frank-Hertz Experiment.pdf",
     "大二上/大物实验 Ⅱ/1.迈克尔逊干涉仪/迈克尔逊干涉仪prelab.md",
     "大二上/大物实验 Ⅱ/1.迈克尔逊干涉仪/迈克尔逊干涉仪计算.md",
-    "大二上/大物实验 Ⅱ/2/使用分光计测量棱镜顶角和汞光谱线波长.md",
-    "大二上/大物实验 Ⅱ/2/lab 7.pdf",
-    "大二上/大物实验 Ⅱ/2/Physical Exp+电工+2024300901016曹城玮+prelab07.pdf",
     "大二上/大物实验 Ⅱ/2/Use a spectrometer to measure the apex angle of a prism and the.pdf",
     "大二上/大物实验 Ⅱ/2",
-    "大二上/概率论/作业/第二次作业.md",
     "大二上/马原/2/第4讲｜辩证唯物主义认识论.md",
     "大二上/马原/2/第3讲｜唯物辩证法的基本规律.md",
     "大二上/马原/2/第2讲｜唯物辩证法的总特征.md",
@@ -209,15 +215,6 @@
     "大二上/概率论/Week 4/3 第二章.md",
     "大二上/概率论/Week 7",
     "大二上/概率论/Week 4/2 第一章.md",
-    "大二上/EFES B/EFES B 9.3 描述相似点与不同点.md",
-    "大二上/EFES B/EFES B 9.9 LED Summary.md",
-    "大二上/EFES B/EFES B 9.10 Literature Review.md",
-    "大二上/EFES B/EFES B 10.13 Circuit summary sample.md",
-    "大二上/EFES B/EFES B 9.11 Bulb summary sample.md",
-    "大二上/CAD/lecture 7.md",
-    "大二上/CAD/lecture 6.md",
-    "大二上/CAD/lecture 4.md",
-    "大二上/CAD/lecture 5.md",
     "大二上/CAD/PPT/Lecture 7_Hainan_No Answers.pdf",
     "大二上/CAD/PPT",
     "未命名.canvas",
