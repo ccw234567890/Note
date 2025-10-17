@@ -11,12 +11,14 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/大物实验 Ⅱ/2/lab 7.pdf"
+                "file": "大二上/CAD/lecture 8.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lab 7"
+              "icon": "lucide-file",
+              "title": "lecture 8"
             }
           }
         ]
@@ -182,8 +184,10 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/大物实验 Ⅱ/2/Physical Exp+电工+2024300901016曹城玮+prelab07.pdf",
+    "大二上/CAD/PPT/Lecture 8_Hainan_No Answers.pdf",
     "大二上/大物实验 Ⅱ/2/lab 7.pdf",
+    "大二上/CAD/lecture 8.md",
+    "大二上/大物实验 Ⅱ/2/Physical Exp+电工+2024300901016曹城玮+prelab07.pdf",
     "大二上/大物实验 Ⅱ/2/使用分光计测量棱镜顶角和汞光谱线波长.md",
     "大二上/EFES B/7.lab report 样例.md",
     "大二上/EFES B/6.lab report 技巧.md",
@@ -214,7 +218,6 @@
     "大二上/CAD/Lab Booklet",
     "大二上/概率论/Week 4/3 第二章.md",
     "大二上/概率论/Week 7",
-    "大二上/概率论/Week 4/2 第一章.md",
     "大二上/CAD/PPT/Lecture 7_Hainan_No Answers.pdf",
     "大二上/CAD/PPT",
     "未命名.canvas",
