@@ -11,12 +11,14 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/概率论/教材/第三章.pdf"
+                "file": "大二上/概率论/Week 8（10.21好像理解一点了）/2.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第三章"
+              "icon": "lucide-file",
+              "title": "2"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -183,8 +184,11 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/大物实验 Ⅱ/3.密里根油滴/密立根油滴实验.md",
+    "大二上/概率论/prompt/录音整理.md",
+    "大二上/概率论/Week 8（10.21好像理解一点了）/2.md",
+    "大二上/概率论/prompt",
     "大二上/概率论/教材/第三章.pdf",
+    "大二上/大物实验 Ⅱ/3.密里根油滴/密立根油滴实验.md",
     "大二上/大物实验 Ⅱ/2.分光计/使用分光计测量棱镜顶角和汞光谱线波长.md",
     "大二上/大物实验 Ⅱ/3.密里根油滴/The Millikan Oil Drop Experiment.pdf",
     "大二上/大物实验 Ⅱ/3.密里根油滴/Phsical Exp+电工+2024300901016+曹城玮+prelab09.pdf",
@@ -215,9 +219,7 @@
     "大二上/马原/2/第5讲｜真理论与价值论-专题三.md",
     "大二上/马原/2/第4讲｜辩证唯物主义认识论-专题三.md",
     "大二上/CAD/Lab Booklet/解读.md",
-    "大二上/CAD/lecture 1.md",
     "大二上/概率论/Week 8（10.21好像理解一点了）",
-    "大二上/CAD/Lab Booklet/CAD Lab Booklet 2025-26_Updated_v6_Hainan.pdf",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
