@@ -11,14 +11,12 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二上/Physics Ⅱ/解析/CH19 Coulomb's Law.md",
-                "mode": "source",
-                "source": false
+                "file": "大二上/Physics Ⅱ/课件/Ch25 Lecture09-10 Magnetism.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CH19 Coulomb's Law"
+              "icon": "lucide-file-text",
+              "title": "Ch25 Lecture09-10 Magnetism"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -183,12 +180,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "18feec046c719adf",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "大二上/Physics Ⅱ/课件/Ch25 Lecture09-10 Magnetism.pdf",
+    "未命名.md",
+    "大二上/概率论/作业/第三次作业.md",
+    "大二上/概率论/作业/第三次作业反思（记得看最后一个）.md",
+    "大二上/CAD/Lab Booklet/lab3.md",
+    "大二上/Physics Ⅱ/解析/CH19 Coulomb's Law.md",
     "大二上/Physics Ⅱ/解析/CH26作业题（难）.md",
     "大二上/Physics Ⅱ/解析/CH26 三角函数变换回忆.md",
-    "大二上/CAD/Lab Booklet/lab3.md",
-    "大二上/概率论/作业/第三次作业反思（记得看最后一个）.md",
     "大二上/概率论/Week 8（10.21好像理解一点了）/3.md",
     "大二上/CAD/Lab Booklet/解读.md",
     "大二上/CAD/Lab Booklet/lab3.pdf",
@@ -201,7 +202,6 @@
     "大二上/马原/2/第4讲｜辩证唯物主义认识论-专题三.md",
     "大二上/Physics Ⅱ/解析/CH20 Gauss's Law的理解补充.md",
     "大二上/Physics Ⅱ/解析/CH20 Gauss's Law.md",
-    "大二上/Physics Ⅱ/解析/CH19 Coulomb's Law.md",
     "大二上/Physics Ⅱ/解析/CH26.md",
     "大二上/Physics Ⅱ/解析/CH26 高斯散度定理.md",
     "大二上/EFES B/7.lab report 样例.md",
@@ -216,9 +216,6 @@
     "大二上/大物实验 Ⅱ/3.密里根油滴/The Millikan Oil Drop Experiment.pdf",
     "大二上/大物实验 Ⅱ/3.密里根油滴/lab9.pdf",
     "大二上/大物实验 Ⅱ/1.迈克尔逊干涉仪/迈克尔逊干涉仪prelab.md",
-    "大二上/概率论/作业/第三次作业.md",
-    "大二上/概率论/作业/第二次作业（记得看12&16）.md",
-    "大二上/概率论/作业/第二次作业反思.md",
     "大二上/概率论/教材/第三章.pdf",
     "大二上/概率论/prompt",
     "未命名.canvas",
