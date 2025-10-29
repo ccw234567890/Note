@@ -11,14 +11,12 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二上/概率论/prompt/教材整理.md",
-                "mode": "source",
-                "source": false
+                "file": "大二上/概率论/教材/第三章.pdf"
               },
-              "icon": "lucide-file",
-              "title": "教材整理"
+              "icon": "lucide-file-text",
+              "title": "第三章"
             }
           }
         ]
@@ -184,9 +182,9 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "大二上/Physics Ⅱ/解析/CH28.md",
-    "大二上/概率论/prompt/教材整理.md",
     "大二上/概率论/教材/第四章.pdf",
+    "大二上/概率论/prompt/教材整理.md",
+    "大二上/Physics Ⅱ/解析/CH28.md",
     "大二上/Physics Ⅱ/prompt/1.md",
     "大二上/Physics Ⅱ/解析/CH27.md",
     "大二上/Physics Ⅱ/prompt/0.md",
@@ -217,7 +215,6 @@
     "大二上/Physics Ⅱ/解析/CH26 高斯散度定理.md",
     "大二上/EFES B/7.lab report 样例.md",
     "大二上/EFES B/5.Circuit summary sample.md",
-    "大二上/EFES B/4.Bulb summary sample.md",
     "大二上/大物实验 Ⅱ/期末考试/期末考试实验PDF.pdf",
     "大二上/大物实验 Ⅱ/期末考试",
     "未命名.canvas",
