@@ -11,12 +11,14 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/概率论/教材/第三章.pdf"
+                "file": "大二上/Physics Ⅱ/解析/CH26作业题（难）.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第三章"
+              "icon": "lucide-file",
+              "title": "CH26作业题（难）"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -180,10 +183,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/概率论/教材/第四章.pdf",
+    "1.md",
     "大二上/概率论/prompt/教材整理.md",
+    "大二上/概率论/Week 9",
+    "大二上/概率论/教材/第三章.pdf",
+    "大二上/概率论/教材/第四章.pdf",
     "大二上/Physics Ⅱ/解析/CH28.md",
     "大二上/Physics Ⅱ/prompt/1.md",
     "大二上/Physics Ⅱ/解析/CH27.md",
@@ -215,8 +221,6 @@
     "大二上/Physics Ⅱ/解析/CH26 高斯散度定理.md",
     "大二上/EFES B/7.lab report 样例.md",
     "大二上/EFES B/5.Circuit summary sample.md",
-    "大二上/大物实验 Ⅱ/期末考试/期末考试实验PDF.pdf",
-    "大二上/大物实验 Ⅱ/期末考试",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
