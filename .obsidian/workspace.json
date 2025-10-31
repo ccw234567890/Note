@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "大二上/Physics Ⅱ/解析/CH27作业.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -183,8 +184,9 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/概率论/prompt/作业整理.md",
+    "大二上/EFES B/PPT演讲稿.md",
     "大二上/Physics Ⅱ/解析/CH27作业.md",
+    "大二上/概率论/prompt/作业整理.md",
     "大二上/Physics Ⅱ/prompt/0.md",
     "大二上/Physics Ⅱ/prompt/1.md",
     "大二上/概率论/prompt/教材整理.md",
@@ -218,7 +220,6 @@
     "大二上/概率论/作业/第三次作业反思（记得看最后一个）.md",
     "大二上/CAD/Lab Booklet/lab3.md",
     "大二上/Physics Ⅱ/解析/CH19 Coulomb's Law.md",
-    "大二上/Physics Ⅱ/解析/CH26 三角函数变换回忆.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
