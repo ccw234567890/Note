@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "大二上/EFES B/8.L2W.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -184,8 +185,9 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
+    "大二上/EFES B/PPT演讲稿.md",
     "大二上/EFES B/8.L2W.md",
+    "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
     "大二上/马原/2/第9讲｜社会历史发展的主体力量 -专题四.md",
     "大二上/马原/2/第10讲｜政治经济学的理论探索和《资本论》 -专题五.md",
     "大二上/CAD/Tutorial 1(记得重做）.md",
@@ -212,7 +214,6 @@
     "大二上/概率论/Week 11",
     "大二上/概率论/教材/第四章.pdf",
     "大二上/概率论/教材/第五章.pdf",
-    "大二上/概率论/作业/第五次作业.md",
     "大二上/概率论/教材/第三章.pdf",
     "大二上/CAD/PPT/Lecture 12_Hainan-Ali.pdf",
     "大二上/CAD/PPT/Lecture 11_Hainan-Ali.pdf",
