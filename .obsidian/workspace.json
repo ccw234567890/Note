@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "18feec046c719adf",
   "lastOpenFiles": [
     "大二上/概率论/prompt/录音整理.md",
     "大二上/概率论/Week 11/1-4.3 Moments (矩).md",
