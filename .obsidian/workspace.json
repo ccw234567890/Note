@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二上/概率论/作业/第五次作业.md",
+                "file": "大二上/EFES B/8.L2W.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第五次作业"
+              "title": "8.L2W"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -184,8 +185,8 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/概率论/作业/第六次作业.md",
     "大二上/概率论/作业/第五次作业.md",
+    "大二上/概率论/作业/第六次作业.md",
     "大二上/概率论/prompt/作业整理.md",
     "大二上/概率论/教材/第四章.pdf",
     "大二上/概率论/教材/第五章.pdf",
