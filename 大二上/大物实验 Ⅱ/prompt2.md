@@ -1,0 +1,1 @@
+阅读这些文件，按照要求写这个实验的prelab,用一个完整的obsidian代码，要用英文，不要有颜色，不要有[cite:start],[cite_start]和[cite:   ]
