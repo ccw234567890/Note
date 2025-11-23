@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "第七次作业.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -186,12 +185,14 @@
   "active": "18feec046c719adf",
   "lastOpenFiles": [
     "大二上/概率论/prompt/作业整理.md",
+    "大二上/概率论/prompt/录音整理.md",
     "第七次作业.md",
+    "大二上/概率论/教材/表格.pdf",
+    "大二上/概率论/教材/Distribution.pdf",
     "大二上/概率论/教材/第六章.pdf",
     "大二上/概率论/作业/第二次作业（记得看12&16）.md",
     "大二上/概率论/作业/第二次作业反思.md",
     "大二上/Physics Ⅱ/解析/CH32 狭义相对论 (Special Relativity) 课堂详录.md",
-    "大二上/概率论/prompt/录音整理.md",
     "大二上/概率论/Week 12/Chapter 6 The Law of Large Numbers (大数定律).md",
     "大二上/概率论/Week 12",
     "大二上/Physics Ⅱ/prompt/0.md",
@@ -217,10 +218,7 @@
     "大二上/Physics Ⅱ/解析/CH29作业题.md",
     "青梅煮酒/三代从商的忠告.md",
     "大二上/概率论/作业/第六次作业.md",
-    "大二上/概率论/教材/第四章.pdf",
-    "大二上/概率论/教材/第五章.pdf",
     "青梅煮酒/25国乒.md",
-    "青梅煮酒/国乒的“神性”黄昏：当“太子”与“饭圈”侵蚀荣誉的基石.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
