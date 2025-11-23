@@ -11,12 +11,14 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/概率论/教材/第六章.pdf"
+                "file": "第七次作业.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第六章"
+              "icon": "lucide-file",
+              "title": "第七次作业"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -182,12 +185,13 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/概率论/作业/第二次作业（记得看12&16）.md",
+    "大二上/概率论/prompt/作业整理.md",
+    "第七次作业.md",
     "大二上/概率论/教材/第六章.pdf",
+    "大二上/概率论/作业/第二次作业（记得看12&16）.md",
     "大二上/概率论/作业/第二次作业反思.md",
     "大二上/Physics Ⅱ/解析/CH32 狭义相对论 (Special Relativity) 课堂详录.md",
     "大二上/概率论/prompt/录音整理.md",
-    "大二上/概率论/prompt/作业整理.md",
     "大二上/概率论/Week 12/Chapter 6 The Law of Large Numbers (大数定律).md",
     "大二上/概率论/Week 12",
     "大二上/Physics Ⅱ/prompt/0.md",
