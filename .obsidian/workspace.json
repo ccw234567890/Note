@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二上/概率论/Week 13/1.md",
-                "mode": "preview",
+                "file": "大二上/CAD/lecture 14.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "lecture 14"
             }
           }
         ]
@@ -182,10 +182,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "18feec046c719adf",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "大二上/概率论/prompt/录音整理.md",
+    "大二上/CAD/lecture 13.md",
+    "大二上/CAD/lecture 14.md",
+    "大二上/Physics Ⅱ/prompt/0.md",
+    "大二上/概率论/prompt/教材整理.md",
+    "大二上/CAD/Lab Booklet/解读.md",
     "大二上/概率论/Week 13/1.md",
+    "大二上/CAD/PPT/Lecture 14.pdf",
+    "大二上/CAD/PPT/Lecture 14.pdf.crdownload",
+    "大二上/CAD/PPT/Lecture 13.pdf",
+    "大二上/CAD/PPT/Lecture 13.pdf.crdownload",
+    "大二上/概率论/prompt/录音整理.md",
     "大二上/概率论/Week 13",
     "未命名",
     "大二上/概率论/prompt/作业整理.md",
@@ -200,24 +209,17 @@
     "大二上/概率论/作业/第七次作业.md",
     "大二上/概率论/教材/表格.pdf",
     "大二上/概率论/教材/Distribution.pdf",
-    "大二上/概率论/教材/第六章.pdf",
     "大二上/概率论/作业/第二次作业（记得看12&16）.md",
     "大二上/概率论/作业/第二次作业反思.md",
     "大二上/概率论/Week 12/Chapter 6 The Law of Large Numbers (大数定律).md",
-    "大二上/概率论/Week 12",
-    "大二上/Physics Ⅱ/prompt/0.md",
     "大二上/Physics Ⅱ/prompt/2.md",
     "大二上/Physics Ⅱ/prompt/1.md",
     "大二上/大物实验 Ⅱ/prompt1.md",
     "大二上/大物实验 Ⅱ/prompt2.md",
-    "大二上/大物实验 Ⅱ/Data tables-2021.pdf",
     "大二上/Physics Ⅱ/解析/CH28作业题.md",
-    "大二上/大物实验 Ⅱ/5.电位器/lab 11.pdf",
     "大二上/概率论/作业/第五次作业.md",
     "大二上/概率论/Week 11/2-4.4 Covariance and Correlation (协方差与相关性).md",
     "大二上/EFES B/8.L2W.md",
-    "大二上/EFES B/未命名.md",
-    "大二上/Physics Ⅱ/解析/CH32.md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
