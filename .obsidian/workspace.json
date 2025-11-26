@@ -11,12 +11,14 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/大物实验 Ⅱ/13-Writing a lab report-Appendix 1.pdf"
+                "file": "内容要求.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "13-Writing a lab report-Appendix 1"
+              "icon": "lucide-file",
+              "title": "内容要求"
             }
           }
         ]
@@ -182,8 +184,10 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/大物实验 Ⅱ/prompt1.md",
     "未命名.md",
+    "内容要求.md",
+    "大二上/大物实验 Ⅱ/13-Writing a lab report-Appendix 1.pdf",
+    "大二上/大物实验 Ⅱ/prompt1.md",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
     "大二上/大物实验 Ⅱ/5.电位器/plot_thermal_emf.py",
     "大二上/概率论/教材/第七章.pdf",
@@ -203,7 +207,6 @@
     "大二上/概率论/prompt/作业整理.md",
     "大二上/EFES B/Project 资料/For Students_EfES B_PR Marking Criteria_2025.pdf",
     "大二上/EFES B/9.Project reprort.md",
-    "大二上/EFES B/Project 资料/EfES B_PR Instructions FOR Students_2025(1).pdf",
     "大二上/Physics Ⅱ/解析/CH32 狭义相对论 (Special Relativity) 课堂详录.md",
     "大二上/Physics Ⅱ/解析/CH32作业.md",
     "大二上/Physics Ⅱ/解析/CH29作业.md",
