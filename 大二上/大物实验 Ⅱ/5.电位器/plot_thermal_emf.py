@@ -28,7 +28,9 @@ plt.legend(fontsize=11)
 text_str = f'$E = {slope:.4f} T - {abs(intercept):.4f}$ mV\n$R^2 = {r_value**2:.4f}$'
 plt.text(36, 2.3, text_str, fontsize=12, bbox=dict(facecolor='white', alpha=0.8, edgecolor='gray'))
 
-# Show plot
+# Save and show plot
 plt.tight_layout()
+plt.savefig('thermal_emf_plot.png', dpi=300, bbox_inches='tight')
+print("图表已保存为 thermal_emf_plot.png")
 plt.show()
 

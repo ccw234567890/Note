@@ -11,14 +11,12 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "大二上/大物实验 Ⅱ/13-Writing a lab report-Appendix 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-file-text",
+              "title": "13-Writing a lab report-Appendix 1"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -187,6 +184,7 @@
   "lastOpenFiles": [
     "大二上/大物实验 Ⅱ/prompt1.md",
     "未命名.md",
+    "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
     "大二上/大物实验 Ⅱ/5.电位器/plot_thermal_emf.py",
     "大二上/概率论/教材/第七章.pdf",
     "大二上/CAD/lecture 14.md",
@@ -220,7 +218,6 @@
     "大二上/大物实验 Ⅱ/prompt2.md",
     "大二上/Physics Ⅱ/解析/CH28作业题.md",
     "大二上/概率论/作业/第五次作业.md",
-    "大二上/概率论/Week 11/2-4.4 Covariance and Correlation (协方差与相关性).md",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
@@ -231,7 +228,6 @@
     "大一下/Images/屏幕截图 2025-08-12 165158.png",
     "大一下/Images/屏幕截图 2025-08-12 165148.png",
     "大一下/Images/屏幕截图 2025-08-12 165139.png",
-    "大一下/Images/屏幕截图 2025-08-12 165118.png",
     "Untitled.canvas"
   ]
 }
