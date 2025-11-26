@@ -11,12 +11,14 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/概率论/教材/第七章.pdf"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第七章"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -182,8 +185,11 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
-    "大二上/CAD/lecture 14.md",
+    "大二上/大物实验 Ⅱ/prompt1.md",
+    "未命名.md",
+    "大二上/大物实验 Ⅱ/5.电位器/plot_thermal_emf.py",
     "大二上/概率论/教材/第七章.pdf",
+    "大二上/CAD/lecture 14.md",
     "大二上/CAD/lecture 13.md",
     "大二上/Physics Ⅱ/prompt/0.md",
     "大二上/概率论/prompt/教材整理.md",
@@ -206,13 +212,11 @@
     "大二上/概率论/Week 12/概率论与数理统计核心笔记整理.md",
     "大二上/概率论/Week 12/Large Random Samples (大样本理论与中心极限定理).md",
     "大二上/概率论/作业/第七次作业.md",
-    "大二上/概率论/教材/表格.pdf",
     "大二上/概率论/作业/第二次作业（记得看12&16）.md",
     "大二上/概率论/作业/第二次作业反思.md",
     "大二上/概率论/Week 12/Chapter 6 The Law of Large Numbers (大数定律).md",
     "大二上/Physics Ⅱ/prompt/2.md",
     "大二上/Physics Ⅱ/prompt/1.md",
-    "大二上/大物实验 Ⅱ/prompt1.md",
     "大二上/大物实验 Ⅱ/prompt2.md",
     "大二上/Physics Ⅱ/解析/CH28作业题.md",
     "大二上/概率论/作业/第五次作业.md",
