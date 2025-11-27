@@ -239,6 +239,7 @@
 
 ### Page 28-30: 终极总结 (Summary)
 ![[Lecture 14.pdf#page=28]]
+![[Lecture 14.pdf#page=29]]
 ![[Lecture 14.pdf#page=30]]
 **讲解：**
 这三页是**考试复习的Cheat Sheet**：
