@@ -11,12 +11,14 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/概率论/教材/第八章.pdf"
+                "file": "大二上/Physics Ⅱ/解析/CH34作业.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第八章"
+              "icon": "lucide-file",
+              "title": "CH34作业"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -183,9 +184,18 @@
   },
   "active": "18feec046c719adf",
   "lastOpenFiles": [
+    "大二上/Physics Ⅱ/解析/CH33作业.md",
+    "大二上/Physics Ⅱ/解析/CH34作业.md",
+    "大二上/Physics Ⅱ/解析/CH33.md",
+    "大二上/Physics Ⅱ/解析/CH32作业.md",
+    "大二上/Physics Ⅱ/解析/CH33 1.md",
+    "大二上/概率论/prompt/作业整理.md",
+    "大二上/概率论/作业/第八次作业.md",
+    "大二上/概率论/prompt/录音整理.md",
+    "大二上/概率论/教材/表格.pdf",
+    "大二上/概率论/教材/第八章.pdf",
     "大二上/概率论/教材/第四章.pdf",
     "大二上/概率论/教材/第九章.pdf",
-    "大二上/概率论/教材/第八章.pdf",
     "大二上/概率论/教材/第七章.pdf",
     "大二上/EFES B/Project 资料/EfES B_PR Instructions FOR Students_2025(1).pdf",
     "大二上/EFES B/9.Project reprort.md",
@@ -198,8 +208,6 @@
     "大二上/CAD/lecture 10.md",
     "大二上/CAD/lecture 9 戴维南与诺顿定理的区别.md",
     "大二上/Physics Ⅱ/解析/CH34 1.md",
-    "大二上/概率论/prompt/录音整理.md",
-    "大二上/概率论/prompt/作业整理.md",
     "大二上/大物实验 Ⅱ/大学物理实验  -英文版 付浩著_科学出版社 , 2017.01-9787030514073-14423491.pdf",
     "大二上/大物实验 Ⅱ/原文/电位器.pdf",
     "大二上/大物实验 Ⅱ/PPT/Lab Ⅵ.md",
@@ -208,18 +216,11 @@
     "大二上/概率论/Week 13/3.md",
     "未命名 1.md",
     "大二上/概率论/Week 13/2.md",
-    "大二上/Physics Ⅱ/解析/CH33 1.md",
-    "大二上/Physics Ⅱ/解析/CH33.md",
     "大二上/Physics Ⅱ/prompt/0.md",
     "大二上/Physics Ⅱ/prompt/1.md",
     "大二上/Physics Ⅱ/prompt/2.md",
     "Discussion.md",
-    "大二上/大物实验 Ⅱ/期末考试/1-实验详情：杨氏模量 (Young's Modulus) 测量.md",
     "大二上/大物实验 Ⅱ/期末考试/期末考试实验PDF.pdf",
-    "大二上/大物实验 Ⅱ/期末考试/0-期末大物实验考试 (Final Physics Lab Exam).md",
-    "大二上/Physics Ⅱ/解析/CH34.md",
-    "大二上/Physics Ⅱ/课件/Chp34 Quantum Mechanics.pdf",
-    "大二上/Physics Ⅱ/课件/Chp33 Early Quantum Theory and Models of Atom.pdf",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
     "Pasted image 20250830220556.png",
