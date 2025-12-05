@@ -11,14 +11,10 @@
             "id": "18feec046c719adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名 4"
+              "title": "新标签页"
             }
           }
         ]
@@ -182,14 +178,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "18feec046c719adf",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "未命名 2.md",
-    "未命名 4.md",
     "未命名 1.md",
+    "未命名 2.md",
     "未命名 3.md",
+    "未命名 4.md",
     "未命名.md",
-    "笔记.md",
+    "大二上/大物实验 Ⅱ/笔记.md",
     "大二上/Physics Ⅱ/prompt/1.md",
     "大二上/Physics Ⅱ/prompt/2.md",
     "大二上/Physics Ⅱ/解析/CH25.md",
