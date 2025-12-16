@@ -11,12 +11,14 @@
             "id": "4f87258331165cfa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/CAD/Lab Booklet/CAD Lab Booklet 2025-26_Updated_v6_Hainan.pdf"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CAD Lab Booklet 2025-26_Updated_v6_Hainan"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -182,6 +184,8 @@
   },
   "active": "4f87258331165cfa",
   "lastOpenFiles": [
+    "大二上/CAD/Lab Booklet/CAD Lab Booklet 2025-26_Updated_v6_Hainan.pdf",
+    "未命名.md",
     "大二上/CAD/Lab Booklet/report.pdf",
     "大二上/EFES B/Presentation/EfES B Presentation Tasksheet and Marking Criteria_Student Version.pdf",
     "大二上/CAD/lecture 18.md",
@@ -213,11 +217,9 @@
     "大二上/Physics Ⅱ/解析/CH34.md",
     "大二上/Physics Ⅱ/解析/CH32.md",
     "大二上/Physics Ⅱ/解析/CH32 狭义相对论 (Special Relativity) 课堂详录.md",
-    "大二上/Physics Ⅱ/解析/CH35作业.md",
     "大二上/Physics Ⅱ/解析/Semester Summarry of College Physics II.pdf",
     "大二上/Physics Ⅱ/课件/Chp35 Quantum Mechanics of Atoms.pdf",
     "大二上/概率论/Week 15",
-    "大二上/CAD/PPT/Lecture 17.pdf",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
