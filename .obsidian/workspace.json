@@ -11,12 +11,14 @@
             "id": "4f87258331165cfa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/CAD/Lab Booklet/CAD Lab Report Marking Criterion - Hainan.pdf"
+                "file": "大二上/概率论/prompt/录音整理.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CAD Lab Report Marking Criterion - Hainan"
+              "icon": "lucide-file",
+              "title": "录音整理"
             }
           }
         ]
@@ -182,9 +184,13 @@
   },
   "active": "4f87258331165cfa",
   "lastOpenFiles": [
-    "大二上/CAD/Lab Booklet/report.pdf",
-    "大二上/CAD/Lab Booklet/CAD Lab Booklet 2025-26_Updated_v6_Hainan.pdf",
+    "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~ECA52.tmp",
+    "大二上/EFES B/10.预告.md",
+    "大二上/CAD/PPT/Lecture 18.pdf",
     "大二上/CAD/Lab Booklet/CAD Lab Report Marking Criterion - Hainan.pdf",
+    "大二上/CAD/Lab Booklet/report.pdf",
+    "大二上/概率论/prompt/录音整理.md",
+    "大二上/CAD/Lab Booklet/CAD Lab Booklet 2025-26_Updated_v6_Hainan.pdf",
     "大二上/CAD/lecture 18.md",
     "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~F6DE6.tmp",
     "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~A756A.tmp",
@@ -192,7 +198,6 @@
     "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~0396B.tmp",
     "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~4EA33.tmp",
     "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~48484.tmp",
-    "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~3A60B.tmp",
     "大二上/CAD/lecture 17.md",
     "未命名.md",
     "大二上/CAD/lecture 8.md",
@@ -215,8 +220,6 @@
     "大二上/Physics Ⅱ/解析/CH29.md",
     "大二上/Physics Ⅱ/解析/CH33.md",
     "大二上/Physics Ⅱ/解析/CH34.md",
-    "大二上/Physics Ⅱ/解析/CH32.md",
-    "大二上/Physics Ⅱ/解析/CH32 狭义相对论 (Special Relativity) 课堂详录.md",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
