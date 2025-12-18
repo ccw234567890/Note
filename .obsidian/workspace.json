@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二上/CAD/PPT/Lecture 18.pdf"
+                "file": "大二上/CAD/PPT/Lecture 15.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 18"
+              "title": "Lecture 15"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -183,10 +182,11 @@
   },
   "active": "4f87258331165cfa",
   "lastOpenFiles": [
+    "大二上/CAD/PPT/Lecture 18.pdf",
+    "大二上/CAD/PPT/Lecture 17.pdf",
     "大二上/概率论/prompt/录音整理.md",
     "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~ECA52.tmp",
     "大二上/EFES B/10.预告.md",
-    "大二上/CAD/PPT/Lecture 18.pdf",
     "大二上/CAD/Lab Booklet/CAD Lab Report Marking Criterion - Hainan.pdf",
     "大二上/CAD/Lab Booklet/report.pdf",
     "大二上/CAD/Lab Booklet/CAD Lab Booklet 2025-26_Updated_v6_Hainan.pdf",
