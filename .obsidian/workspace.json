@@ -11,12 +11,14 @@
             "id": "4f87258331165cfa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二上/CAD/PPT/Lecture 15.pdf"
+                "file": "大二上/概率论/Week 12/Large Random Samples (大样本理论与中心极限定理).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 15"
+              "icon": "lucide-file",
+              "title": "Large Random Samples (大样本理论与中心极限定理)"
             }
           }
         ]
@@ -163,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,22 +184,33 @@
   },
   "active": "4f87258331165cfa",
   "lastOpenFiles": [
-    "大二上/CAD/Lab Booklet/~$D individual project report cover_Hainan.docx",
-    "大二上/CAD/PPT/Lecture 18.pdf",
-    "大二上/CAD/PPT/Lecture 16.pdf",
-    "大二上/CAD/PPT/Lecture 14.pdf",
-    "大二上/CAD/PPT/Lecture 13.pdf",
-    "大二上/CAD/PPT/Lecture 15.pdf",
-    "大二上/CAD/PPT/Lecture 17.pdf",
+    "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
+    "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg.crdownload",
+    "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
+    "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png.crdownload",
+    "大二上/EFES B/Presentation/faraday-lithography.pdf",
+    "大二上/EFES B/Presentation/faraday-lithography.pdf.crdownload",
+    "大二上/EFES B/Presentation/First_Integrated_Electric_Power_System_in_Croatia.pdf",
+    "大二上/EFES B/Presentation/First_Integrated_Electric_Power_System_in_Croatia.pdf.crdownload",
+    "大二上/EFES B/Presentation/A_Case_History_of_Shore_Power_Transformer_Taps_Arcing_during_No-Load_Condition.pdf",
+    "大二上/EFES B/Presentation/A_Case_History_of_Shore_Power_Transformer_Taps_Arcing_during_No-Load_Condition.pdf.crdownload",
+    "大二上/EFES B/Presentation/sensors-22-03921-v2.pdf",
+    "大二上/EFES B/Presentation/sensors-22-03921-v2.pdf.crdownload",
+    "大二上/概率论/Week 12/Chapter 6 The Law of Large Numbers (大数定律).md",
+    "大二上/概率论/Week 11/2-4.4 Covariance and Correlation (协方差与相关性).md",
     "大二上/概率论/prompt/录音整理.md",
-    "大二上/CAD/Lab Booklet/CAD individual project report cover_Hainan~ECA52.tmp",
+    "大二上/EFES B/9.Project reprort.md",
+    "大二上/EFES B/8.L2W.md",
     "大二上/EFES B/10.预告.md",
-    "大二上/CAD/Lab Booklet/CAD Lab Report Marking Criterion - Hainan.pdf",
-    "大二上/CAD/Lab Booklet/report.pdf",
-    "大二上/CAD/Lab Booklet/CAD Lab Booklet 2025-26_Updated_v6_Hainan.pdf",
+    "未命名.md",
+    "大二上/Physics Ⅱ/解析/CH28.md",
+    "大二上/Physics Ⅱ/解析/CH29.md",
+    "大二上/Physics Ⅱ/解析/CH32.md",
+    "大二上/Physics Ⅱ/解析/CH27.md",
+    "大二上/Physics Ⅱ/解析/CH26 高斯散度定理.md",
+    "大二上/Physics Ⅱ/解析/CH26.md",
     "大二上/CAD/lecture 18.md",
     "大二上/CAD/lecture 17.md",
-    "未命名.md",
     "大二上/CAD/lecture 8.md",
     "大二上/CAD/lecture 9.md",
     "大二上/CAD/lecture 9 戴维南与诺顿定理的区别.md",
@@ -207,16 +221,6 @@
     "大二上/CAD/lecture 5 用克莱默法则求解多节点方程.md",
     "大二上/CAD/lecture 5 受控源的方向与极性.md",
     "大二上/CAD/lecture 7.md",
-    "大二上/CAD/lecture 16.md",
-    "大二上/CAD/lecture 15.md",
-    "大二上/CAD/lecture 14.md",
-    "大二上/CAD/lecture 13.md",
-    "大二上/CAD/Tutorial 1(记得重做）.md",
-    "大二上/Physics Ⅱ/prompt/0.md",
-    "大二上/Physics Ⅱ/解析/CH28.md",
-    "大二上/Physics Ⅱ/解析/CH29.md",
-    "大二上/Physics Ⅱ/解析/CH33.md",
-    "大二上/Physics Ⅱ/解析/CH34.md",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
     "未命名.canvas",
     "Pasted image 20250830220613.png",
@@ -227,7 +231,6 @@
     "大一下/Images/屏幕截图 2025-08-12 165215.png",
     "大一下/Images/屏幕截图 2025-08-12 165158.png",
     "大一下/Images/屏幕截图 2025-08-12 165148.png",
-    "大一下/Images/屏幕截图 2025-08-12 165139.png",
     "Untitled.canvas"
   ]
 }
