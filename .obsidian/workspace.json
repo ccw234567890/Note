@@ -25,12 +25,14 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "大二下/模电/笔记/CH4.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "CH4"
             }
           }
         ],
@@ -197,23 +199,24 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
+    "大二下/模电/笔记/CH4.md",
+    "大二下/Prompt/0.md",
     "大二下/Prompt/1.md",
-    "大二下/模电/笔记/CH1.md",
-    "大二上/Physics Ⅱ/prompt/1.md",
+    "大二上/Physics Ⅱ/prompt/0.md",
     "大二上/Physics Ⅱ/prompt/2.md",
+    "大二上/Physics Ⅱ/prompt/1.md",
+    "大二下/模电/笔记/CH1.md",
     "大二下/模电/笔记/CH3.md",
     "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf",
     "大二下/模电/笔记",
-    "大二下/Prompt/0.md",
     "大二下/Prompt",
-    "大二上/Physics Ⅱ/prompt/0.md",
     "大二下/模电/PPT/Bao_Ch3_semiconductor202600301.pdf",
     "大二下/模电/PPT",
     "大二下/模电/新建文件夹",
     "大二下/模电",
     "大二下/新建文件夹",
     "大二下",
-    "新建文件夹",
     "大二上/大物实验 Ⅱ/prompt2.md",
     "大二上/大物实验 Ⅱ/prompt1.md",
     "大二上/CAD/lecture 2.md",
@@ -231,8 +234,6 @@
     "大二上/Physics Ⅱ/解析/CH25.md",
     "大二上/Physics Ⅱ/解析/CH23.md",
     "大二上/Physics Ⅱ/解析/CH22.md",
-    "大二上/Physics Ⅱ/解析/CH21.md",
-    "大二上/Physics Ⅱ/解析/CH20补充.md",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
