@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "CH1"
             }
+          },
+          {
+            "id": "33dadaa26073b5d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f87258331165cfa",
+  "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
     "大二下/Prompt/1.md",
     "大二下/模电/笔记/CH1.md",
