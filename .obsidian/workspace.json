@@ -25,14 +25,12 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二下/模电/笔记/CH4.md",
-                "mode": "preview",
-                "source": false
+                "file": "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CH4"
+              "icon": "lucide-file-text",
+              "title": "BAO_Ch1_introduction _ 20260301"
             }
           }
         ],
@@ -199,16 +197,18 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
-    "大二下/模电/笔记/CH4.md",
-    "大二下/Prompt/0.md",
-    "大二下/Prompt/1.md",
-    "大二上/Physics Ⅱ/prompt/0.md",
+    "大二下/Prompt/2.md",
+    "大二上/概率论/prompt/作业整理.md",
     "大二上/Physics Ⅱ/prompt/2.md",
     "大二上/Physics Ⅱ/prompt/1.md",
-    "大二下/模电/笔记/CH1.md",
-    "大二下/模电/笔记/CH3.md",
+    "大二上/Physics Ⅱ/prompt/0.md",
     "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf",
+    "大二下/模电/笔记/CH1.md",
+    "大二下/模电/笔记/CH4.md",
+    "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
+    "大二下/Prompt/0.md",
+    "大二下/Prompt/1.md",
+    "大二下/模电/笔记/CH3.md",
     "大二下/模电/笔记",
     "大二下/Prompt",
     "大二下/模电/PPT/Bao_Ch3_semiconductor202600301.pdf",
@@ -225,7 +225,6 @@
     "大二上/Physics Ⅱ/解析/CH19作业整理.md",
     "大二上/Physics Ⅱ/解析/CH19 Coulomb's Law.md",
     "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
-    "大二上/概率论/prompt/作业整理.md",
     "大二上/Physics Ⅱ/解析/CH34 2.md",
     "大二上/Physics Ⅱ/解析/CH35 1.md",
     "大二上/Physics Ⅱ/解析/CH35 2.md",
