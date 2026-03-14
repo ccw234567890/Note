@@ -25,14 +25,12 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二下/Prompt/2.md",
-                "mode": "source",
-                "source": false
+                "file": "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2"
+              "icon": "lucide-file-text",
+              "title": "BAO_Ch1_introduction _ 20260301"
             }
           }
         ],
@@ -197,16 +195,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/模电/PPT/Bao_Ch3_semiconductor202600301.pdf",
+    "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf",
+    "大二下/Prompt/2.md",
     "大二下/数电/PPT/Topic1s.pdf",
     "大二下/数电/PPT/Topic2-1s.pdf",
     "大二下/数电/PPT",
     "大二下/数电/新建文件夹",
     "大二下/数电",
     "大二下/新建文件夹",
-    "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf",
-    "大二下/Prompt/2.md",
     "大二上/概率论/prompt/作业整理.md",
     "大二上/Physics Ⅱ/prompt/2.md",
     "大二上/Physics Ⅱ/prompt/1.md",
@@ -219,7 +218,6 @@
     "大二下/模电/笔记/CH3.md",
     "大二下/模电/笔记",
     "大二下/Prompt",
-    "大二下/模电/PPT/Bao_Ch3_semiconductor202600301.pdf",
     "大二上/大物实验 Ⅱ/prompt2.md",
     "大二上/大物实验 Ⅱ/prompt1.md",
     "大二上/CAD/lecture 2.md",
