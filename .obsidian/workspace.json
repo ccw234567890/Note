@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/数电/PPT/Topic1s.pdf"
+                "file": "大二下/数电/PPT/Topic2-1s.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Topic1s"
+              "title": "Topic2-1s"
             }
           }
         ],
@@ -197,11 +197,13 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/数电/PPT/Topic2-2s.pdf",
+    "大二下/数电/PPT/~$Topic2-1s.pptx",
+    "大二下/数电/PPT/Topic1s.pdf",
     "大二下/数电/PPT/Topic2-1s.pptx",
     "大二下/数电/PPT/3697b2817918798c3e6d3a43861fa268.par.temp",
     "大二下/数电/PPT/3697b2817918798c3e6d3a43861fa268.temp",
     "大二下/数电/PPT/Topic2-1s.pdf",
-    "大二下/数电/PPT/Topic1s.pdf",
     "大二下/Prompt/2.md",
     "大二下/Prompt/1.md",
     "大二下/Prompt/0.md",
@@ -210,8 +212,6 @@
     "大二下/ECECS/文件/L03_L04_ECECS_NEIL_STS_2026.pdf",
     "大二下/ECECS/文件/NAE Grand Challenges Booklet.pdf.crdownload",
     "大二下/ECECS/文件/L03_L04_ECECS_NEIL_STS_2026.pdf.crdownload",
-    "大二下/ECECS/文件",
-    "大二下/ECECS/新建文件夹",
     "大二下/模电/笔记/CH1.md",
     "大二下/模电/笔记/0.md",
     "大二下/数电/笔记/0.md",
