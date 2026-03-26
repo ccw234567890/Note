@@ -25,12 +25,14 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT)"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -197,9 +199,10 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
+    "未命名.md",
     "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment - 副本.pdf",
     "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment.pdf",
-    "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
     "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png.crdownload",
@@ -211,14 +214,12 @@
     "大二下/Prompt/2.md",
     "大二下/Prompt/0.md",
     "大二下/Prompt/1.md",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
     "大二下/嵌入式/笔记/0.md",
     "大二下/模电/笔记/CH1.md",
     "大二下/模电/笔记/0.md",
     "大二下/数电/笔记/0.md",
     "大二下/模电/笔记/CH3.md",
     "大二下/模电/笔记/CH4.md",
-    "未命名.md",
     "大二上/概率论/prompt/作业整理.md",
     "大二上/Physics Ⅱ/prompt/2.md",
     "大二上/Physics Ⅱ/prompt/1.md",
