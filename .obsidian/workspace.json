@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Lab 1 Task 1 diagram"
             }
           }
         ],
@@ -197,10 +197,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
     "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
-    "未命名.md",
+    "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
     "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment - 副本.pdf",
     "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment.pdf",
     "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
