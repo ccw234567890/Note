@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/ECECS/文件/ECECS 2029_2005 Engineering Internship Post 2026.pdf"
+                "file": "大二下/ECECS/文件/WA_Tasksheet_2025_26.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ECECS 2029_2005 Engineering Internship Post 2026"
+              "title": "WA_Tasksheet_2025_26"
             }
           }
         ],
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -198,8 +197,12 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
+    "大二下/ECECS/文件/NAE Grand Challenges Booklet.pdf",
+    "大二下/ECECS/文件/L03_L04_ECECS_NEIL_STS_2026.pdf",
+    "大二下/ECECS/文件/Employability portfolio 25_26 Student Tasksheet 2.pdf",
+    "大二下/ECECS/文件/WA_Tasksheet_2025_26.pdf",
     "大二下/ECECS/文件/ECECS 2029_2005 Engineering Internship Post 2026.pdf",
+    "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
     "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
     "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment - 副本.pdf",
     "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment.pdf",
@@ -207,9 +210,6 @@
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png.crdownload",
     "大二下/嵌入式/PPT/~$STC(HN)2004 Embedded_Processors_Lab1_25_26.docx",
-    "大二下/嵌入式/PPT/UESTC(HN)2004 Embedded_Processors_Lab1_25_26.docx",
-    "大二下/嵌入式/PPT/未确认 485517.crdownload",
-    "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment.pdf.crdownload",
     "大二下/Prompt/2.md",
     "大二下/Prompt/0.md",
     "大二下/Prompt/1.md",
