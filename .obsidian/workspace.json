@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/数电/PPT/Topic2-1s.pdf"
+                "file": "大二下/ECECS/文件/UK-spec-fourth-edition (7).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Topic2-1s"
+              "title": "UK-spec-fourth-edition (7)"
             }
           }
         ],
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 456.5091133117676
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -197,18 +197,18 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/ECECS/文件/Writing Lecture Notes by Hand_from L1 (3).pdf",
+    "大二下/ECECS/文件/Writing Lecture Notes by Hand_from L1 (3).pdf.crdownload",
+    "大二下/ECECS/文件/L01_L02_ECECS_NEIL_CD_STS_2026.pdf",
+    "大二下/ECECS/文件/UK-spec-fourth-edition (7).pdf",
+    "大二下/ECECS/文件/UK-spec-fourth-edition (7).pdf.crdownload",
+    "大二下/数电/PPT/Topic2-1s.pdf",
+    "大二下/ECECS/文件/L01_L02_ECECS_NEIL_CD_STS_2026.pdf.crdownload",
     "大二下/数电/PPT/~$Topic2-1s.pptx",
     "大二下/数电/PPT/Topic2-2s.pdf",
     "大二下/ECECS/文件/WA_Tasksheet_2025_26.pdf",
     "大二下/ECECS/文件/NAE Grand Challenges Booklet.pdf",
-    "大二下/ECECS/文件/L03_L04_ECECS_NEIL_STS_2026.pdf",
-    "大二下/ECECS/文件/Employability portfolio 25_26 Student Tasksheet 2.pdf",
-    "大二下/ECECS/文件/ECECS 2029_2005 Engineering Internship Post 2026.pdf",
     "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
-    "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
-    "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment - 副本.pdf",
-    "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment.pdf",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/Prompt/2.md",
     "大二下/Prompt/0.md",
