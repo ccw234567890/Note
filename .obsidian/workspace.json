@@ -25,14 +25,12 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
-                "mode": "preview",
-                "source": false
+                "file": "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lab 1 Task 1 diagram"
+              "icon": "lucide-file-text",
+              "title": "BAO_Ch4_diodes20260317"
             }
           }
         ],
@@ -93,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5091133117676,
-    "collapsed": true
+    "width": 456.5091133117676
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -200,17 +197,17 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "大二下/嵌入式/PPT/UESTC(HN)2004 Embedded_Processors_Lab1_25_26~E5B34.tmp",
-    "大二下/嵌入式/PPT/UESTC(HN)2004 Embedded_Processors_Lab1_25_26~DC349.tmp",
-    "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
-    "大二下/嵌入式/PPT/UESTC(HN)2004 Embedded_Processors_Lab1_25_26~44910.tmp",
-    "大二下/嵌入式/PPT/Lecture 5 - ARM ISA and Assembly Programming.pdf",
-    "大二下/嵌入式/PPT/Lecture 5 - ARM ISA and Assembly Programming.pdf.crdownload",
-    "大二下/ECECS/文件/WA_Tasksheet_2025_26.pdf",
-    "大二下/ECECS/文件/WA WK6 Tutorial Proforma_CHECK IN 1~691F2.tmp",
-    "大二下/ECECS/文件/WA WK6 Tutorial Proforma_CHECK IN 1~90254.tmp",
-    "大二下/ECECS/文件/Writing Lecture Notes by Hand_from L1 (3).pdf",
-    "大二下/ECECS/文件/WA WK6 Tutorial Proforma_CHECK IN 1~0BC2F.tmp",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/~$Lab1.pptx",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/code1/tb_ledwater.txt",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/code1/tb_decoder.txt",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/code1/PINS_SET.txt",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/code1/ledwater.txt",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/Lab1.pptx",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/code1",
+    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习",
+    "大二下/数电/PPT/UoG数电实验lab1预习",
+    "大二下/数电/PPT/8-预习资料-发学生/8-预习资料-发学生/UoG数电实验lab1预习/code1/tb_ledwater.txt",
+    "大二下/数电/PPT/8-预习资料-发学生/8-预习资料-发学生/UoG数电实验lab1预习/code1/tb_decoder.txt",
     "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/Prompt/2.md",

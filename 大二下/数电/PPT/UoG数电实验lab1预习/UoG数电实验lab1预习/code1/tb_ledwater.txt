@@ -1,0 +1,57 @@
+module LEDwater_vlg_tst();
+
+// test vector input registers
+reg clk;
+reg rst_n;
+reg stop;
+
+// wires                                               
+wire [7:0]  led;
+
+// assign statements (if any)                          
+LEDwater test_LEDwater (
+// port map - connection between master ports and signals/registers   
+	.clk(clk),
+	.led(led),
+	.rst_n(rst_n),
+	.stop(stop)
+);
+parameter PERIOD=20; 
+initial                                                
+begin                                                  
+clk = 1'b0;
+forever  #(PERIOD/2)
+clk= ~clk;               
+end 
+
+initial                                                                 
+begin                                                  
+task_sysinit; 
+task_reset;
+task_stop;  
+repeat(2) @(posedge clk);
+$stop;                                  
+end  
+//首先调用系统初始化任务将stop信号初始化为低电平，代码如下：
+//--------------------------------------------
+task task_sysinit;      
+begin
+stop = 1'b0;  
+end 
+endtask
+//然后调用系统复位任务，通过设置rst_n信号进行系统复位，具体是高电平触发复位还是低电平触发复位由设计文件决定，此处是低电平复位，代码如下：
+//--------------------------------------------
+task task_reset;
+begin
+//please complete the rest code here
+end
+endtask
+
+task task_stop;
+begin
+//please complete the rest code here
+end
+endtask
+
+                                                   
+endmodule
