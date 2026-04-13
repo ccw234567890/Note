@@ -25,14 +25,12 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二下/Prompt/2.md",
-                "mode": "source",
-                "source": false
+                "file": "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2"
+              "icon": "lucide-file-text",
+              "title": "Lecture 6 - Embedded System Development Cycle"
             }
           }
         ],
@@ -199,6 +197,10 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/ECECS/文件/GI_Student Tasksheet_2026.pdf",
+    "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf",
+    "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf.crdownload",
+    "大二下/Prompt/2.md",
     "大二下/Prompt/1.md",
     "大二下/Prompt/0.md",
     "大二下/ECECS/文件/ECECS 2029_2005 Engineering Internship Post 2026.pdf",
@@ -209,11 +211,8 @@
     "大二下/ECECS/文件/NAE Grand Challenges Booklet.pdf",
     "大二下/ECECS/文件/L01_L02_ECECS_NEIL_CD_STS_2026.pdf",
     "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
-    "大二下/数电/PPT/8-预习资料-发学生/8-预习资料-发学生/2-Report_Format/~$port1_Format.doc",
-    "大二下/数电/PPT/UoG数电实验lab1预习/UoG数电实验lab1预习/~$Lab1.pptx",
     "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
-    "大二下/Prompt/2.md",
     "大二下/嵌入式/笔记/0.md",
     "大二下/模电/笔记/CH1.md",
     "大二下/模电/笔记/0.md",
