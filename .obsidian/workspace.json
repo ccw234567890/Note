@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf"
+                "file": "大二下/模电/PPT/BAO_Ch4_diodes20260316.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 6 - Embedded System Development Cycle"
+              "title": "BAO_Ch4_diodes20260316"
             }
           }
         ],
@@ -197,8 +197,11 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "大二下/ECECS/文件/GI_Student Tasksheet_2026.pdf",
+    "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
+    "大二下/模电/PPT/Bao_Ch3_semiconductor202600301.pdf",
+    "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf",
     "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf",
+    "大二下/ECECS/文件/GI_Student Tasksheet_2026.pdf",
     "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf.crdownload",
     "大二下/Prompt/2.md",
     "大二下/Prompt/1.md",
@@ -208,9 +211,6 @@
     "大二下/ECECS/文件/Writing Lecture Notes by Hand_from L1 (3).pdf",
     "大二下/ECECS/文件/WA_Tasksheet_2025_26.pdf",
     "大二下/ECECS/文件/UK-spec-fourth-edition (7).pdf",
-    "大二下/ECECS/文件/NAE Grand Challenges Booklet.pdf",
-    "大二下/ECECS/文件/L01_L02_ECECS_NEIL_CD_STS_2026.pdf",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
     "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/嵌入式/笔记/0.md",
