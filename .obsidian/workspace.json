@@ -25,12 +25,14 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二下/模电/PPT/BAO_Ch4_diodes20260316.pdf"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "BAO_Ch4_diodes20260316"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -197,6 +199,8 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/模电/PPT/BAO_Ch4_diodes20260316.pdf",
+    "未命名.md",
     "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
     "大二下/模电/PPT/Bao_Ch3_semiconductor202600301.pdf",
     "大二下/模电/PPT/BAO_Ch1_introduction _ 20260301.pdf",
@@ -210,7 +214,6 @@
     "大二下/ECECS/文件/Employability portfolio 25_26 Student Tasksheet 2.pdf",
     "大二下/ECECS/文件/Writing Lecture Notes by Hand_from L1 (3).pdf",
     "大二下/ECECS/文件/WA_Tasksheet_2025_26.pdf",
-    "大二下/ECECS/文件/UK-spec-fourth-edition (7).pdf",
     "大二下/嵌入式/笔记/Lab 1 Task 1 diagram.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/嵌入式/笔记/0.md",
@@ -233,7 +236,6 @@
     "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
     "大二上/Physics Ⅱ/解析/CH34 2.md",
     "大二上/Physics Ⅱ/解析/CH35 1.md",
-    "大二上/Physics Ⅱ/解析/CH35 2.md",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
