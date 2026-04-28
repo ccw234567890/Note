@@ -1,12 +1,3 @@
----
-title: "MedSpaformer: A Transferable Transformer with Multi-Granularity Token Sparsification for Medical Time Series Classification"
-citekey: ""
-doi: "10.1609/aaai.v40i33.40001"
-year: 2026
-journal: "Proceedings of the AAAI Conference on Artificial Intelligence"
-created: 2026-04-16
-tags: [zotero, paper-note]
----
 
 # MedSpaformer: A Transferable Transformer with Multi-Granularity Token Sparsification for Medical Time Series Classification
 

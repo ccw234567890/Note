@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/Π0/π₀ 模型的三种评估方式.md",
+                "file": "paper/大二下/OpenECG/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "π₀ 模型的三种评估方式"
+              "title": "outline"
             }
           }
         ],
@@ -197,25 +197,29 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "Zotero Notes/MedSpaformer-outline-2026-04-16.md",
-    "paper/大二下/Π0/实验结果.md",
+    "paper/大二下/OpenECG",
     "paper/大二下/prompt.md",
+    "paper/大二下/OpenECG/outline.md",
+    "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
+    "paper/大二下/MedSpaformer(AAAI)",
+    "Zotero Notes/MedSpaformer-outline-2026-04-16.md",
+    "paper/大二下/Π0/π₀ 模型的三种评估方式.md",
+    "paper/大二下/Π0/实验结果.md",
     "paper/大二下/ECG Benchmark & PSSM Model/outline.md",
     "paper/大二下/ECG Benchmark & PSSM Model",
     "paper/大二下/ECG Benchmark & PSSM Model/ground-truth-mse-ffd-详解.md",
     "paper/大二下/ECG Benchmark & PSSM Model/ecg四类下游任务.md",
-    "paper/大二下/EchoNext(Next)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
+    "paper/大二下/EchoNext(Nature)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
     "paper/大二下/EchoNext(Nature).md",
-    "paper/大二下/EchoNext(Next)",
-    "paper/大二下/EchoNext(Next)/details.md",
+    "paper/大二下/EchoNext(Nature)",
+    "paper/大二下/EchoNext(Nature)/details.md",
     "未命名",
     "Zotero Notes/details-2026-04-28.md",
     "assets/detecting-structural-heart-disease-from-electrocardiograms-using-ai",
     "assets",
     "paper/大二下/Π0/Experiment-Evaluation.md",
-    "paper/大二下/Π0/π₀ 模型的三种评估方式.md",
     "Zotero Notes/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计-2026-04-28.md",
     "paper/大二下/Π0",
     "paper/大二下/Π0/pi0-vision-language-action-flow-model-concepts-and-math-2025-07-18.md",
@@ -228,13 +232,9 @@
     "paper/大二下/Π0/流匹配.md",
     "Zotero Notes/动作分块架构流匹配VLA动作专家之间的关系.md",
     "paper/大二下/Zotero Notes（CRL+C)/pi0-vision-language-action-flow-model-2025-07-18.md",
-    "paper/大二下/Π0/扩散模型.md",
-    "paper/大二下/Π0/条件流匹配损失公式和时间步采样公式.md",
-    "Zotero Notes/流匹配的作用-2025-07-18.md",
     "Zotero Notes",
     "paper/大二下",
     "paper/大二上",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260316.pdf",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
