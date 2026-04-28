@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero Notes/Outline.md",
+                "file": "Zotero Notes/zero-shot-cross-embodiment-generalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "zero-shot-cross-embodiment-generalization"
             }
           }
         ],
@@ -199,6 +199,8 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-zero-shot-cross-embodiment-generalization-2026-04-16.md",
+    "Zotero Notes/zero-shot-cross-embodiment-generalization.md",
     "paper/大二下/prompt.md",
     "Zotero Notes/Outline.md",
     "paper/大二下/Π0.7",
@@ -233,8 +235,6 @@
     "paper/大二下/Π0/流匹配的作用.md",
     "paper/大二下/Π0/Π0在transformer的输入序列.md",
     "paper/大二下/Π0/Π0架构图.md",
-    "paper/大二下/Π0/KV缓存共享.md",
-    "paper/大二下/Π0/动作分块架构.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
