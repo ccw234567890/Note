@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/prompt.md",
+                "file": "paper/大二下/MEIT/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt"
+              "title": "outline"
             }
           }
         ],
@@ -197,11 +197,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "paper/大二下/MEIT",
+    "paper/大二下/prompt.md",
+    "paper/大二下/MEIT/outline.md",
+    "paper/大二下/ECG-Reasoning-Benchmark/Outline.md",
+    "未命名.md",
+    "paper/大二下/ECG-Reasoning-Benchmark",
+    "paper/大二下/ECG Benchmark & PSSM Model/ecg四类下游任务.md",
     "paper/大二下/OpenECG/outline.md",
     "paper/大二下/OpenECG",
-    "paper/大二下/prompt.md",
     "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
     "paper/大二下/MedSpaformer(AAAI)",
     "Zotero Notes/MedSpaformer-outline-2026-04-16.md",
@@ -210,7 +216,6 @@
     "paper/大二下/ECG Benchmark & PSSM Model/outline.md",
     "paper/大二下/ECG Benchmark & PSSM Model",
     "paper/大二下/ECG Benchmark & PSSM Model/ground-truth-mse-ffd-详解.md",
-    "paper/大二下/ECG Benchmark & PSSM Model/ecg四类下游任务.md",
     "paper/大二下/EchoNext(Nature)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
     "paper/大二下/EchoNext(Nature).md",
     "paper/大二下/EchoNext(Nature)",
@@ -229,11 +234,7 @@
     "paper/大二下/Π0/Π0架构图.md",
     "paper/大二下/Π0/KV缓存共享.md",
     "paper/大二下/Π0/动作分块架构.md",
-    "paper/大二下/Π0/流匹配.md",
-    "Zotero Notes/动作分块架构流匹配VLA动作专家之间的关系.md",
-    "paper/大二下/Zotero Notes（CRL+C)/pi0-vision-language-action-flow-model-2025-07-18.md",
     "Zotero Notes",
-    "paper/大二下",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
