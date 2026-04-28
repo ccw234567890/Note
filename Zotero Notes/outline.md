@@ -1,12 +1,3 @@
----
-title: "A Comprehensive Benchmark for Electrocardiogram Time-Series"
-citekey: ""
-doi: "10.1145/3746027.3754729"
-year: 2025
-journal: "Proceedings of the 33rd ACM International Conference on Multimedia"
-created: 2026-04-28
-tags: [zotero, paper-note]
----
 
 # A Comprehensive Benchmark for Electrocardiogram Time-Series
 
@@ -78,6 +69,8 @@ PSSM 在四个任务上均取得最优表现：
 ### 1. FFD（Feature-based Fréchet Distance）
 
 #### 动机
+![image.png](https://cc-407-1376569927.cos.ap-guangzhou.myqcloud.com/cc-407-1376569927/images-obsidian/202604281936818.png)
+
 传统 MSE 在 ECG 评估中存在根本性缺陷：如图 1(b) 所示，保留临床有效形态但存在微小时间偏移的生成 ECG，其 MSE 反而高于一条无意义的平直线。这是因为 ECG 具有准周期性和极值特性（P 波极小值、R 波极大值），微小偏移会导致生成波形的极值与真实波形的极值错位，人为放大 MSE。
 
 #### 定义

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/EchoNext(Next)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
-                "mode": "preview",
+                "file": "Zotero Notes/ground-truth-mse-ffd-详解.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计"
+              "title": "ground-truth-mse-ffd-详解"
             }
           }
         ],
@@ -199,10 +199,13 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "Zotero Notes/a-comprehensive-benchmark-for-electrocardiogram-time-series-outline-2026-04-28.md",
+    "Zotero Notes/outline.md",
+    "Zotero Notes/ground-truth-mse-ffd-详解.md",
+    "Zotero Notes/ecg四类下游任务.md",
+    "Zotero Notes/ecg四类下游任务.md",
+    "paper/大二下/EchoNext(Next)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
     "paper/大二下/EchoNext(Nature).md",
     "paper/大二下/EchoNext(Next)",
-    "paper/大二下/EchoNext(Next)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
     "paper/大二下/EchoNext(Next)/details.md",
     "未命名",
     "Zotero Notes/details-2026-04-28.md",
@@ -227,9 +230,6 @@
     "paper/大二下/Π0/条件流匹配损失公式和时间步采样公式.md",
     "Zotero Notes/流匹配的作用-2025-07-18.md",
     "Zotero Notes/扩散模型-2025-07-18.md",
-    "Zotero Notes/pi0-vision-language-action-flow-model-2025-07-18.md",
-    "Zotero Notes/pi0-vision-language-action-flow-model-concepts-2025-07-18.md",
-    "Zotero Notes/pi0-vision-language-action-flow-model-concepts-and-math.md",
     "Zotero Notes",
     "paper/大二下",
     "paper/大二上",
