@@ -1,12 +1,3 @@
----
-title: "Detecting structural heart disease from electrocardiograms using AI"
-citekey: ""
-doi: "10.1038/s41586-025-09227-0"
-year: 2025
-journal: "Nature"
-created: 2026-04-28
-tags: [zotero, paper-note]
----
 
 # Detecting structural heart disease from electrocardiograms using AI
 
