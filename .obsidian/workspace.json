@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/Π0/Π0架构图.md",
+                "file": "paper/大二下/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Π0架构图"
+              "title": "prompt"
             }
           }
         ],
@@ -199,9 +199,13 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-dpo-grpo-rl-2026-04-16.md",
+    "Zotero Notes/训练配方.md",
     "Zotero Notes/zero-shot-cross-embodiment-generalization.md",
-    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-zero-shot-cross-embodiment-generalization-2026-04-16.md",
     "paper/大二下/prompt.md",
+    "Zotero Notes/与Π0的对比.md",
+    "paper/大二下/Π0/Π0架构图.md",
+    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-zero-shot-cross-embodiment-generalization-2026-04-16.md",
     "Zotero Notes/Outline.md",
     "paper/大二下/Π0.7",
     "paper/大二下/MEIT/outline.md",
@@ -231,10 +235,6 @@
     "paper/大二下/Π0/Experiment-Evaluation.md",
     "Zotero Notes/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计-2026-04-28.md",
     "paper/大二下/Π0/pi0-vision-language-action-flow-model-concepts-and-math-2025-07-18.md",
-    "paper/大二下/Π0/动作分块架构流匹配VLA动作专家之间的关系-2025-07-18.md",
-    "paper/大二下/Π0/流匹配的作用.md",
-    "paper/大二下/Π0/Π0在transformer的输入序列.md",
-    "paper/大二下/Π0/Π0架构图.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
