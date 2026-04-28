@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero Notes/流匹配.md",
+                "file": "Zotero Notes/动作分块架构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "流匹配"
+              "title": "动作分块架构"
             }
           }
         ],
@@ -199,8 +199,9 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "Zotero Notes/Π0在transformer的输入序列.md",
+    "Zotero Notes/条件流匹配损失公式和时间步采样公式.md",
     "Zotero Notes/流匹配.md",
+    "Zotero Notes/Π0在transformer的输入序列.md",
     "Zotero Notes/pi0-a-vision-language-action-flow-model-for-general-robot-control-Π0在transformer的输入序列-2025-07-18.md",
     "Zotero Notes/pi0-a-vision-language-action-flow-model-for-general-robot-control-evaluation-methods-2025-07-18.md",
     "Zotero Notes/动作分块架构.md",
@@ -235,7 +236,6 @@
     "大二下/模电/笔记/CH3.md",
     "大二下/模电/笔记/CH4.md",
     "大二上/概率论/prompt/作业整理.md",
-    "大二上/Physics Ⅱ/prompt/2.md",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
