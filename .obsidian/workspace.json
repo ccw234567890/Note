@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/prompt.md",
+                "file": "paper/大二下/Π0.7/数据流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt"
+              "title": "数据流"
             }
           }
         ],
@@ -199,12 +199,14 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/Π0.7/世界模型的流匹配.md",
+    "paper/大二下/Π0.7/架构图.md",
+    "paper/大二下/Π0.7/子任务指令生成来源.md",
+    "paper/大二下/prompt.md",
     "Zotero Notes/pi0-vision-language-action-flow-model-块间注意力机制-2026-04-16.md",
     "paper/大二下/Π0/pi0-vision-language-action-flow-model-concepts-and-math-2025-07-18.md",
     "paper/大二下/Π0.7/action-expert-architecture.md",
     "paper/大二下/Π0.7/activation-h.md",
-    "paper/大二下/prompt.md",
-    "paper/大二下/Π0.7/架构图.md",
     "paper/大二下/Π0.7/vlm-and-action-expert-input-output.md",
     "paper/大二下/Π0.7/vlm-backbone.md",
     "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-vlm-and-action-expert-input-output-2026-04-16.md",
@@ -214,9 +216,7 @@
     "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-action-expert-2026-04-16.md",
     "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-子任务指令生成来源-2026-04-16.md",
     "paper/大二下/Π0/流匹配.md",
-    "paper/大二下/Π0.7/子任务指令生成来源.md",
     "paper/大二下/Π0.7/abstract.md",
-    "paper/大二下/Π0.7/世界模型的流匹配.md",
     "paper/大二下/Π0.7/评估数据-片段元数据.md",
     "paper/大二下/Π0.7/数据流.md",
     "paper/大二下/Π0.7/离散化为500步区间.md",
