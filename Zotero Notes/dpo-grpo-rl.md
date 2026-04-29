@@ -1,12 +1,3 @@
----
-title: "DPO/GRPO/RL 详解：数学原理与区别"
-citekey: ""
-doi: "10.48550/arXiv.2604.15483"
-year: 2026
-journal: ""
-created: 2026-04-16
-tags: [zotero, paper-note]
----
 
 # DPO/GRPO/RL 详解：数学原理与区别
 
