@@ -19,7 +19,7 @@ Section III 中明确描述了这一机制：
 
 #### 1. FAST Token 交叉熵损失
 
-**FAST Token** 是 π₀ 系列模型中使用的一种**离散化动作表示**技术（FAST = **F**ast **A**ction **S**upervised **T**oken，出自 π₀ 原始论文）。
+**FAST Token** 是 π₀ 系列模型中使用的一种**离散化动作表示**技术（FAST = **F**ast **A**ction **S**upervised **T**oken）。
 
 **工作原理**：
 
