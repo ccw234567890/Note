@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero Notes/abstract.md",
+                "file": "Zotero Notes/架构图.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abstract"
+              "title": "架构图"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922
+    "width": 326.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -199,15 +200,18 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/Π0/流匹配.md",
+    "Zotero Notes/架构图.md",
     "paper/大二下/prompt.md",
+    "Zotero Notes/子任务指令生成来源.md",
+    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-子任务指令生成来源-2026-04-16.md",
+    "Zotero Notes/abstract.md",
     "Zotero Notes/世界模型的流匹配.md",
     "Zotero Notes/评估数据-片段元数据.md",
     "Zotero Notes/数据流.md",
     "Zotero Notes/离散化为500步区间.md",
     "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-rl评估数据-片段元数据-2026-04-16.md",
     "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-世界模型的流匹配-2026-04-16.md",
-    "Zotero Notes/abstract.md",
-    "Zotero Notes/架构图.md",
     "Zotero Notes/Outline.md",
     "Zotero Notes/dpo-grpo-rl.md",
     "Zotero Notes/与Π0的对比.md",
@@ -226,10 +230,7 @@
     "paper/大二下/ECG Benchmark & PSSM Model/ecg四类下游任务.md",
     "paper/大二下/OpenECG/outline.md",
     "paper/大二下/OpenECG",
-    "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
     "paper/大二下/MedSpaformer(AAAI)",
-    "Zotero Notes/MedSpaformer-outline-2026-04-16.md",
-    "paper/大二下/Π0/π₀ 模型的三种评估方式.md",
     "paper/大二下/ECG Benchmark & PSSM Model",
     "paper/大二下/EchoNext(Nature)",
     "未命名",
