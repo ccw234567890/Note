@@ -1,8 +1,3 @@
----
-title: "π₀.₇ 论文详解 — 实验设计、结果与结论"
-created: 2026-04-16
-tags: [zotero, paper-note, robotics, foundation-model]
----
 
 # π₀.₇ 论文详解 — 实验设计、结果与结论
 
