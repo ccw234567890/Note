@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/Π0.7/数据流.md",
+                "file": "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据流"
+              "title": "MedSpaformer-outline"
             }
           }
         ],
@@ -199,6 +199,16 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/EchoNext(Nature)/details.md",
+    "paper/大二下/ECG-Reasoning-Benchmark/Outline.md",
+    "paper/大二下/ECG Benchmark & PSSM Model/outline.md",
+    "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
+    "paper/大二下/EchoNext(Nature)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
+    "paper/大二下/ECG Benchmark & PSSM Model/ecg四类下游任务.md",
+    "paper/大二下/MEIT/outline.md",
+    "paper/大二下/ECG Benchmark & PSSM Model/ground-truth-mse-ffd-详解.md",
+    "paper/大二下/OpenECG/outline.md",
+    "paper/大二下/Π0.7/数据流.md",
     "paper/大二下/Π0.7/世界模型的流匹配.md",
     "paper/大二下/Π0.7/架构图.md",
     "paper/大二下/Π0.7/子任务指令生成来源.md",
@@ -215,16 +225,6 @@
     "paper/大二下/Π0.7/action-expert.md",
     "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-action-expert-2026-04-16.md",
     "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-子任务指令生成来源-2026-04-16.md",
-    "paper/大二下/Π0/流匹配.md",
-    "paper/大二下/Π0.7/abstract.md",
-    "paper/大二下/Π0.7/评估数据-片段元数据.md",
-    "paper/大二下/Π0.7/数据流.md",
-    "paper/大二下/Π0.7/离散化为500步区间.md",
-    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-rl评估数据-片段元数据-2026-04-16.md",
-    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-世界模型的流匹配-2026-04-16.md",
-    "paper/大二下/Π0.7/Outline.md",
-    "paper/大二下/Π0.7/dpo-grpo-rl.md",
-    "paper/大二下/Π0.7/与Π0的对比.md",
     "paper/大二下/Π0.7",
     "paper/大二下/MEIT",
     "paper/大二下/ECG-Reasoning-Benchmark",
