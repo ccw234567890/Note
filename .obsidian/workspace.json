@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
+                "file": "Zotero Notes/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MedSpaformer-outline"
+              "title": "outline"
             }
           }
         ],
@@ -199,10 +199,14 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/prompt.md",
+    "paper/大二下/transformer-hawkes-process",
+    "Zotero Notes/outline.md",
+    "paper/大二下/Π0/pi0-vision-language-action-flow-model-块间注意力机制-2026-04-16.md",
+    "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
     "paper/大二下/EchoNext(Nature)/details.md",
     "paper/大二下/ECG-Reasoning-Benchmark/Outline.md",
     "paper/大二下/ECG Benchmark & PSSM Model/outline.md",
-    "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
     "paper/大二下/EchoNext(Nature)/detecting-structural-heart-disease-from-electrocardiograms-using-ai-实验设计.md",
     "paper/大二下/ECG Benchmark & PSSM Model/ecg四类下游任务.md",
     "paper/大二下/MEIT/outline.md",
@@ -212,8 +216,6 @@
     "paper/大二下/Π0.7/世界模型的流匹配.md",
     "paper/大二下/Π0.7/架构图.md",
     "paper/大二下/Π0.7/子任务指令生成来源.md",
-    "paper/大二下/prompt.md",
-    "Zotero Notes/pi0-vision-language-action-flow-model-块间注意力机制-2026-04-16.md",
     "paper/大二下/Π0/pi0-vision-language-action-flow-model-concepts-and-math-2025-07-18.md",
     "paper/大二下/Π0.7/action-expert-architecture.md",
     "paper/大二下/Π0.7/activation-h.md",
@@ -223,8 +225,6 @@
     "Zotero Notes/pi0-vision-language-action-flow-model-令牌分配规则-2026-04-16.md",
     "paper/大二下/Π0/令牌分配规则.md",
     "paper/大二下/Π0.7/action-expert.md",
-    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-with-emergent-capabilities-action-expert-2026-04-16.md",
-    "Zotero Notes/pi07-a-steerable-generalist-robotic-foundation-model-子任务指令生成来源-2026-04-16.md",
     "paper/大二下/Π0.7",
     "paper/大二下/MEIT",
     "paper/大二下/ECG-Reasoning-Benchmark",
@@ -232,7 +232,6 @@
     "paper/大二下/MedSpaformer(AAAI)",
     "paper/大二下/ECG Benchmark & PSSM Model",
     "paper/大二下/EchoNext(Nature)",
-    "未命名",
     "assets/detecting-structural-heart-disease-from-electrocardiograms-using-ai",
     "assets",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
