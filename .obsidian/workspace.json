@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero Notes/rlhf.md",
+                "file": "Zotero Notes/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rlhf"
+              "title": "outline"
             }
           }
         ],
@@ -199,9 +199,10 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "Zotero Notes/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-rlhf-2025-07-17.md",
-    "Zotero Notes/outline.md",
     "Zotero Notes/rlhf.md",
+    "Zotero Notes/outline.md",
+    "Zotero Notes/公式.md",
+    "Zotero Notes/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-rlhf-2025-07-17.md",
     "paper/大二下/prompt.md",
     "paper/大二下/DPO",
     "paper/大二下/MedSpaformer(AAAI)/MedSpaformer-outline.md",
@@ -226,7 +227,6 @@
     "paper/大二下/Π0.7/架构图.md",
     "paper/大二下/Π0.7/子任务指令生成来源.md",
     "paper/大二下/Π0/pi0-vision-language-action-flow-model-concepts-and-math-2025-07-18.md",
-    "paper/大二下/Π0.7/action-expert-architecture.md",
     "paper/大二下/Π0.7",
     "paper/大二下/MEIT",
     "paper/大二下/ECG-Reasoning-Benchmark",

@@ -1,12 +1,3 @@
----
-title: "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
-citekey: ""
-doi: "10.48550/arXiv.2305.18290"
-year: 2024
-journal: ""
-created: 2025-07-17
-tags: [zotero, paper-note]
----
 
 # Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 
