@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -200,15 +199,15 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "Zotero Notes/策略网络和价值网络.md",
     "paper/大二下/GRPO/outline.md",
+    "paper/大二下/DPO/ppo.md",
+    "paper/大二下/GRPO/ppo与grpo的对比.md",
+    "paper/大二下/GRPO/ppo机制.md",
+    "paper/大二下/GRPO/策略网络和价值网络.md",
     "paper/大二下/prompt.md",
     "paper/大二下/DPO/rlhf阶段二.md",
     "paper/大二下/DPO/rlhf阶段三.md",
     "paper/大二下/DPO/dpo阶段二.md",
-    "Zotero Notes/ppo机制.md",
-    "paper/大二下/DPO/ppo.md",
-    "paper/大二下/GRPO/ppo与grpo的对比.md",
     "paper/大二下/GRPO",
     "paper/大二下/DPO/rlhf中的sft阶段.md",
     "paper/大二下/DPO/DPO架构图.md",
