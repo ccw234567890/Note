@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -201,8 +200,9 @@
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
     "paper/大二下/prompt.md",
+    "paper/大二下/GRPO/ppo与grpo的对比.md",
+    "paper/大二下/GRPO/outline.md",
     "paper/大二下/DPO/ppo.md",
-    "Zotero Notes/outline.md",
     "paper/大二下/GRPO",
     "paper/大二下/DPO/dpo阶段二.md",
     "paper/大二下/DPO/rlhf阶段三.md",
@@ -227,7 +227,6 @@
     "paper/大二下/ECG Benchmark & PSSM Model/outline.md",
     "paper/大二下/ECG-Reasoning-Benchmark/Outline.md",
     "paper/大二下/EchoNext(Nature)/details.md",
-    "paper/大二下/transformer-hawkes-process/对于做ecg的启示.md",
     "paper/大二下/transformer-hawkes-process",
     "paper/大二下/Π0.7",
     "paper/大二下/MEIT",
