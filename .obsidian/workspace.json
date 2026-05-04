@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/DPO/dpo阶段二.md",
+                "file": "paper/大二下/DPO/ppo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dpo阶段二"
+              "title": "ppo"
             }
           }
         ],
@@ -201,6 +201,9 @@
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
     "paper/大二下/prompt.md",
+    "paper/大二下/DPO/ppo.md",
+    "Zotero Notes/outline.md",
+    "paper/大二下/GRPO",
     "paper/大二下/DPO/dpo阶段二.md",
     "paper/大二下/DPO/rlhf阶段三.md",
     "paper/大二下/DPO/rlhf阶段二.md",
@@ -225,8 +228,6 @@
     "paper/大二下/ECG-Reasoning-Benchmark/Outline.md",
     "paper/大二下/EchoNext(Nature)/details.md",
     "paper/大二下/transformer-hawkes-process/对于做ecg的启示.md",
-    "paper/大二下/transformer-hawkes-process/图结构.md",
-    "paper/大二下/ECG Benchmark & PSSM Model/ground-truth-mse-ffd-详解.md",
     "paper/大二下/transformer-hawkes-process",
     "paper/大二下/Π0.7",
     "paper/大二下/MEIT",
@@ -235,7 +236,6 @@
     "paper/大二下/MedSpaformer(AAAI)",
     "paper/大二下/ECG Benchmark & PSSM Model",
     "paper/大二下/EchoNext(Nature)",
-    "assets/detecting-structural-heart-disease-from-electrocardiograms-using-ai",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
