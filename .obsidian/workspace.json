@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero Notes/rlhf中的sft阶段.md",
+                "file": "Zotero Notes/rlhf阶段二.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rlhf中的sft阶段"
+              "title": "rlhf阶段二"
             }
           }
         ],
@@ -200,6 +200,7 @@
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
     "paper/大二下/prompt.md",
+    "Zotero Notes/rlhf阶段二.md",
     "Zotero Notes/rlhf中的sft阶段.md",
     "Zotero Notes/DPO架构图.md",
     "Zotero Notes/RLHF架构图.md",
@@ -225,7 +226,6 @@
     "paper/大二下/ECG Benchmark & PSSM Model/ground-truth-mse-ffd-详解.md",
     "paper/大二下/transformer-hawkes-process/数学推理详解.md",
     "paper/大二下/transformer-hawkes-process/outline.md",
-    "paper/大二下/transformer-hawkes-process/rmse.md",
     "paper/大二下/transformer-hawkes-process",
     "paper/大二下/Π0.7",
     "paper/大二下/MEIT",
