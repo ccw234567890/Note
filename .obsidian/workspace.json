@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/TFCDiff/DCT去噪.md",
+                "file": "paper/大二下/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DCT去噪"
+              "title": "prompt"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -200,15 +199,16 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/TFCDiff/DCT去噪.md",
+    "paper/TFCDiff/偶函数的傅里叶级数只有余弦项.md",
+    "paper/TFCDiff/降噪机制.md",
     "paper/大二下/prompt.md",
+    "paper/TFCDiff/Outline.md",
+    "paper/TFCDiff/与流匹配的对比.md",
     "paper/TFCDiff/补充.md",
     "paper/TFCDiff/diffusion.md",
-    "paper/TFCDiff/DCT去噪.md",
     "paper/TFCDiff/DCT系数.md",
-    "paper/TFCDiff/降噪机制.md",
-    "paper/TFCDiff/偶函数的傅里叶级数只有余弦项.md",
     "paper/TFCDiff/余弦可以转换的原因.md",
-    "paper/TFCDiff/Outline.md",
     "paper/TFCDiff/采集三种噪声.md",
     "paper/TFCDiff",
     "paper/大二下/DPO/rlhf阶段三.md",
@@ -227,7 +227,6 @@
     "paper/大二下/DPO/DPO架构图.md",
     "paper/大二下/DPO/RLHF架构图.md",
     "paper/大二下/DPO/似然函数.md",
-    "paper/大二下/DPO/最大似然估计.md",
     "paper/大二下/DPO",
     "paper/大二下/transformer-hawkes-process",
     "paper/大二下/Π0.7",
