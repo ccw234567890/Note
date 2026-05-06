@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero Notes/补充.md",
+                "file": "paper/TFCDiff/DCT去噪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "补充"
+              "title": "DCT去噪"
             }
           }
         ],
@@ -201,8 +201,8 @@
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
     "paper/大二下/prompt.md",
-    "Zotero Notes/补充.md",
-    "Zotero Notes/diffusion.md",
+    "paper/TFCDiff/补充.md",
+    "paper/TFCDiff/diffusion.md",
     "paper/TFCDiff/DCT去噪.md",
     "paper/TFCDiff/DCT系数.md",
     "paper/TFCDiff/降噪机制.md",
