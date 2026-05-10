@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/SERL/核心论点.md",
+                "file": "paper/大二下/SERL/架构图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心论点"
+              "title": "架构图"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922
+    "width": 326.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -197,10 +198,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/SERL/RL中的On-policy和Off-policy的区别.md",
+    "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
+    "paper/大二下/prompt.md",
+    "paper/大二下/SERL/架构图.md",
+    "paper/大二下/SERL/MDP.md",
+    "paper/大二下/SERL/转移随机性.md",
+    "paper/大二下/SERL/优化目标函数里面的三个随即来源.md",
+    "paper/大二下/SERL/强化学习中轨迹生成过程的形式化描述.md",
+    "paper/大二下/SERL/SAC熵的正则化.md",
+    "paper/大二下/SERL/累积回报和折扣累积回报.md",
+    "paper/大二下/SERL/几何级数.md",
     "paper/大二下/SERL/核心论点.md",
+    "paper/大二下/SERL/RL中的On-policy和Off-policy的区别.md",
     "paper/大二下/SERL/Off-policy.md",
     "paper/大二下/SERL/Outline.md",
     "paper/大二下/SAC/Soft 策略改进中KL散度的作用.md",
@@ -208,7 +219,6 @@
     "paper/大二下/SAC/Outline.md",
     "未命名",
     "paper/大二下/SAC/架构图.md",
-    "paper/大二下/prompt.md",
     "paper/大二下/SAC/流程图.md",
     "paper/大二下/DPO/RLHF架构图.md",
     "paper/大二下/DPO/DPO架构图.md",
@@ -217,21 +227,12 @@
     "paper/大二下/SAC/传统 RL 的目标是最大化期望累积奖励.md",
     "paper/大二下/SAC/采样操作是不可微的.md",
     "paper/大二下/SAC/Soft Bellman 备份算子.md",
-    "paper/大二下/SAC/最大熵 RL 的目标函数.md",
     "paper/大二下/SAC",
     "paper/大二下/SERL",
-    "paper/大二下/APT/历史多变量时间序列.md",
     "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "大二下/嵌入式/PPT/未确认 861195.crdownload",
     "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf",
     "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf.crdownload",
-    "paper/大二下/APT/数学原理.md",
-    "paper/大二下/APT/原型向量.md",
-    "paper/大二下/APT/图2+子序列.md",
-    "paper/大二下/APT/原型学习.md",
-    "paper/大二下/APT/仿射参数.md",
-    "paper/大二下/PPGFlowECG/两阶段机制.md",
-    "paper/大二下/TFCDiff/DCT去噪.md",
     "paper/大二下/ISKP",
     "paper/大二下/APT",
     "paper/大二下/PPGFlowECG",
