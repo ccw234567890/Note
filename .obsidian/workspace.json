@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/SAC/SAC解决了什么问题.md",
-                "mode": "source",
+                "file": "paper/大二下/SAC/引言开头.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAC解决了什么问题"
+              "title": "引言开头"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/SAC/Outline.md",
     "paper/大二下/SAC/SAC解决了什么问题.md",
+    "paper/大二下/SAC/引言开头.md",
+    "paper/大二下/SAC/Outline.md",
     "paper/大二下/SAC/流程图.md",
     "paper/大二下/SAC/架构图.md",
     "paper/大二下/SAC/采样操作是不可微的.md",
@@ -226,7 +227,6 @@
     "paper/大二下/SERL/累积回报和折扣累积回报.md",
     "paper/大二下/SERL/几何级数.md",
     "paper/大二下/SERL/RL中的On-policy和Off-policy的区别.md",
-    "paper/大二下/SERL/Off-policy.md",
     "未命名",
     "paper/大二下/SAC",
     "paper/大二下/SERL",
