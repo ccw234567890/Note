@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "未命名 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "未命名 1"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -200,8 +199,9 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/SAC/Q中的目标Y.md",
     "未命名.md",
+    "未命名 1.md",
+    "paper/大二下/SAC/Q中的目标Y.md",
     "paper/大二下/SAC/两种Q.md",
     "paper/大二下/SAC/三个优化目标.md",
     "paper/大二下/SAC/最大熵 RL 的目标函数.md",
@@ -225,7 +225,6 @@
     "paper/大二下/SERL/Outline.md",
     "paper/大二下/DPO/RLHF架构图.md",
     "paper/大二下/SERL/MDP.md",
-    "paper/大二下/SERL/转移随机性.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "未命名",
     "paper/大二下/SAC",
