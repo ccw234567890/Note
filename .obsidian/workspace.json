@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/SERL/末端坐标系到基坐标系.md",
-                "mode": "source",
+                "file": "paper/大二下/SAC/Q中的目标Y.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "末端坐标系到基坐标系"
+              "title": "Q中的目标Y"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -200,32 +199,32 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/SAC/两种Q.md",
+    "paper/大二下/SAC/三个优化目标.md",
+    "paper/大二下/SAC/Q中的目标Y.md",
+    "paper/大二下/SAC/最大熵 RL 的目标函数.md",
+    "paper/大二下/SAC/Outline.md",
+    "paper/大二下/SAC/SAC解决了什么问题.md",
+    "paper/大二下/SAC/引言开头.md",
+    "paper/大二下/SAC/熵.md",
+    "paper/大二下/SAC/EMA更新.md",
+    "paper/大二下/SERL/space mouse.md",
+    "paper/大二下/SERL/UTD.md",
+    "paper/大二下/SERL/累积回报和折扣累积回报.md",
+    "paper/大二下/SERL/三种奖励函数.md",
+    "paper/大二下/SERL/前向策略和后向策略.md",
+    "paper/大二下/SERL/伴随映射.md",
+    "paper/大二下/SERL/阻抗控制器.md",
     "paper/大二下/SERL/期望末端姿态.md",
     "paper/大二下/SERL/末端坐标系到基坐标系.md",
-    "paper/大二下/SERL/阻抗控制器.md",
-    "paper/大二下/SERL/伴随映射.md",
-    "paper/大二下/SERL/前向策略和后向策略.md",
-    "paper/大二下/SERL/三种奖励函数.md",
-    "paper/大二下/SERL/累积回报和折扣累积回报.md",
-    "paper/大二下/SERL/UTD.md",
-    "paper/大二下/SERL/space mouse.md",
-    "paper/大二下/SAC/Outline.md",
     "paper/大二下/SAC/SAC的策略类型.md",
     "paper/大二下/SAC/流程图.md",
-    "paper/大二下/SAC/最大熵 RL 的目标函数.md",
     "paper/大二下/SAC/累计奖励的期望.md",
     "paper/大二下/SERL/Outline.md",
-    "paper/大二下/SAC/引言开头.md",
     "paper/大二下/DPO/RLHF架构图.md",
     "paper/大二下/SERL/MDP.md",
     "paper/大二下/SERL/转移随机性.md",
     "paper/大二下/SERL/优化目标函数里面的三个随即来源.md",
-    "paper/大二下/SERL/几何级数.md",
-    "paper/大二下/SAC/Soft Bellman 备份算子.md",
-    "paper/大二下/SAC/采样操作是不可微的.md",
-    "paper/大二下/SAC/传统 RL 的目标是最大化期望累积奖励.md",
-    "paper/大二下/SAC/架构图.md",
-    "paper/大二下/SAC/SAC解决了什么问题.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "未命名",
     "paper/大二下/SAC",
