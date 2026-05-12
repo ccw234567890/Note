@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/SAC/Outline.md",
+                "file": "paper/大二下/SERL/期望末端姿态.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "期望末端姿态"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -198,10 +197,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "paper/大二下/SAC/流程图.md",
+    "paper/大二下/SERL/阻抗控制器.md",
+    "paper/大二下/SERL/期望末端姿态.md",
+    "paper/大二下/SERL/伴随映射.md",
+    "paper/大二下/SERL/前向策略和后向策略.md",
+    "paper/大二下/SERL/三种奖励函数.md",
+    "paper/大二下/SERL/累积回报和折扣累积回报.md",
+    "paper/大二下/SERL/UTD.md",
+    "paper/大二下/SERL/space mouse.md",
     "paper/大二下/SAC/Outline.md",
+    "paper/大二下/SAC/SAC的策略类型.md",
+    "paper/大二下/SAC/流程图.md",
     "paper/大二下/SAC/最大熵 RL 的目标函数.md",
     "paper/大二下/SAC/累计奖励的期望.md",
     "paper/大二下/SERL/Outline.md",
@@ -217,15 +225,6 @@
     "paper/大二下/SAC/架构图.md",
     "paper/大二下/SAC/SAC解决了什么问题.md",
     "paper/大二下/SAC/Soft 策略改进中KL散度的作用.md",
-    "paper/大二下/SERL/Off-policy.md",
-    "paper/大二下/SERL/架构图.md",
-    "Zotero Notes/sac-架构图-2025-07-18.md",
-    "paper/大二下/prompt.md",
-    "Zotero Notes/SERL-流程图-2025-04-16.md",
-    "Zotero Notes/SERL-关系图-2025-04-16.md",
-    "Zotero Notes/SERL-架构图-2025-04-16.md",
-    "SERL与VLA的关系.md",
-    "SERL解决的问题.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "未命名",
     "paper/大二下/SAC",
