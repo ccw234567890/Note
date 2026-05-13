@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "paper/大二下/ISKP/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "outline"
             }
           }
         ],
@@ -199,8 +199,10 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "未命名.md",
+    "paper/大二下/ISKP/动力系统理论.md",
     "未命名 1.md",
+    "paper/大二下/ISKP 1",
+    "未命名.md",
     "paper/大二下/SAC/Q中的目标Y.md",
     "paper/大二下/SAC/两种Q.md",
     "paper/大二下/SAC/三个优化目标.md",
@@ -224,9 +226,7 @@
     "paper/大二下/SAC/累计奖励的期望.md",
     "paper/大二下/SERL/Outline.md",
     "paper/大二下/DPO/RLHF架构图.md",
-    "paper/大二下/SERL/MDP.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
-    "未命名",
     "paper/大二下/SAC",
     "paper/大二下/SERL",
     "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
