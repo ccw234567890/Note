@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/prompt.md",
+                "file": "paper/大二下/ECGflowCMR/Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt"
+              "title": "Outline"
             }
           }
         ],
@@ -197,11 +197,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "未命名 2.md",
-    "未命名 1.md",
-    "未命名.md",
+    "paper/大二下/prompt.md",
+    "paper/大二下/ECGflowCMR/Outline.md",
+    "paper/大二下/ECGflowCMR",
+    "paper/大二下/AnyECG/Outline.md",
+    "paper/大二下/latent split+koopman dynamic/未命名 2.md",
+    "paper/大二下/latent split+koopman dynamic",
+    "paper/大二下/latent split+koopman dynamic/未命名 1.md",
+    "paper/大二下/latent split+koopman dynamic/未命名.md",
+    "paper/大二下/AnyECG",
     "paper/大二下/ISKP/动力系统理论.md",
     "paper/大二下/ISKP/outline.md",
     "paper/大二下/ISKP/Koopman算子.md",
@@ -223,18 +229,12 @@
     "paper/大二下/SERL/累积回报和折扣累积回报.md",
     "paper/大二下/SERL/三种奖励函数.md",
     "paper/大二下/SERL/前向策略和后向策略.md",
-    "paper/大二下/SERL/伴随映射.md",
-    "paper/大二下/SERL/阻抗控制器.md",
-    "paper/大二下/SERL/期望末端姿态.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "paper/大二下/SAC",
     "paper/大二下/SERL",
     "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "大二下/嵌入式/PPT/未确认 861195.crdownload",
     "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf",
-    "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf.crdownload",
-    "paper/大二下/ISKP",
-    "paper/大二下/APT",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
