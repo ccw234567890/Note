@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/ECG-R1/Outline.md",
+                "file": "paper/大二下/latent split+koopman dynamic/未命名 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "未命名 1"
             }
           }
         ],
@@ -199,8 +199,16 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/ECG-R1/解耦.md",
+    "paper/大二下/latent split+koopman dynamic/未命名.md",
+    "paper/大二下/AnyECG/MAE.md",
+    "paper/大二下/AnyECG/Outline.md",
+    "paper/大二下/AnyECG/Rhythm Quantizer.md",
+    "paper/大二下/ECGflowCMR/Outline.md",
+    "paper/大二下/ECGflowCMR/3D-VAE.md",
+    "paper/大二下/ECGflowCMR/Contribution.md",
+    "paper/ECG-R1/Contribution.md",
     "paper/ECG-R1/Outline.md",
+    "paper/ECG-R1/解耦.md",
     "paper/ECG-R1/SFT.md",
     "paper/ECG-R1",
     "paper/大二下/Π0.7/架构图.md",
@@ -209,13 +217,10 @@
     "paper/大二下/prompt.md",
     "paper/大二下/ISKP/Document.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
-    "paper/大二下/ECGflowCMR/Outline.md",
     "paper/大二下/ECGflowCMR",
-    "paper/大二下/AnyECG/Outline.md",
     "paper/大二下/latent split+koopman dynamic/未命名 2.md",
     "paper/大二下/latent split+koopman dynamic",
     "paper/大二下/latent split+koopman dynamic/未命名 1.md",
-    "paper/大二下/latent split+koopman dynamic/未命名.md",
     "paper/大二下/AnyECG",
     "paper/大二下/ISKP/动力系统理论.md",
     "paper/大二下/ISKP/outline.md",
@@ -226,11 +231,6 @@
     "paper/大二下/ISKP 1",
     "paper/大二下/SAC/Q中的目标Y.md",
     "paper/大二下/SAC/两种Q.md",
-    "paper/大二下/SAC/三个优化目标.md",
-    "paper/大二下/SAC/最大熵 RL 的目标函数.md",
-    "paper/大二下/SAC/Outline.md",
-    "paper/大二下/SAC/SAC解决了什么问题.md",
-    "paper/大二下/SAC/引言开头.md",
     "paper/大二下/SAC",
     "paper/大二下/SERL",
     "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
