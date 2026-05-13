@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/ECGflowCMR/Outline.md",
-                "mode": "source",
+                "file": "Document.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "Document"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922
+    "width": 326.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -197,10 +198,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/prompt.md",
+    "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
+    "未命名.md",
+    "Document.md",
     "paper/大二下/ECGflowCMR/Outline.md",
+    "paper/大二下/prompt.md",
     "paper/大二下/ECGflowCMR",
     "paper/大二下/AnyECG/Outline.md",
     "paper/大二下/latent split+koopman dynamic/未命名 2.md",
@@ -226,10 +230,6 @@
     "paper/大二下/SAC/EMA更新.md",
     "paper/大二下/SERL/space mouse.md",
     "paper/大二下/SERL/UTD.md",
-    "paper/大二下/SERL/累积回报和折扣累积回报.md",
-    "paper/大二下/SERL/三种奖励函数.md",
-    "paper/大二下/SERL/前向策略和后向策略.md",
-    "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "paper/大二下/SAC",
     "paper/大二下/SERL",
     "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
