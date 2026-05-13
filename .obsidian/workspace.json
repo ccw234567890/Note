@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document.md",
-                "mode": "preview",
+                "file": "paper/ECG-R1/Outline.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Document"
+              "title": "Outline"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -200,11 +199,17 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
-    "未命名.md",
-    "Document.md",
-    "paper/大二下/ECGflowCMR/Outline.md",
+    "paper/ECG-R1/解耦.md",
+    "paper/ECG-R1/Outline.md",
+    "paper/ECG-R1/SFT.md",
+    "paper/ECG-R1",
+    "paper/大二下/Π0.7/架构图.md",
+    "paper/大二下/Π0.7/Outline.md",
+    "paper/大二下/Π0/Π0架构图.md",
     "paper/大二下/prompt.md",
+    "paper/大二下/ISKP/Document.md",
+    "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
+    "paper/大二下/ECGflowCMR/Outline.md",
     "paper/大二下/ECGflowCMR",
     "paper/大二下/AnyECG/Outline.md",
     "paper/大二下/latent split+koopman dynamic/未命名 2.md",
@@ -226,15 +231,10 @@
     "paper/大二下/SAC/Outline.md",
     "paper/大二下/SAC/SAC解决了什么问题.md",
     "paper/大二下/SAC/引言开头.md",
-    "paper/大二下/SAC/熵.md",
-    "paper/大二下/SAC/EMA更新.md",
-    "paper/大二下/SERL/space mouse.md",
-    "paper/大二下/SERL/UTD.md",
     "paper/大二下/SAC",
     "paper/大二下/SERL",
     "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "大二下/嵌入式/PPT/未确认 861195.crdownload",
-    "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
