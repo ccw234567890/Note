@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/latent split+koopman dynamic/未命名 1.md",
+                "file": "paper/大二下/AnyECG/Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "Outline"
             }
           }
         ],
@@ -199,12 +199,14 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/latent split+koopman dynamic/未命名.md",
     "paper/大二下/AnyECG/MAE.md",
+    "paper/大二下/ECGflowCMR/3D-VAE.md",
+    "paper/大二下/latent split+koopman dynamic/未命名 2.md",
+    "paper/大二下/latent split+koopman dynamic/未命名 1.md",
+    "paper/大二下/latent split+koopman dynamic/未命名.md",
     "paper/大二下/AnyECG/Outline.md",
     "paper/大二下/AnyECG/Rhythm Quantizer.md",
     "paper/大二下/ECGflowCMR/Outline.md",
-    "paper/大二下/ECGflowCMR/3D-VAE.md",
     "paper/大二下/ECGflowCMR/Contribution.md",
     "paper/ECG-R1/Contribution.md",
     "paper/ECG-R1/Outline.md",
@@ -218,9 +220,7 @@
     "paper/大二下/ISKP/Document.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "paper/大二下/ECGflowCMR",
-    "paper/大二下/latent split+koopman dynamic/未命名 2.md",
     "paper/大二下/latent split+koopman dynamic",
-    "paper/大二下/latent split+koopman dynamic/未命名 1.md",
     "paper/大二下/AnyECG",
     "paper/大二下/ISKP/动力系统理论.md",
     "paper/大二下/ISKP/outline.md",
