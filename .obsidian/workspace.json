@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/2.真机RL/5.RL-100/Outline.md",
+                "file": "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,7 +199,14 @@
   },
   "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
+    "未命名.md",
     "paper/大二下/prompt.md",
+    "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
+    "paper/大二下/2.真机RL/6.ReWiND/为什么用Diffusion.md",
+    "paper/大二下/2.真机RL/6.ReWiND/高层DP和底层RL.md",
+    "paper/大二下/2.真机RL/6.ReWiND/Outline.md",
+    "paper/大二下/2.真机RL/5.RL-100/Offline和Online RL.md",
+    "paper/大二下/2.真机RL/5.RL-100/区别.md",
     "paper/大二下/2.真机RL/5.RL-100/Outline.md",
     "paper/大二下/2.真机RL/4.HIL-SERL/Outline.md",
     "paper/大二下/2.真机RL/2.RLPD/离线和在线的区别.md",
@@ -228,13 +235,6 @@
     "paper/大二下/1.ECG/ECGflowCMR/Outline.md",
     "paper/大二下/1.ECG/ECGflowCMR/Contribution.md",
     "paper/大二下/1.ECG/ECG-R1/Contribution.md",
-    "paper/大二下/1.ECG/ECG-R1/Outline.md",
-    "paper/大二下/1.ECG/ECG-R1/解耦.md",
-    "paper/大二下/1.ECG/ECG-R1/SFT.md",
-    "paper/大二下/3.Robotics/Π0.7/架构图.md",
-    "paper/大二下/3.Robotics/Π0.7/Outline.md",
-    "paper/大二下/3.Robotics/Π0/Π0架构图.md",
-    "paper/大二下/1.ECG/ISKP/Document.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
