@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/2.真机RL/1.DAgger/Outline.md",
+                "file": "paper/大二下/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "prompt"
             }
           }
         ],
@@ -199,20 +199,23 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/2.真机RL/1.DAgger/模仿学习，监督学习，iid.md",
+    "paper/大二下/2.真机RL/2.RLPD/离线和在线的区别.md",
+    "paper/大二下/2.真机RL/2.RLPD/Outline.md",
+    "未命名",
+    "paper/大二下/prompt.md",
+    "paper/大二下/2.真机RL/1.DAgger/轨迹.md",
     "paper/大二下/2.真机RL/1.DAgger/Outline.md",
+    "paper/大二下/2.真机RL/1.DAgger/模仿学习，监督学习，iid.md",
     "paper/大二下/2.真机RL/泛读顺序.md",
     "paper/大二下/3.Robotics",
     "paper/大二下/1.ECG",
     "paper/大二下/2.真机RL",
-    "paper/大二下/prompt.md",
     "paper/大二下/2.真机RL/13.SOP",
     "paper/大二下/2.真机RL/12.RL Token",
     "paper/大二下/2.真机RL/11.Recap",
     "paper/大二下/2.真机RL/10.REFINE-DP",
     "paper/大二下/2.真机RL/9.DSRL",
     "paper/大二下/2.真机RL/8.SLAC",
-    "paper/大二下/2.真机RL/7.SiLRI",
     "paper/大二下/1.ECG/AnyECG/Outline.md",
     "paper/大二下/1.ECG/AnyECG/MAE.md",
     "paper/大二下/1.ECG/ECGflowCMR/3D-VAE.md",
@@ -232,9 +235,6 @@
     "paper/大二下/1.ECG/ISKP/Document.md",
     "paper/大二下/1.ECG/ISKP/动力系统理论.md",
     "paper/大二下/1.ECG/ISKP/outline.md",
-    "paper/大二下/1.ECG/ISKP/Koopman算子.md",
-    "paper/大二下/1.ECG/ISKP/无限维函数空间.md",
-    "paper/大二下/1.ECG/ISKP/观测函数.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
