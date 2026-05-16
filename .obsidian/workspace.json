@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/2.真机RL/4.HIL-SERL/Outline.md",
+                "file": "paper/大二下/2.真机RL/5.RL-100/Outline.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,9 +197,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
     "paper/大二下/prompt.md",
+    "paper/大二下/2.真机RL/5.RL-100/Outline.md",
     "paper/大二下/2.真机RL/4.HIL-SERL/Outline.md",
     "paper/大二下/2.真机RL/2.RLPD/离线和在线的区别.md",
     "paper/大二下/2.真机RL/2.RLPD/Outline.md",
@@ -234,7 +235,6 @@
     "paper/大二下/3.Robotics/Π0.7/Outline.md",
     "paper/大二下/3.Robotics/Π0/Π0架构图.md",
     "paper/大二下/1.ECG/ISKP/Document.md",
-    "paper/大二下/1.ECG/ISKP/动力系统理论.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
