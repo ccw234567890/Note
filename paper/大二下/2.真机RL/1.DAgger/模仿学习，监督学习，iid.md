@@ -105,3 +105,28 @@
 - **强化学习**：没人教你开车，你自己上路瞎开，撞了扣分、开稳了加分，慢慢摸索出怎么开
 
 **本文 DAGGER 的定位**：它属于**模仿学习**范畴，核心创新在于通过**在线学习 + 数据集聚合**来解决监督方法在模仿学习中遇到的误差累积问题，让学习器能在**自己诱导的状态分布**下表现良好，而无需像强化学习那样从零试错。
+
+
+是的，你说得非常准确。这正是本文的核心洞见。让我从论文中引用精确的论述来支持你的理解。
+
+> However since the learner's prediction affects future input observations/states during execution of the learned policy, this violates the crucial i.i.d. assumption made by most statistical learning approaches.
+
+(Ross 等, 2010)
+
+**具体来说，这个链条是这样的：**
+
+1. **初始状态**：学习器在时间步 t 处于状态 s_t
+2. **做出预测**：学习器选择动作 a_t = π(s_t)
+3. **状态转移**：环境根据 (s_t, a_t) 转移到下一个状态 s_{t+1}
+4. **关键问题**：如果 a_t 是错误的，那么 s_{t+1} 就会是一个**专家从未演示过的状态**
+5. **恶性循环**：在这个新状态下，学习器更可能犯错，导致状态越来越偏离专家轨迹
+
+论文中给出了一个非常清晰的定量刻画：
+
+> a classifier that makes a mistake with probability ε under the distribution of states/observations encountered by the expert can make as many as T²ε mistakes in expectation over T-steps under the distribution of states the classifier itself induces
+
+(Ross 等, 2010)
+
+**用你的话来说就是**：模型一旦犯错，它**采样的训练集分布**（即它自己诱导的状态分布 d_π）就和**专家演示的分布**（d_π*）完全不同了。这就是为什么传统监督方法（在 d_π* 下训练）在模仿学习中会失败——它从未见过自己犯错后进入的那些状态。
+
+**DAGGER 的解决方案**：每次迭代用当前策略 π_i 去收集轨迹，把这些新状态加入训练集 D，然后重新训练。这样训练集就包含了学习器自己会遇到的真实状态分布，而不是仅仅依赖专家演示的分布。
