@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
+                "file": "paper/大二下/1.ECG/latent split+koopman dynamic/Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "Document"
             }
           }
         ],
@@ -197,11 +197,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 2.md",
+    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 1.md",
+    "paper/大二下/1.ECG/latent split+koopman dynamic/Document.md",
+    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名.md",
+    "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
     "未命名.md",
     "paper/大二下/prompt.md",
-    "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
     "paper/大二下/2.真机RL/6.ReWiND/为什么用Diffusion.md",
     "paper/大二下/2.真机RL/6.ReWiND/高层DP和底层RL.md",
     "paper/大二下/2.真机RL/6.ReWiND/Outline.md",
@@ -228,13 +232,9 @@
     "paper/大二下/1.ECG/AnyECG/Outline.md",
     "paper/大二下/1.ECG/AnyECG/MAE.md",
     "paper/大二下/1.ECG/ECGflowCMR/3D-VAE.md",
-    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 2.md",
-    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 1.md",
-    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名.md",
     "paper/大二下/1.ECG/AnyECG/Rhythm Quantizer.md",
     "paper/大二下/1.ECG/ECGflowCMR/Outline.md",
     "paper/大二下/1.ECG/ECGflowCMR/Contribution.md",
-    "paper/大二下/1.ECG/ECG-R1/Contribution.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
