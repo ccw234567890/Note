@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/1.ECG/第一版.md",
+                "file": "DAY3 加完人工噪声过后的性能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一版"
+              "title": "DAY3 加完人工噪声过后的性能"
             }
           }
         ],
@@ -197,10 +197,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/1.ECG/规划.md",
     "paper/大二下/1.ECG/第一版.md",
+    "DAY3 加完人工噪声过后的性能.md",
+    "paper/大二下/1.ECG/规划.md",
     "paper/大二下/1.ECG/PTB-XL数据集.md",
     "paper/大二下/2.真机RL/第一轮迭代.md",
     "paper/大二下/2.真机RL/简单的分类.md",
@@ -225,7 +226,6 @@
     "paper/大二下/3.Robotics/SAC/传统 RL 的目标是最大化期望累积奖励.md",
     "paper/大二下/3.Robotics/SAC/最大熵 RL 的目标函数.md",
     "paper/大二下/1.ECG/latent split+koopman dynamic/Document.md",
-    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 2.md",
     "未命名",
     "paper/大二下/3.Robotics",
     "paper/大二下/1.ECG",
