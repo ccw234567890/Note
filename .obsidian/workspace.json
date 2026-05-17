@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/2.真机RL/第一轮迭代.md",
+                "file": "paper/大二下/1.ECG/第一版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一轮迭代"
+              "title": "第一版"
             }
           }
         ],
@@ -197,10 +197,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
-    "paper/大二下/2.真机RL/简单的分类.md",
+    "paper/大二下/1.ECG/规划.md",
+    "paper/大二下/1.ECG/第一版.md",
+    "paper/大二下/1.ECG/PTB-XL数据集.md",
     "paper/大二下/2.真机RL/第一轮迭代.md",
+    "paper/大二下/2.真机RL/简单的分类.md",
     "paper/大二下/2.真机RL/11.Recap/Outline.md",
     "paper/大二下/prompt.md",
     "paper/大二下/2.真机RL/6.ReWiND/高层DP和底层RL.md",
@@ -221,11 +224,8 @@
     "paper/大二下/3.Robotics/SAC/熵.md",
     "paper/大二下/3.Robotics/SAC/传统 RL 的目标是最大化期望累积奖励.md",
     "paper/大二下/3.Robotics/SAC/最大熵 RL 的目标函数.md",
-    "paper/大二下/1.ECG/PTB-XL数据集.md",
     "paper/大二下/1.ECG/latent split+koopman dynamic/Document.md",
     "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 2.md",
-    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 1.md",
-    "paper/大二下/1.ECG/latent split+koopman dynamic/未命名.md",
     "未命名",
     "paper/大二下/3.Robotics",
     "paper/大二下/1.ECG",
