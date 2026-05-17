@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/prompt.md",
+                "file": "paper/大二下/2.真机RL/第一轮迭代.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt"
+              "title": "第一轮迭代"
             }
           }
         ],
@@ -199,10 +199,13 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/2.真机RL/简单的分类.md",
+    "paper/大二下/2.真机RL/第一轮迭代.md",
+    "paper/大二下/2.真机RL/11.Recap/Outline.md",
+    "paper/大二下/prompt.md",
     "paper/大二下/2.真机RL/6.ReWiND/高层DP和底层RL.md",
     "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
     "paper/大二下/2.真机RL/10.REFINE-DP/Outline.md",
-    "paper/大二下/prompt.md",
     "paper/大二下/2.真机RL/9.DSRL/扩散引导.md",
     "paper/大二下/2.真机RL/9.DSRL/扩散策略.md",
     "paper/大二下/2.真机RL/9.DSRL/Outline.md",
@@ -223,9 +226,6 @@
     "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 2.md",
     "paper/大二下/1.ECG/latent split+koopman dynamic/未命名 1.md",
     "paper/大二下/1.ECG/latent split+koopman dynamic/未命名.md",
-    "paper/大二下/2.真机RL/6.ReWiND/为什么用Diffusion.md",
-    "paper/大二下/2.真机RL/6.ReWiND/Outline.md",
-    "paper/大二下/2.真机RL/5.RL-100/Offline和Online RL.md",
     "未命名",
     "paper/大二下/3.Robotics",
     "paper/大二下/1.ECG",
