@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/2.真机RL/13.SOP/Outline.md",
+                "file": "paper/大二下/2.真机RL/13.SOP/SOP-A-Scalable-Online-Post-Training-System-for-Vision-Language-Action-Models-架构图-2026-05-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "SOP-A-Scalable-Online-Post-Training-System-for-Vision-Language-Action-Models-架构图-2026-05-18"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922
+    "width": 326.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -180,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +197,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f352105e56aa9bd9",
+  "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/prompt.md",
     "paper/大二下/2.真机RL/13.SOP/Outline.md",
+    "paper/大二下/2.真机RL/13.SOP/SOP-A-Scalable-Online-Post-Training-System-for-Vision-Language-Action-Models-架构图-2026-05-18.md",
+    "paper/大二下/prompt.md",
+    "paper/大二下/2.真机RL/Abstract.md",
+    "paper/大二下/2.真机RL/13.SOP/行为克隆的损失函数.md",
+    "paper/大二下/2.真机RL/13.SOP/云端更新逻辑.md",
+    "paper/大二下/2.真机RL/13.SOP/轨迹τ.md",
+    "paper/大二下/2.真机RL/13.SOP/域变量.md",
+    "paper/大二下/2.真机RL/13.SOP/自适应采样策略.md",
+    "paper/大二下/2.真机RL/13.SOP/on-demand.md",
+    "paper/大二下/2.真机RL/13.SOP/SOP 系统的分布式数据基础设施.md",
+    "paper/大二下/2.真机RL/13.SOP/episode和Rollout.md",
     "paper/大二下/1.ECG/DAY4结果.md",
     "paper/大二下/1.ECG/DAY4做法.md",
     "paper/大二下/1.ECG/DAY5做法.md",
@@ -215,17 +225,7 @@
     "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
     "paper/大二下/2.真机RL/10.REFINE-DP/Outline.md",
     "paper/大二下/2.真机RL/9.DSRL/扩散引导.md",
-    "paper/大二下/2.真机RL/9.DSRL/扩散策略.md",
-    "paper/大二下/2.真机RL/9.DSRL/Outline.md",
-    "paper/大二下/2.真机RL/8.SLAC/点云矩阵.md",
-    "paper/大二下/2.真机RL/8.SLAC/空间观测.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
-    "paper/大二下/2.真机RL/8.SLAC/Outline.md",
-    "paper/大二下/2.真机RL/12.RL Token/实验结果.md",
-    "paper/大二下/2.真机RL/12.RL Token/Outline.md",
-    "paper/大二下/2.真机RL/12.RL Token/RL Token 设计动机.md",
-    "paper/大二下/2.真机RL/12.RL Token/稀疏奖励.md",
-    "paper/大二下/2.真机RL/12.RL Token/RL-Token-架构图-2026-05-17.md",
     "未命名",
     "paper/大二下/3.Robotics",
     "paper/大二下/1.ECG",
