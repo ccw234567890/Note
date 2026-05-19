@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/大二下/2.真机RL/13.SOP/Outline.md",
+                "file": "paper/大二下/2.真机RL/第三轮迭代.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "第三轮迭代"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922
+    "width": 326.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -198,8 +199,12 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "paper/大二下/2.真机RL/13.SOP/on-demand.md",
+    "paper/大二下/2.真机RL/第一轮迭代.md",
+    "paper/大二下/2.真机RL/第三轮迭代.md",
+    "大二下/模电/笔记/CH1.md",
+    "paper/大二下/2.真机RL/13.SOP/图5.md",
     "paper/大二下/2.真机RL/13.SOP/Outline.md",
+    "paper/大二下/2.真机RL/13.SOP/on-demand.md",
     "paper/大二下/2.真机RL/13.SOP/SOP 系统的分布式数据基础设施.md",
     "paper/大二下/2.真机RL/13.SOP/SOP-A-Scalable-Online-Post-Training-System-for-Vision-Language-Action-Models-架构图-2026-05-18.md",
     "paper/大二下/2.真机RL/13.SOP/行为克隆的损失函数.md",
@@ -210,20 +215,16 @@
     "paper/大二下/2.真机RL/12.RL Token/Outline.md",
     "paper/大二下/2.真机RL/12.RL Token/RL Token 设计动机.md",
     "paper/大二下/2.真机RL/12.RL Token/稀疏奖励.md",
-    "paper/大二下/2.真机RL/第三轮迭代.md",
     "paper/大二下/2.真机RL/第二轮迭代.md",
-    "paper/大二下/2.真机RL/第一轮迭代.md",
     "未命名.md",
     "paper/大二下/1.ECG/反馈.md",
     "paper/大二下/1.ECG/新做法.md",
-    "paper/大二下/2.真机RL/13.SOP/图5.md",
     "paper/大二下/prompt.md",
     "paper/大二下/2.真机RL/Abstract.md",
     "paper/大二下/2.真机RL/13.SOP/云端更新逻辑.md",
     "paper/大二下/2.真机RL/13.SOP/轨迹τ.md",
     "paper/大二下/2.真机RL/13.SOP/域变量.md",
     "paper/大二下/1.ECG/DAY4结果.md",
-    "paper/大二下/1.ECG/DAY4做法.md",
     "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "未命名",
     "paper/大二下/3.Robotics",
