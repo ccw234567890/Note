@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Proposal Ⅰ.md",
+                "file": "paper/大二下/2.真机RL/Weekly Proposal Ⅰ.md",
                 "mode": "preview",
                 "source": false
               },
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "7c9024cc1b7bcc8b",
@@ -198,10 +197,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33dadaa26073b5d4",
+  "active": "f352105e56aa9bd9",
   "lastOpenFiles": [
     "paper/大二下/2.真机RL/4.HIL-SERL/Outline.md",
-    "Weekly Proposal Ⅰ.md",
+    "paper/大二下/2.真机RL/Weekly Proposal Ⅰ.md",
     "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
     "paper/大二下/2.真机RL/第三轮迭代ideas.md",
     "paper/大二下/2.真机RL/Details.md",
