@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf"
+                "file": "大二下/模电/PPT/BAO_Lec4_Ch5_MOSFET1_20260040902.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "BAO_Ch4_diodes20260317"
+              "title": "BAO_Lec4_Ch5_MOSFET1_20260040902"
             }
           }
         ],
@@ -197,13 +197,15 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "paper/大二下/1.ECG/汇报.md",
+    "paper/大二下/2.真机RL/Latent steering.md",
+    "大二下/模电/PPT/BAO_Lec4_Ch5_MOSFET1_20260040902.pdf",
+    "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
+    "大二下/模电/PPT/Bao_Lec7_Ch8_Diffrential_Amp1_2026041501.pdf",
     "大二下/模电/PPT/Bao_Lec10_review_20260512.pdf",
     "大二下/模电/PPT/Bao_Lec9_Ch10_feedback_2026051005.pdf",
-    "大二下/模电/PPT/Bao_Lec7_Ch8_Diffrential_Amp1_2026041501.pdf",
     "大二下/模电/PPT/Bao_Lec6_Ch7_IC_buildingblock2026040901.pdf",
-    "大二下/模电/PPT/BAO_Lec4_Ch5_MOSFET1_20260040902.pdf",
     "大二下/模电/PPT/BAO_Ch4_diodes20260316.pdf",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
     "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
     "大二下/模电/PPT/Bao_Ch3_semiconductor202600301.pdf",
     "大二下/模电/PPT/Microelectronic Circuits 第七版.pdf",
@@ -213,10 +215,8 @@
     "paper/大二下/2.真机RL/第三轮迭代ideas.md",
     "paper/大二下/2.真机RL/Details.md",
     "paper/大二下/2.真机RL/13.SOP/Outline.md",
-    "汇报.md",
     "paper/大二下/1.ECG/新做法.md",
     "paper/大二下/1.ECG/DAY5做法.md",
-    "未命名.md",
     "paper/大二下/2.真机RL/第一轮迭代.md",
     "paper/大二下/2.真机RL/13.SOP/图5.md",
     "paper/大二下/2.真机RL/13.SOP/on-demand.md",
@@ -232,7 +232,6 @@
     "paper/大二下/2.真机RL/12.RL Token/RL Token 设计动机.md",
     "paper/大二下/2.真机RL/12.RL Token/稀疏奖励.md",
     "paper/大二下/2.真机RL/第二轮迭代.md",
-    "大二下/嵌入式/PPT/~$Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pptx",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
