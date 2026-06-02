@@ -25,12 +25,14 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二下/模电/PPT/Bao_Lec6_Ch7_IC_buildingblock2026040901.pdf"
+                "file": "大二下/数电/笔记/0.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Bao_Lec6_Ch7_IC_buildingblock2026040901"
+              "icon": "lucide-file",
+              "title": "0"
             }
           }
         ],
@@ -197,19 +199,21 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
+    "大二下/数电/PPT/Review2026s.pptx",
+    "大二下/数电/PPT/26854a064a90fbb361091ed2ebf265a8.par.temp",
+    "大二上/马原/2/11.3.md",
+    "大二上/马原/2/第10讲｜政治经济学的理论探索和《资本论》 -专题五.md",
     "大二下/模电/PPT/BAO_Lec4_Ch5_MOSFET1_20260040902.pdf",
+    "大二下/模电/PPT/Bao_Lec6_Ch7_IC_buildingblock2026040901.pdf",
     "大二下/模电/PPT/7+曹城玮+2024300901016+第一次实验报告.pdf",
     "大二下/模电/PPT/7+曹城玮+2024300901016+第二次实验报告.pdf",
     "大二下/模电/PPT/Bao_Lec9_Ch10_feedback_2026051005.pdf",
     "大二下/模电/PPT/Microelectronic Circuits 第七版.pdf",
     "大二下/模电/PPT/Bao_Lec7_Ch8_Diffrential_Amp1_2026041501.pdf",
     "大二下/模电/PPT/Bao_Lec10_review_20260512.pdf",
-    "大二下/模电/PPT/Bao_Lec6_Ch7_IC_buildingblock2026040901.pdf",
     "paper/大二下/1.ECG/汇报.md",
     "paper/大二下/2.真机RL/Latent steering.md",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260317.pdf",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260316.pdf",
-    "大二下/模电/PPT/BAO_Ch4_diodes20260302(3).pdf",
     "paper/大二下/2.真机RL/Weekly Proposal Ⅰ.md",
     "paper/大二下/2.真机RL/4.HIL-SERL/Outline.md",
     "paper/大二下/2.真机RL/7.SiLRI/Outline.md",
@@ -230,9 +234,6 @@
     "paper/大二下/2.真机RL/12.RL Token/实验结果.md",
     "paper/大二下/2.真机RL/12.RL Token/RL-Token-架构图-2026-05-17.md",
     "paper/大二下/2.真机RL/12.RL Token/Outline.md",
-    "paper/大二下/2.真机RL/12.RL Token/RL Token 设计动机.md",
-    "paper/大二下/2.真机RL/12.RL Token/稀疏奖励.md",
-    "paper/大二下/2.真机RL/第二轮迭代.md",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
