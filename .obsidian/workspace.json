@@ -25,14 +25,12 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二下/数电/笔记/0.md",
-                "mode": "source",
-                "source": false
+                "file": "大二下/数电/PPT/Review2026s.pdf"
               },
-              "icon": "lucide-file",
-              "title": "0"
+              "icon": "lucide-file-text",
+              "title": "Review2026s"
             }
           }
         ],
@@ -199,6 +197,9 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/数电/笔记/0.md",
+    "大二下/数电/PPT/Review2026s.pdf",
+    "大二下/数电/PPT/~$Review2026s.pptx",
     "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
     "大二下/数电/PPT/Review2026s.pptx",
     "大二下/数电/PPT/26854a064a90fbb361091ed2ebf265a8.par.temp",
@@ -210,8 +211,6 @@
     "大二下/模电/PPT/7+曹城玮+2024300901016+第二次实验报告.pdf",
     "大二下/模电/PPT/Bao_Lec9_Ch10_feedback_2026051005.pdf",
     "大二下/模电/PPT/Microelectronic Circuits 第七版.pdf",
-    "大二下/模电/PPT/Bao_Lec7_Ch8_Diffrential_Amp1_2026041501.pdf",
-    "大二下/模电/PPT/Bao_Lec10_review_20260512.pdf",
     "paper/大二下/1.ECG/汇报.md",
     "paper/大二下/2.真机RL/Latent steering.md",
     "paper/大二下/2.真机RL/Weekly Proposal Ⅰ.md",
