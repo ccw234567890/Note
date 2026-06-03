@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/数电/PPT/Review2026s.pdf"
+                "file": "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Review2026s"
+              "title": "Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing"
             }
           }
         ],
@@ -197,20 +197,22 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/嵌入式/PPT/Lecture 12 - Energy Efficient Embedded Systems - UPLOAD.pdf",
+    "大二下/嵌入式/PPT/Lecture 11 - Modular Programming - UPLOAD.pdf",
+    "大二下/嵌入式/PPT/Lecture 12 - Energy Efficient Embedded Systems - UPLOAD.pdf.crdownload",
+    "大二下/嵌入式/PPT/Lecture 11 - Modular Programming - UPLOAD.pdf.crdownload",
+    "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
+    "大二下/嵌入式/PPT/Lecture 8 - Developing Embedded System Software - Part 2.pdf",
+    "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf",
+    "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf",
+    "大二下/嵌入式/PPT/Lecture 5 - ARM ISA and Assembly Programming.pdf",
+    "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
+    "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment - 副本.pdf",
+    "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment.pdf",
     "大二下/数电/笔记/0.md",
-    "大二下/数电/PPT/Review2026s.pdf",
-    "大二下/数电/PPT/~$Review2026s.pptx",
     "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
-    "大二下/数电/PPT/Review2026s.pptx",
-    "大二下/数电/PPT/26854a064a90fbb361091ed2ebf265a8.par.temp",
     "大二上/马原/2/11.3.md",
     "大二上/马原/2/第10讲｜政治经济学的理论探索和《资本论》 -专题五.md",
-    "大二下/模电/PPT/BAO_Lec4_Ch5_MOSFET1_20260040902.pdf",
-    "大二下/模电/PPT/Bao_Lec6_Ch7_IC_buildingblock2026040901.pdf",
-    "大二下/模电/PPT/7+曹城玮+2024300901016+第一次实验报告.pdf",
-    "大二下/模电/PPT/7+曹城玮+2024300901016+第二次实验报告.pdf",
-    "大二下/模电/PPT/Bao_Lec9_Ch10_feedback_2026051005.pdf",
-    "大二下/模电/PPT/Microelectronic Circuits 第七版.pdf",
     "paper/大二下/1.ECG/汇报.md",
     "paper/大二下/2.真机RL/Latent steering.md",
     "paper/大二下/2.真机RL/Weekly Proposal Ⅰ.md",
@@ -232,8 +234,6 @@
     "paper/大二下/2.真机RL/13.SOP/episode和Rollout.md",
     "paper/大二下/2.真机RL/12.RL Token/实验结果.md",
     "paper/大二下/2.真机RL/12.RL Token/RL-Token-架构图-2026-05-17.md",
-    "paper/大二下/2.真机RL/12.RL Token/Outline.md",
-    "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
