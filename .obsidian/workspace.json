@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pdf"
+                "file": "大二下/模电/PPT/BAO_Lec4_Ch5_MOSFET1_20260040902.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing"
+              "title": "BAO_Lec4_Ch5_MOSFET1_20260040902"
             }
           }
         ],
@@ -197,6 +197,9 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/模电/PPT/7+曹城玮+2024300901016+第四次实验报告.pdf",
+    "大二下/模电/PPT/7+曹城玮+2024300901016+第三次实验报告.pdf",
+    "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pdf",
     "大二下/嵌入式/PPT/Lecture 12 - Energy Efficient Embedded Systems - UPLOAD.pdf",
     "大二下/嵌入式/PPT/Lecture 11 - Modular Programming - UPLOAD.pdf",
     "大二下/嵌入式/PPT/Lecture 12 - Energy Efficient Embedded Systems - UPLOAD.pdf.crdownload",
@@ -206,9 +209,6 @@
     "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf",
     "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf",
     "大二下/嵌入式/PPT/Lecture 5 - ARM ISA and Assembly Programming.pdf",
-    "大二下/嵌入式/PPT/Lecture 4 - IRQ Handlers and Digital-to-Analogue Converters (HN version, DRAFT).pdf",
-    "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment - 副本.pdf",
-    "大二下/嵌入式/PPT/Lecture 4 - Embedded System Implementation - Formative assessment.pdf",
     "大二下/数电/笔记/0.md",
     "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
     "大二上/马原/2/11.3.md",
