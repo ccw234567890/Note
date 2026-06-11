@@ -1,0 +1,142 @@
+#include "mbed.h"
+
+/*
+ * This program uses an interrupt button to trigger temperature readings
+ * from a TMP102 temperature sensor through I2C.
+ * The TMP102 is first placed in shutdown mode to reduce power consumption.
+ * When the button connected to A6 is pressed, the interrupt service routine
+ * sets a flag. The main loop then reads the sensor temperature, converts the
+ * raw value into Celsius, and prints the result.
+ */
+
+#define TMP102_I2C_ADDRESS 0x90
+#define TMP102_SCALE_NUMERATOR 625
+
+I2C temperatureSensor(D0, D1);        // D0 is SDA and D1 is SCL for I2C communication
+InterruptIn triggerButton(A6);        // Push button input connected to pin A6
+
+volatile bool temperatureRequestFlag = false;
+int buttonReadingCounter = 0;
+
+void handleButtonPress()
+{
+    // Set a flag when the button interrupt occurs
+    temperatureRequestFlag = true;
+}
+
+void placeSensorInShutdownMode()
+{
+    char shutdownCommand[3];
+
+    shutdownCommand[0] = 0x01;   // Select the TMP102 configuration register
+    shutdownCommand[1] = 0x61;   // Set the shutdown bit to enable shutdown mode
+    shutdownCommand[2] = 0xA0;   // Keep the remaining configuration bits unchanged
+
+    // Write the shutdown configuration to the TMP102 sensor
+    int shutdownStatus = temperatureSensor.write(
+        TMP102_I2C_ADDRESS,
+        shutdownCommand,
+        3
+    );
+
+    if (shutdownStatus == 0) {
+        printf("TMP102 shutdown mode has been enabled.\n");
+    } else {
+        printf("Failed to configure TMP102 shutdown mode. Error code: %d\n", shutdownStatus);
+    }
+}
+
+bool getRawTemperatureReading(int *rawTemperatureValue)
+{
+    char temperatureRegisterCommand[1];
+    char sensorTemperatureBytes[2];
+
+    temperatureRegisterCommand[0] = 0x00;   // Select the TMP102 temperature register
+
+    // Try the I2C write and read process up to three times
+    for (int retryIndex = 0; retryIndex < 3; retryIndex++) {
+        int registerWriteStatus = temperatureSensor.write(
+            TMP102_I2C_ADDRESS,
+            temperatureRegisterCommand,
+            1
+        );
+
+        if (registerWriteStatus != 0) {
+            ThisThread::sleep_for(50ms);
+            continue;
+        }
+
+        int temperatureReadStatus = temperatureSensor.read(
+            TMP102_I2C_ADDRESS,
+            sensorTemperatureBytes,
+            2
+        );
+
+        if (temperatureReadStatus != 0) {
+            ThisThread::sleep_for(50ms);
+            continue;
+        }
+
+        // Combine two sensor bytes into a 12-bit raw TMP102 temperature value
+        *rawTemperatureValue =
+            ((int)sensorTemperatureBytes[0] << 4) |
+            ((int)sensorTemperatureBytes[1] >> 4);
+
+        return true;
+    }
+
+    return false;
+}
+
+void displayTemperatureFromRawValue(int rawTemperatureValue)
+{
+    /*
+     * TMP102 temperature resolution is 0.0625 degrees Celsius.
+     * This code avoids floating point output by using:
+     * 0.0625 = 625 / 10000.
+     */
+    int temperatureScaledBy10000 = rawTemperatureValue * TMP102_SCALE_NUMERATOR;
+
+    int wholePart = temperatureScaledBy10000 / 10000;
+    int fractionalPart = temperatureScaledBy10000 % 10000;
+
+    printf("%d.%04d", wholePart, fractionalPart);
+}
+
+int main()
+{
+    // Use 100 kHz I2C speed for more stable communication in the lab
+    temperatureSensor.frequency(100000);
+
+    printf("Starting Task 5: interrupt-based temperature reading.\n");
+
+    // Put the TMP102 into shutdown mode before waiting for button input
+    placeSensorInShutdownMode();
+
+    triggerButton.mode(PullDown);          // Use internal pull-down resistor
+    triggerButton.rise(&handleButtonPress); // Call ISR on rising edge
+
+    printf("Press the button to take a temperature reading.\n");
+
+    while (true) {
+        if (temperatureRequestFlag) {
+            temperatureRequestFlag = false;
+
+            int currentRawTemperature = 0;
+
+            if (getRawTemperatureReading(&currentRawTemperature)) {
+                printf("Button temperature reading number %d = ", buttonReadingCounter);
+                displayTemperatureFromRawValue(currentRawTemperature);
+                printf("\n");
+
+                buttonReadingCounter++;
+            } else {
+                printf("Temperature reading failed after three attempts.\n");
+            }
+
+            ThisThread::sleep_for(300ms);   // Simple debounce delay
+        }
+
+        ThisThread::sleep_for(20ms);
+    }
+}

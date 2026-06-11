@@ -1,0 +1,124 @@
+#include "mbed.h"
+
+/*
+ * This program uses I2C to communicate with a TMP102 temperature sensor.
+ * The sensor is configured first, then the program reads the temperature
+ * ten times, prints each valid reading, and calculates the average temperature.
+ * Integer conversion is used to display the Celsius value with four decimal places.
+ */
+
+#define TMP102_I2C_ADDRESS 0x90
+#define TMP102_CONVERSION_NUMERATOR 625
+
+I2C temperatureSensor(D0, D1);   // D0 is SDA and D1 is SCL for the I2C bus
+
+void configureTemperatureSensor()
+{
+    char sensorConfiguration[3];
+
+    sensorConfiguration[0] = 0x01;   // Select the TMP102 configuration register
+    sensorConfiguration[1] = 0x60;   // First byte of the configuration setting
+    sensorConfiguration[2] = 0xA0;   // Second byte of the configuration setting
+
+    temperatureSensor.write(TMP102_I2C_ADDRESS, sensorConfiguration, 3);
+}
+
+bool readRawTemperatureValue(int *rawTemperatureValue)
+{
+    char temperatureRegisterPointer[1];
+    char receivedTemperatureBytes[2];
+
+    temperatureRegisterPointer[0] = 0x00;   // Select the temperature register
+
+    // Send the register pointer to the TMP102 sensor
+    int pointerWriteStatus = temperatureSensor.write(
+        TMP102_I2C_ADDRESS,
+        temperatureRegisterPointer,
+        1
+    );
+
+    if (pointerWriteStatus != 0) {
+        printf("Failed to select temperature register. Error code: %d\n", pointerWriteStatus);
+        return false;
+    }
+
+    // Read two bytes of temperature data from the sensor
+    int temperatureReadStatus = temperatureSensor.read(
+        TMP102_I2C_ADDRESS,
+        receivedTemperatureBytes,
+        2
+    );
+
+    if (temperatureReadStatus != 0) {
+        printf("Failed to read temperature data. Error code: %d\n", temperatureReadStatus);
+        return false;
+    }
+
+    // Combine the two received bytes into a 12-bit raw temperature value
+    *rawTemperatureValue =
+        ((int)receivedTemperatureBytes[0] << 4) |
+        ((int)receivedTemperatureBytes[1] >> 4);
+
+    return true;
+}
+
+void printTemperatureInCelsius(const char *messageLabel, int rawTemperatureValue)
+{
+    /*
+     * The TMP102 sensor resolution is 0.0625 degrees Celsius.
+     * To avoid using floating point calculation:
+     * 0.0625 = 625 / 10000.
+     */
+    int temperatureScaledBy10000 = rawTemperatureValue * TMP102_CONVERSION_NUMERATOR;
+
+    int wholeNumberPart = temperatureScaledBy10000 / 10000;
+    int decimalNumberPart = temperatureScaledBy10000 % 10000;
+
+    printf("%s%d.%04d\n", messageLabel, wholeNumberPart, decimalNumberPart);
+}
+
+int main()
+{
+    // Set the I2C communication speed to 100 kHz for stable lab testing
+    temperatureSensor.frequency(100000);
+
+    // Configure the TMP102 sensor before starting temperature measurements
+    configureTemperatureSensor();
+
+    printf("Starting Task 2: average temperature measurement...\n");
+
+    while (true) {
+        int totalRawTemperature = 0;
+        int successfulReadingCount = 0;
+
+        // Take ten temperature readings before calculating the average value
+        for (int readingIndex = 0; readingIndex < 10; readingIndex++) {
+            int currentRawTemperature = 0;
+
+            if (readRawTemperatureValue(&currentRawTemperature)) {
+                totalRawTemperature += currentRawTemperature;
+                successfulReadingCount++;
+
+                printf("Temperature reading number %d = ", readingIndex);
+                printTemperatureInCelsius("", currentRawTemperature);
+            } else {
+                printf("Temperature reading number %d failed.\n", readingIndex);
+            }
+
+            ThisThread::sleep_for(1000ms);
+        }
+
+        if (successfulReadingCount > 0) {
+            int averageRawTemperature = totalRawTemperature / successfulReadingCount;
+
+            printf("Average temperature is = ");
+            printTemperatureInCelsius("", averageRawTemperature);
+        } else {
+            printf("Average temperature could not be calculated.\n");
+        }
+
+        printf("-----------------------------\n");
+
+        ThisThread::sleep_for(3000ms);
+    }
+}

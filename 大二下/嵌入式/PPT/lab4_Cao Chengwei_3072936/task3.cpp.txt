@@ -1,0 +1,51 @@
+#include "mbed.h"
+
+/*
+ * This program communicates with the TMP102 temperature sensor through I2C.
+ * It changes the sensor configuration so that the TMP102 enters shutdown mode.
+ * After shutdown mode is enabled, the program repeatedly prints a message
+ * reminding the user to measure the current consumption of the sensor.
+ */
+
+#define TMP102_I2C_ADDRESS 0x90
+
+I2C temperatureSensor(D0, D1);   // D0 is used as SDA and D1 is used as SCL
+
+void enableTmp102ShutdownMode()
+{
+    char shutdownConfiguration[3];
+
+    shutdownConfiguration[0] = 0x01;   // Select the TMP102 configuration register
+    shutdownConfiguration[1] = 0x61;   // Set the shutdown bit to enable shutdown mode
+    shutdownConfiguration[2] = 0xA0;   // Keep the remaining configuration settings unchanged
+
+    // Send the shutdown configuration data to the TMP102 sensor
+    int configurationStatus = temperatureSensor.write(
+        TMP102_I2C_ADDRESS,
+        shutdownConfiguration,
+        3
+    );
+
+    if (configurationStatus == 0) {
+        printf("TMP102 shutdown mode has been enabled.\n");
+    } else {
+        printf("TMP102 configuration failed. Error code: %d\n", configurationStatus);
+    }
+}
+
+int main()
+{
+    // Set the I2C bus speed to 100 kHz for stable lab testing
+    temperatureSensor.frequency(100000);
+
+    printf("Starting Task 3: TMP102 shutdown mode test...\n");
+
+    // Configure the TMP102 sensor to enter shutdown mode
+    enableTmp102ShutdownMode();
+
+    while (true) {
+        printf("TMP102 is currently in shutdown mode. Please measure the current now.\n");
+
+        ThisThread::sleep_for(3000ms);
+    }
+}

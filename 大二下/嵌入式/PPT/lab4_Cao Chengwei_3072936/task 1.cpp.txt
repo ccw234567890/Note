@@ -1,0 +1,69 @@
+#include "mbed.h"
+
+/*
+ * This program communicates with a TMP102 temperature sensor through I2C.
+ * The sensor is first configured to operate in continuous conversion mode.
+ * The program then repeatedly reads the temperature register, converts the
+ * raw sensor data into Celsius, and prints the result once every second.
+ */
+
+#define TMP102_I2C_ADDRESS 0x90
+#define CELSIUS_CONVERSION_STEP 0.0625f
+#define TEMPERATURE_READ_INTERVAL 1000ms
+
+I2C temperatureSensor(D0, D1);   // D0 is SDA and D1 is SCL for the I2C connection
+
+void setContinuousConversionMode()
+{
+    char configurationCommand[3];
+
+    configurationCommand[0] = 0x01;   // Select the TMP102 configuration register
+    configurationCommand[1] = 0x60;   // First configuration byte for continuous mode
+    configurationCommand[2] = 0xA0;   // Second configuration byte for continuous mode
+
+    temperatureSensor.write(TMP102_I2C_ADDRESS, configurationCommand, 3);
+}
+
+void selectTemperatureRegister()
+{
+    char registerPointer[1];
+
+    registerPointer[0] = 0x00;   // Select the temperature register
+    temperatureSensor.write(TMP102_I2C_ADDRESS, registerPointer, 1);
+}
+
+float readTemperatureInCelsius()
+{
+    char sensorData[2];
+
+    // Read two bytes of temperature data from the TMP102 sensor
+    temperatureSensor.read(TMP102_I2C_ADDRESS, sensorData, 2);
+
+    // Combine the two received bytes into a 12-bit raw temperature value
+    int rawTemperatureValue = (sensorData[0] << 4) | (sensorData[1] >> 4);
+
+    // Convert the raw sensor value into degrees Celsius
+    float temperatureCelsius = rawTemperatureValue * CELSIUS_CONVERSION_STEP;
+
+    return temperatureCelsius;
+}
+
+int main()
+{
+    // Set the I2C bus speed to 400 kHz
+    temperatureSensor.frequency(400000);
+
+    // Configure the sensor and prepare it for temperature readings
+    setContinuousConversionMode();
+    selectTemperatureRegister();
+
+    printf("Starting TMP102 temperature measurements...\n");
+
+    while (true) {
+        float currentTemperature = readTemperatureInCelsius();
+
+        printf("Current temperature: %.4f Celsius\n", currentTemperature);
+
+        ThisThread::sleep_for(TEMPERATURE_READ_INTERVAL);
+    }
+}

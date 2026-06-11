@@ -1,0 +1,52 @@
+#include "mbed.h"
+
+/*
+ * This program communicates with the TMP102 temperature sensor through I2C.
+ * It configures the TMP102 to run in continuous conversion mode, which is the
+ * normal operating mode of the sensor. After the configuration is complete,
+ * the program repeatedly prints a message so that the current consumption can
+ * be measured during normal operation.
+ */
+
+#define TMP102_I2C_ADDRESS 0x90
+
+I2C temperatureSensor(D0, D1);   // D0 is SDA and D1 is SCL for the I2C connection
+
+void enableContinuousConversionMode()
+{
+    char normalModeConfiguration[3];
+
+    normalModeConfiguration[0] = 0x01;   // Select the TMP102 configuration register
+    normalModeConfiguration[1] = 0x60;   // Clear the shutdown bit to enable continuous mode
+    normalModeConfiguration[2] = 0xA0;   // Keep the remaining configuration bits unchanged
+
+    // Send the continuous mode configuration command to the TMP102 sensor
+    int configurationResult = temperatureSensor.write(
+        TMP102_I2C_ADDRESS,
+        normalModeConfiguration,
+        3
+    );
+
+    if (configurationResult == 0) {
+        printf("TMP102 continuous conversion mode has been enabled.\n");
+    } else {
+        printf("TMP102 configuration failed. Error code: %d\n", configurationResult);
+    }
+}
+
+int main()
+{
+    // Set the I2C bus speed to 100 kHz for stable lab measurement
+    temperatureSensor.frequency(100000);
+
+    printf("Starting Task 4: normal mode current measurement...\n");
+
+    // Configure the TMP102 sensor to operate in normal continuous mode
+    enableContinuousConversionMode();
+
+    while (true) {
+        printf("TMP102 is currently in continuous mode. Please measure the current now.\n");
+
+        ThisThread::sleep_for(3000ms);
+    }
+}
