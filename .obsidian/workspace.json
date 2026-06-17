@@ -25,12 +25,14 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "大二下/数电/PPT/Review2026s.pdf"
+                "file": "大二下/Prompt/0.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Review2026s"
+              "icon": "lucide-file",
+              "title": "0"
             }
           }
         ],
@@ -197,6 +199,10 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/Prompt/2.md",
+    "大二下/Prompt/1.md",
+    "大二下/Prompt/0.md",
+    "大二下/数电/PPT/Review2026s.pdf",
     "大二下/模电/PPT/演示文稿1.pdf",
     "大二下/模电/PPT/初稿.pdf",
     "大二下/ECECS/文件/ECECS_2026_GpPres_St_Instructions.pdf",
@@ -206,8 +212,6 @@
     "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task3.cpp.txt",
     "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task2.cpp.txt",
     "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task 1.cpp.txt",
-    "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/lab4_Cao Chengwei_3072936.docx",
-    "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/数电/笔记/0.md",
     "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
@@ -232,8 +236,6 @@
     "paper/大二下/2.真机RL/13.SOP/行为克隆的损失函数.md",
     "paper/大二下/2.真机RL/13.SOP/自适应采样策略.md",
     "paper/大二下/2.真机RL/13.SOP/episode和Rollout.md",
-    "paper/大二下/2.真机RL/12.RL Token/实验结果.md",
-    "paper/大二下/2.真机RL/12.RL Token/RL-Token-架构图-2026-05-17.md",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
