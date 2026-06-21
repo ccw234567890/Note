@@ -25,14 +25,12 @@
             "id": "33dadaa26073b5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大二下/Prompt/0.md",
-                "mode": "source",
-                "source": false
+                "file": "大二下/嵌入式/PPT/Lecture 12 - Energy Efficient Embedded Systems - UPLOAD.pdf"
               },
-              "icon": "lucide-file",
-              "title": "0"
+              "icon": "lucide-file-text",
+              "title": "Lecture 12 - Energy Efficient Embedded Systems - UPLOAD"
             }
           }
         ],
@@ -199,20 +197,21 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
+    "大二下/模电/07+曹城玮+2024300901016+chapter8&10.pdf",
+    "大二下/模电/Homework 10_202606202339_31640.pdf",
+    "大二下/模电/第四次作业+曹城玮+2024300901016.pdf",
+    "大二下/模电/第四次作业+曹城玮+2024300901016.pdf.crdownload",
+    "大二下/模电/第二次作业+曹城玮+2024300901016.pdf",
+    "大二下/模电/Homework 2_202606202236_52479.pdf",
+    "大二下/嵌入式/PPT/UESTC 2004 Project Marking Scheme (for Students).pdf",
+    "大二下/嵌入式/PPT/Lecture 8 - Developing Embedded System Software - Part 2.pdf",
+    "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pdf",
+    "大二下/嵌入式/PPT/Lecture 11 - Modular Programming - UPLOAD.pdf",
+    "大二下/嵌入式/PPT/Lecture 12 - Energy Efficient Embedded Systems - UPLOAD.pdf",
+    "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
+    "大二下/Prompt/0.md",
     "大二下/Prompt/2.md",
     "大二下/Prompt/1.md",
-    "大二下/Prompt/0.md",
-    "大二下/数电/PPT/Review2026s.pdf",
-    "大二下/模电/PPT/演示文稿1.pdf",
-    "大二下/模电/PPT/初稿.pdf",
-    "大二下/ECECS/文件/ECECS_2026_GpPres_St_Instructions.pdf",
-    "大二下/ECECS/文件/ECECS_2026_GpPres_St_Instructions.pdf.crdownload",
-    "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task5.cpp.txt",
-    "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task4.cpp.txt",
-    "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task3.cpp.txt",
-    "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task2.cpp.txt",
-    "大二下/嵌入式/PPT/lab4_Cao Chengwei_3072936/task 1.cpp.txt",
-    "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/数电/笔记/0.md",
     "大二上/马原/2/第11讲｜马克思劳动价值论及其当代价值 -专题五.md",
     "大二上/马原/2/11.3.md",
@@ -235,7 +234,6 @@
     "paper/大二下/2.真机RL/13.SOP/SOP-A-Scalable-Online-Post-Training-System-for-Vision-Language-Action-Models-架构图-2026-05-18.md",
     "paper/大二下/2.真机RL/13.SOP/行为克隆的损失函数.md",
     "paper/大二下/2.真机RL/13.SOP/自适应采样策略.md",
-    "paper/大二下/2.真机RL/13.SOP/episode和Rollout.md",
     "大二上/EFES B/Presentation/Wacton,_Power_lines_-_geograph.org.uk_-_7965897.jpg",
     "大二上/EFES B/Presentation/Faraday_emf_experiment.svg.png",
     "大二上/大物实验 Ⅱ/5.电位器/thermal_emf_plot.png",
