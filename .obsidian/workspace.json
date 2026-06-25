@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "大二下/模电/UESTC2005-UESTCHN2006_1_Fundamentals of Analogue Circuits_202504.pdf"
+                "file": "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "UESTC2005-UESTCHN2006_1_Fundamentals of Analogue Circuits_202504"
+              "title": "Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing"
             }
           }
         ],
@@ -197,17 +197,17 @@
   },
   "active": "33dadaa26073b5d4",
   "lastOpenFiles": [
-    "大二下/数电/UESTC2001-UESTCHN2001_1_Application and Design of Digital Logic_202504.pdf",
-    "大二下/数电/UESTC2001-UESTCHN2001_1_Application and Design of Digital Logic_202504.pdf.crdownload",
-    "大二下/嵌入式/PPT/Lecture 2 - ARM Processors (HN version).pdf",
-    "大二下/模电/UESTC2005-UESTCHN2006_1_Fundamentals of Analogue Circuits_202504.pdf",
-    "大二下/模电/UESTC2005-UESTCHN2006_1_Fundamentals of Analogue Circuits_202504.pdf.crdownload",
-    "大二下/嵌入式/PPT/Lecture 1 - Course Introduction and Refresher (HN Version).pdf",
+    "大二下/嵌入式/PPT/Lecture 11 - Modular Programming - UPLOAD.pdf",
+    "大二下/嵌入式/PPT/Lecture 12 - Energy Efficient Embedded Systems - UPLOAD.pdf",
     "大二下/嵌入式/PPT/Lecture 6 - Embedded System Development Cycle.pdf",
     "大二下/嵌入式/PPT/Lecture 7 - Testing and Debugging.pdf",
     "大二下/嵌入式/PPT/Lecture 8 - Developing Embedded System Software - Part 2.pdf",
     "大二下/嵌入式/PPT/Lecture 10 - Embedded System Implementation - Serial Peripheral Interface (SPI) Sensor Interfacing.pdf",
-    "大二下/嵌入式/PPT/Lecture 11 - Modular Programming - UPLOAD.pdf",
+    "大二下/嵌入式/PPT/Lecture 5 - ARM ISA and Assembly Programming.pdf",
+    "大二下/模电/UESTC2005-UESTCHN2006_1_Fundamentals of Analogue Circuits_202504.pdf",
+    "大二下/数电/UESTC2001-UESTCHN2001_1_Application and Design of Digital Logic_202504.pdf",
+    "大二下/数电/UESTC2001-UESTCHN2001_1_Application and Design of Digital Logic_202504.pdf.crdownload",
+    "大二下/嵌入式/PPT/Lecture 2 - ARM Processors (HN version).pdf",
     "大二下/嵌入式/PPT/nucleo_l432kc_2017_10_09.png",
     "大二下/Prompt/0.md",
     "大二下/Prompt/2.md",
